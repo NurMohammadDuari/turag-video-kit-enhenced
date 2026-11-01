@@ -1,0 +1,1928 @@
+{
+  "provenance": "Curated visual observations from all 11 newly decoded two-second overview sheets covering 0–636s. All 19,115 frames are computationally fingerprinted and indexed. This is an observational reconstruction, not recovered original source code.",
+  "timing_warning": "Old reference/video2/contact_sheets labels are offset from actual source presentation times. Use the new reference/analysis/overview and frames.csv as authoritative timing evidence. Scene boundaries are approximate editorial estimates; start/end aliases are provided for reconstruction, not a claim of exact original cuts.",
+  "scenes": [
+    {
+      "id": "ref_001",
+      "start_approx": 0,
+      "end_approx": 5,
+      "scene": "night_office_title",
+      "layout": "Navy office with rows of seated workers; skyline window grid; hanging EXIT sign. Large cream Bengali headline upper-left, final word vermilion.",
+      "props": [
+        "seated workers",
+        "desks",
+        "monitors",
+        "skyline",
+        "hanging sign"
+      ],
+      "observed_or_inferred_motion": "headline reveal; fine grain; small window lights",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 0,
+      "end": 5,
+      "reference_frame": 75,
+      "reference_image": "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+    },
+    {
+      "id": "ref_002",
+      "start_approx": 5,
+      "end_approx": 13,
+      "scene": "night_office_offer",
+      "layout": "Same navy office without giant title. Cream mono offer strip above workers; envelopes appear near desks.",
+      "props": [
+        "seated workers",
+        "envelopes",
+        "title strip"
+      ],
+      "observed_or_inferred_motion": "envelopes pop in; static repeated desk grid",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 5,
+      "end": 13,
+      "reference_frame": 270,
+      "reference_image": "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+    },
+    {
+      "id": "ref_003",
+      "start_approx": 13,
+      "end_approx": 17.733333,
+      "scene": "office_headcount_card",
+      "layout": "Cream card overlays office. Ten-by-ten worker grid, red top portion, large red percentage and explanatory Bengali type.",
+      "props": [
+        "worker pictograms",
+        "card",
+        "red edge"
+      ],
+      "observed_or_inferred_motion": "icon recoloring and counter reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 13,
+      "end": 17.733333,
+      "reference_frame": 461,
+      "reference_image": "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+    },
+    {
+      "id": "ref_004",
+      "start_approx": 17.733333,
+      "end_approx": 28.8,
+      "scene": "layoff_walkers_counter",
+      "layout": "Cream city silhouette, horizontal ground line. Walking workers carry boxes below a large black number chip at upper-left.",
+      "props": [
+        "walkers",
+        "boxes",
+        "skyline",
+        "number chip"
+      ],
+      "observed_or_inferred_motion": "counter increments; walkers pass and fade",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 17.733333,
+      "end": 28.8,
+      "reference_frame": 698,
+      "reference_image": "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+    },
+    {
+      "id": "ref_005",
+      "start_approx": 28.8,
+      "end_approx": 36.5,
+      "scene": "layoff_year_comparison",
+      "layout": "Two rectangular grids of different heights at right, with workers and year captions; large black number chip remains left.",
+      "props": [
+        "two grid towers",
+        "people",
+        "dashed measurement bracket"
+      ],
+      "observed_or_inferred_motion": "bars grow; comparison bracket draws",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 28.8,
+      "end": 36.5,
+      "reference_frame": 980,
+      "reference_image": "reference/analysis/scene_stills/ref_005_layoff_year_comparison.jpg"
+    },
+    {
+      "id": "ref_006",
+      "start_approx": 36.5,
+      "end_approx": 40.966667,
+      "scene": "street_shield",
+      "layout": "Dhaka street with vermilion-shirt guide raising phone; tea stall, seated customer, palm, wires, mosque silhouette and walkers. Large checked shield above guide.",
+      "props": [
+        "guide",
+        "phone",
+        "shield",
+        "tea stall",
+        "skyline"
+      ],
+      "observed_or_inferred_motion": "guide arm raises; shield cracks/disappears; walkers cross",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 36.5,
+      "end": 40.966667,
+      "reference_frame": 1162,
+      "reference_image": "reference/analysis/scene_stills/ref_006_street_shield.jpg"
+    },
+    {
+      "start_approx": 40.966667,
+      "scene": "chapter_two_card",
+      "layout": "Blue chapter page: cream Bengali heading at left, enormous striped 02 over vermilion disc at right.",
+      "props": [
+        "chapter typography",
+        "striped numeral",
+        "red disc"
+      ],
+      "observed_or_inferred_motion": "blue/red slab wipe",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_007",
+      "end_approx": 43.4,
+      "start": 40.966667,
+      "end": 43.4,
+      "reference_frame": 1266,
+      "reference_image": "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+    },
+    {
+      "id": "ref_008",
+      "start_approx": 43.4,
+      "end_approx": 56.1,
+      "scene": "profession_rooms",
+      "layout": "Three outlined rooms: doctor and bed, teacher and green board/classroom desks, garment worker and sewing machine. Camera travels horizontally through rooms.",
+      "props": [
+        "doctor",
+        "bed",
+        "teacher",
+        "board",
+        "garment worker",
+        "sewing table"
+      ],
+      "observed_or_inferred_motion": "camera pan; checklist shields over professions",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 43.4,
+      "end": 56.1,
+      "reference_frame": 1492,
+      "reference_image": "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+    },
+    {
+      "id": "ref_009",
+      "start_approx": 56.1,
+      "end_approx": 70,
+      "scene": "ai_lab_survey",
+      "layout": "Navy inset AI lab within cream page, three grey desk workers with blue screens and blue orb. Survey clipboard appears to its upper-right.",
+      "props": [
+        "lab",
+        "blue orb",
+        "three seated workers",
+        "survey clipboard"
+      ],
+      "observed_or_inferred_motion": "orb pulses; clipboard enters",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 56.1,
+      "end": 70,
+      "reference_frame": 1892,
+      "reference_image": "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+    },
+    {
+      "id": "ref_010",
+      "start_approx": 70,
+      "end_approx": 81.066667,
+      "scene": "survey_slider_crowd",
+      "layout": "Lab at left, mixed crowd at right; horizontal 0–100% ruler above with red question-mark handle.",
+      "props": [
+        "mixed crowd",
+        "lab",
+        "slider",
+        "labels"
+      ],
+      "observed_or_inferred_motion": "slider moves; percentages reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 70,
+      "end": 81.066667,
+      "reference_frame": 2266,
+      "reference_image": "reference/analysis/scene_stills/ref_010_survey_slider_crowd.jpg"
+    },
+    {
+      "id": "ref_011",
+      "start_approx": 81.066667,
+      "end_approx": 86.866667,
+      "scene": "survey_percentage_compare",
+      "layout": "Two tall outline percentage bars on cream, workers beside each; blue fills reveal 75% vs 28%.",
+      "props": [
+        "two bars",
+        "survey participants",
+        "percentages"
+      ],
+      "observed_or_inferred_motion": "bars fill to different levels; labels reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 81.066667,
+      "end": 86.866667,
+      "reference_frame": 2519,
+      "reference_image": "reference/analysis/scene_stills/ref_011_survey_percentage_compare.jpg"
+    },
+    {
+      "id": "ref_012",
+      "start_approx": 86.866667,
+      "end_approx": 96.666667,
+      "scene": "phone_chat",
+      "layout": "Seated person holding phone in cream room with barred window. Oversized smartphone chat UI at right.",
+      "props": [
+        "seated person",
+        "chair",
+        "smartphone",
+        "window"
+      ],
+      "observed_or_inferred_motion": "chat lines reveal; red underline",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 86.866667,
+      "end": 96.666667,
+      "reference_frame": 2753,
+      "reference_image": "reference/analysis/scene_stills/ref_012_phone_chat.jpg"
+    },
+    {
+      "id": "ref_013",
+      "start_approx": 96.666667,
+      "end_approx": 108.133333,
+      "scene": "garage_engine_analogy",
+      "layout": "Grey garage with blue engine on brown workbench, wall tools, stacked tires, mechanic and guide. Road continues to the right with distant destination sign.",
+      "props": [
+        "guide",
+        "mechanic",
+        "engine",
+        "workbench",
+        "tires",
+        "wall tools",
+        "road"
+      ],
+      "observed_or_inferred_motion": "camera pans to road; car assembly analogy",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 96.666667,
+      "end": 108.133333,
+      "reference_frame": 3072,
+      "reference_image": "reference/analysis/scene_stills/ref_013_garage_engine_analogy.jpg"
+    },
+    {
+      "start_approx": 108.133333,
+      "scene": "ai_factory_assembly",
+      "layout": "Two blue robot arms and seated operators on assembly-line car platform immediately after garage analogy.",
+      "props": [
+        "robot arms",
+        "car platform",
+        "workers"
+      ],
+      "observed_or_inferred_motion": "conveyor movement and arm pivots",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_014",
+      "end_approx": 110,
+      "start": 108.133333,
+      "end": 110,
+      "reference_frame": 3272,
+      "reference_image": "reference/analysis/scene_stills/ref_014_ai_factory_assembly.jpg"
+    },
+    {
+      "id": "ref_015",
+      "start_approx": 110,
+      "end_approx": 119.3,
+      "scene": "agent_workflow",
+      "layout": "Grey woman at left, blue orb center; filing cabinet above-left and computer below-right connected by blue dashed paths.",
+      "props": [
+        "woman",
+        "orb",
+        "cabinet",
+        "computer",
+        "dashed links"
+      ],
+      "observed_or_inferred_motion": "nodes appear sequentially; link flow",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 110,
+      "end": 119.3,
+      "reference_frame": 3440,
+      "reference_image": "reference/analysis/scene_stills/ref_015_agent_workflow.jpg"
+    },
+    {
+      "id": "ref_016",
+      "start_approx": 119.3,
+      "end_approx": 126.766667,
+      "scene": "four_shopfronts",
+      "layout": "Four dark buildings on cream skyline, blue window grids, Bengali signs for hospital, bank, legal advice and call center.",
+      "props": [
+        "four shopfronts",
+        "blue windows",
+        "city"
+      ],
+      "observed_or_inferred_motion": "windows illuminate; buildings enter",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 119.3,
+      "end": 126.766667,
+      "reference_frame": 3691,
+      "reference_image": "reference/analysis/scene_stills/ref_016_four_shopfronts.jpg"
+    },
+    {
+      "id": "ref_017",
+      "start_approx": 126.766667,
+      "end_approx": 131.3,
+      "scene": "curtain_reveal",
+      "layout": "Vermilion guide stands before tall grey vertical panels/curtains with halftone lower area.",
+      "props": [
+        "guide",
+        "curtain panels"
+      ],
+      "observed_or_inferred_motion": "panels sweep/reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 126.766667,
+      "end": 131.3,
+      "reference_frame": 3871,
+      "reference_image": "reference/analysis/scene_stills/ref_017_curtain_reveal.jpg"
+    },
+    {
+      "start_approx": 131.3,
+      "scene": "behind_the_scenes_scaffolding",
+      "layout": "Large electric-blue AI wall/screen concealed behind wooden scaffold, workers constructing it with guide at lower-left.",
+      "props": [
+        "scaffolding",
+        "blue AI screen",
+        "workers",
+        "guide"
+      ],
+      "observed_or_inferred_motion": "reveal from curtains; construction poses",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_018",
+      "end_approx": 134.433333,
+      "start": 131.3,
+      "end": 134.433333,
+      "reference_frame": 3986,
+      "reference_image": "reference/analysis/scene_stills/ref_018_behind_the_scenes_scaffolding.jpg"
+    },
+    {
+      "id": "ref_019",
+      "start_approx": 134.433333,
+      "end_approx": 137.133333,
+      "scene": "world_map_transition",
+      "layout": "Pale world map with dark North America; green halftone sweep crosses frame.",
+      "props": [
+        "world map",
+        "halftone"
+      ],
+      "observed_or_inferred_motion": "wipe",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 134.433333,
+      "end": 137.133333,
+      "reference_frame": 4073,
+      "reference_image": "reference/analysis/scene_stills/ref_019_world_map_transition.jpg"
+    },
+    {
+      "id": "ref_020",
+      "start_approx": 137.133333,
+      "end_approx": 144.266667,
+      "scene": "relaxed_desk",
+      "layout": "Cream room, barred window upper-right, reclining grey figure with legs on table and small laptop. Red-edged opinion card upper-left.",
+      "props": [
+        "reclining person",
+        "chair",
+        "table",
+        "laptop"
+      ],
+      "observed_or_inferred_motion": "subtle pose changes; card reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 137.133333,
+      "end": 144.266667,
+      "reference_frame": 4221,
+      "reference_image": "reference/analysis/scene_stills/ref_020_relaxed_desk.jpg"
+    },
+    {
+      "start_approx": 144.266667,
+      "scene": "chapter_three_card",
+      "layout": "Blue chapter page: job-is-a-bundle heading left; enormous striped 03 over red disc right.",
+      "props": [
+        "chapter typography",
+        "striped numeral",
+        "red disc"
+      ],
+      "observed_or_inferred_motion": "slab wipe and settle",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_021",
+      "end_approx": 147,
+      "start": 144.266667,
+      "end": 147,
+      "reference_frame": 4369,
+      "reference_image": "reference/analysis/scene_stills/ref_021_chapter_three_card.jpg"
+    },
+    {
+      "id": "ref_022",
+      "start_approx": 147,
+      "end_approx": 153,
+      "scene": "job_is_bundle",
+      "layout": "Guide points to a large outlined square with Bengali word for job. Right edge dissolves to halftone. Blue robot arm opposite.",
+      "props": [
+        "guide",
+        "job card",
+        "robot arm"
+      ],
+      "observed_or_inferred_motion": "card breaks into task tiles",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 147,
+      "end": 153,
+      "reference_frame": 4500,
+      "reference_image": "reference/analysis/scene_stills/ref_022_job_is_bundle.jpg"
+    },
+    {
+      "id": "ref_023",
+      "start_approx": 153,
+      "end_approx": 159,
+      "scene": "task_tiles",
+      "layout": "Two rows of four outlined task tiles above guide: email, meeting, report, calls, sheets, decide, teach, plan. Robot arm at right.",
+      "props": [
+        "guide",
+        "task tiles",
+        "robot arm"
+      ],
+      "observed_or_inferred_motion": "tiles appear; arm pivots",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 153,
+      "end": 159,
+      "reference_frame": 4680,
+      "reference_image": "reference/analysis/scene_stills/ref_023_task_tiles.jpg"
+    },
+    {
+      "id": "ref_024",
+      "start_approx": 159,
+      "end_approx": 168,
+      "scene": "ten_doctors_timebars",
+      "layout": "Row of ten doctors along a baseline. Stacked time bars above, tiny paperwork icons beside them.",
+      "props": [
+        "ten doctors",
+        "time bars",
+        "paperwork"
+      ],
+      "observed_or_inferred_motion": "bars reveal and fill",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 159,
+      "end": 168,
+      "reference_frame": 4905,
+      "reference_image": "reference/analysis/scene_stills/ref_024_ten_doctors_timebars.jpg"
+    },
+    {
+      "id": "ref_025",
+      "start_approx": 168,
+      "end_approx": 175,
+      "scene": "doctor_headcount_reduction",
+      "layout": "Blue orb removes upper paperwork segments from time bars; six dark bars/people retained, four become outlined/faded.",
+      "props": [
+        "doctors",
+        "bars",
+        "orb"
+      ],
+      "observed_or_inferred_motion": "bar segments peel away; four fade",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 168,
+      "end": 175,
+      "reference_frame": 5145,
+      "reference_image": "reference/analysis/scene_stills/ref_025_doctor_headcount_reduction.jpg"
+    },
+    {
+      "id": "ref_026",
+      "start_approx": 175,
+      "end_approx": 181.266667,
+      "scene": "hospital_remaining_work",
+      "layout": "Three patient beds with doctors attending; floating blue screen above.",
+      "props": [
+        "doctors",
+        "beds",
+        "patient markers",
+        "blue screen"
+      ],
+      "observed_or_inferred_motion": "person gestures; screen text lines",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 175,
+      "end": 181.266667,
+      "reference_frame": 5344,
+      "reference_image": "reference/analysis/scene_stills/ref_026_hospital_remaining_work.jpg"
+    },
+    {
+      "id": "ref_027",
+      "start_approx": 181.266667,
+      "end_approx": 194.233333,
+      "scene": "desk_grid_eighty_percent",
+      "layout": "Ten-by-ten grid of tiny desks/workers; blue screens progressively fill most cells; small red guide icon anchors grid.",
+      "props": [
+        "desk pictograms",
+        "screens",
+        "blue percentage"
+      ],
+      "observed_or_inferred_motion": "cell-by-cell blue fill",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 181.266667,
+      "end": 194.233333,
+      "reference_frame": 5632,
+      "reference_image": "reference/analysis/scene_stills/ref_027_desk_grid_eighty_percent.jpg"
+    },
+    {
+      "id": "ref_028",
+      "start_approx": 194.233333,
+      "end_approx": 197.4,
+      "scene": "grid_zoom_task_detail",
+      "layout": "Camera zoom into one cream grid cell showing simplified person and large blue monitor.",
+      "props": [
+        "person pictogram",
+        "desk",
+        "blue monitor"
+      ],
+      "observed_or_inferred_motion": "hard zoom/push-in",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 194.233333,
+      "end": 197.4,
+      "reference_frame": 5874,
+      "reference_image": "reference/analysis/scene_stills/ref_028_grid_zoom_task_detail.jpg"
+    },
+    {
+      "id": "ref_029",
+      "start_approx": 197.4,
+      "end_approx": 203,
+      "scene": "rice_manual_labor",
+      "layout": "Green rice field with repeated bent workers cutting rice, huts, palms, dark green trees and a large red sun.",
+      "props": [
+        "field workers",
+        "rice",
+        "huts",
+        "palms",
+        "sun"
+      ],
+      "observed_or_inferred_motion": "bending work cycle; field texture",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 197.4,
+      "end": 203,
+      "reference_frame": 6006,
+      "reference_image": "reference/analysis/scene_stills/ref_029_rice_manual_labor.jpg"
+    },
+    {
+      "id": "ref_030",
+      "start_approx": 203,
+      "end_approx": 209,
+      "scene": "combine_harvester",
+      "layout": "Small combine harvester crosses the same field; standing workers reduce.",
+      "props": [
+        "harvester",
+        "driver",
+        "rice",
+        "workers"
+      ],
+      "observed_or_inferred_motion": "machine translates; wheel rotates; labor changes",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 203,
+      "end": 209,
+      "reference_frame": 6180,
+      "reference_image": "reference/analysis/scene_stills/ref_030_combine_harvester.jpg"
+    },
+    {
+      "id": "ref_031",
+      "start_approx": 209,
+      "end_approx": 219.7,
+      "scene": "agriculture_labor_card",
+      "layout": "Cream evidence card above field: worker pictograms and red -70% callout; few workers retained.",
+      "props": [
+        "field",
+        "labor card",
+        "worker icons"
+      ],
+      "observed_or_inferred_motion": "card slides in; icons fade",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 209,
+      "end": 219.7,
+      "reference_frame": 6430,
+      "reference_image": "reference/analysis/scene_stills/ref_031_agriculture_labor_card.jpg"
+    },
+    {
+      "id": "ref_032",
+      "start_approx": 219.7,
+      "end_approx": 230.333333,
+      "scene": "agriculture_ten_to_three",
+      "layout": "Large 10-to-3 Bengali count above field; fading row of seven workers, three retained near sacks.",
+      "props": [
+        "workers",
+        "sacks",
+        "count arrow"
+      ],
+      "observed_or_inferred_motion": "ghost silhouettes fade; check mark draws",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 219.7,
+      "end": 230.333333,
+      "reference_frame": 6750,
+      "reference_image": "reference/analysis/scene_stills/ref_032_agriculture_ten_to_three.jpg"
+    },
+    {
+      "id": "ref_033",
+      "start_approx": 230.333333,
+      "end_approx": 233.6,
+      "scene": "office_row_transition",
+      "layout": "Rice scene gives way to cream office with row of seated workers and broad skyline window.",
+      "props": [
+        "office desks",
+        "workers",
+        "window"
+      ],
+      "observed_or_inferred_motion": "horizontal scene transition",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 230.333333,
+      "end": 233.6,
+      "reference_frame": 6959,
+      "reference_image": "reference/analysis/scene_stills/ref_033_office_row_transition.jpg"
+    },
+    {
+      "id": "ref_034",
+      "start_approx": 233.6,
+      "end_approx": 241,
+      "scene": "night_creator_desk",
+      "layout": "Navy room, lone grey person at desk, blue halftone glow above laptop; city window at upper-right.",
+      "props": [
+        "creator",
+        "desk",
+        "laptop",
+        "window",
+        "glow"
+      ],
+      "observed_or_inferred_motion": "glow pulses; small page icons emerge",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 233.6,
+      "end": 241,
+      "reference_frame": 7119,
+      "reference_image": "reference/analysis/scene_stills/ref_034_night_creator_desk.jpg"
+    },
+    {
+      "id": "ref_035",
+      "start_approx": 241,
+      "end_approx": 245,
+      "scene": "code_window",
+      "layout": "Floating cream code editor with blue title bar over night desk.",
+      "props": [
+        "code window",
+        "creator desk"
+      ],
+      "observed_or_inferred_motion": "code line reveal; cards orbit",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 241,
+      "end": 245,
+      "reference_frame": 7290,
+      "reference_image": "reference/analysis/scene_stills/ref_035_code_window.jpg"
+    },
+    {
+      "id": "ref_036",
+      "start_approx": 245,
+      "end_approx": 259,
+      "scene": "editing_time_comparison",
+      "layout": "Two adjacent night desk panels, clocks above, script/video effort bars at right.",
+      "props": [
+        "editing monitors",
+        "clocks",
+        "effort bars"
+      ],
+      "observed_or_inferred_motion": "camera slide; red script bar vs short blue video bar",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 245,
+      "end": 259,
+      "reference_frame": 7560,
+      "reference_image": "reference/analysis/scene_stills/ref_036_editing_time_comparison.jpg"
+    },
+    {
+      "id": "ref_037",
+      "start_approx": 259,
+      "end_approx": 272.333333,
+      "scene": "empty_editor_chair",
+      "layout": "Spotlight cone over desk and chair in navy room. Person leaves; empty workstation remains.",
+      "props": [
+        "spotlight",
+        "desk",
+        "chair",
+        "departing person"
+      ],
+      "observed_or_inferred_motion": "figure fades/walks out; light holds",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 259,
+      "end": 272.333333,
+      "reference_frame": 7970,
+      "reference_image": "reference/analysis/scene_stills/ref_037_empty_editor_chair.jpg"
+    },
+    {
+      "id": "ref_038",
+      "start_approx": 272.333333,
+      "end_approx": 281,
+      "scene": "jobs_at_tea_stall",
+      "layout": "Two people converse beside tea stall; one holds AI-jobs chart card.",
+      "props": [
+        "two people",
+        "tea stall",
+        "chart card"
+      ],
+      "observed_or_inferred_motion": "arm raises; card tilts",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 272.333333,
+      "end": 281,
+      "reference_frame": 8300,
+      "reference_image": "reference/analysis/scene_stills/ref_038_jobs_at_tea_stall.jpg"
+    },
+    {
+      "id": "ref_039",
+      "start_approx": 281,
+      "end_approx": 293.3,
+      "scene": "headcount_ledger",
+      "layout": "Large ruled two-column table with red header. Left has 100 worker icons, right blue AI jobs; left reduces to 50 while right grows to 15.",
+      "props": [
+        "ledger",
+        "human icons",
+        "blue icons",
+        "Bengali labels"
+      ],
+      "observed_or_inferred_motion": "icons fade/fill; counts update",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 281,
+      "end": 293.3,
+      "reference_frame": 8614,
+      "reference_image": "reference/analysis/scene_stills/ref_039_headcount_ledger.jpg"
+    },
+    {
+      "id": "ref_040",
+      "start_approx": 293.3,
+      "end_approx": 299,
+      "scene": "newspaper_fivefold",
+      "layout": "Skewed outlined newspaper panel with giant Bengali headline; blue final 5-times phrase. Small celebratory person below.",
+      "props": [
+        "newspaper",
+        "person"
+      ],
+      "observed_or_inferred_motion": "panel pops in; raised arms",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 293.3,
+      "end": 299,
+      "reference_frame": 8884,
+      "reference_image": "reference/analysis/scene_stills/ref_040_newspaper_fivefold.jpg"
+    },
+    {
+      "id": "ref_041",
+      "start_approx": 299,
+      "end_approx": 308.5,
+      "scene": "total_headcount_compare",
+      "layout": "Two worker grids labeled before and now, including blue AI roles: 103 vs 65; red current total.",
+      "props": [
+        "two headcount grids",
+        "before/after labels"
+      ],
+      "observed_or_inferred_motion": "grids appear; total reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 299,
+      "end": 308.5,
+      "reference_frame": 9112,
+      "reference_image": "reference/analysis/scene_stills/ref_041_total_headcount_compare.jpg"
+    },
+    {
+      "id": "ref_042",
+      "start_approx": 308.5,
+      "end_approx": 311,
+      "scene": "chapter_five_card",
+      "layout": "Blue chapter page, cream Bengali heading left, striped cream 05 over red disc right; red/blue slabs transition in and out.",
+      "props": [
+        "chapter typography",
+        "red disc",
+        "striped numeral"
+      ],
+      "observed_or_inferred_motion": "horizontal slab wipe and title reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 308.5,
+      "end": 311,
+      "reference_frame": 9292,
+      "reference_image": "reference/analysis/scene_stills/ref_042_chapter_five_card.jpg"
+    },
+    {
+      "id": "ref_043",
+      "start_approx": 311,
+      "end_approx": 320.666667,
+      "scene": "teacher_scale",
+      "layout": "Teacher at green board left, tiny learner grid at right expands dramatically.",
+      "props": [
+        "teacher",
+        "board",
+        "learner grid"
+      ],
+      "observed_or_inferred_motion": "headcount grid expands; teacher holds blue device",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 311,
+      "end": 320.666667,
+      "reference_frame": 9475,
+      "reference_image": "reference/analysis/scene_stills/ref_043_teacher_scale.jpg"
+    },
+    {
+      "id": "ref_044",
+      "start_approx": 320.666667,
+      "end_approx": 335,
+      "scene": "garment_factory",
+      "layout": "Four seated sewing workers under ceiling fans. Inset panel shows blue robot arms and three-of-four blocks; numbered issue cards appear.",
+      "props": [
+        "sewing workers",
+        "machines",
+        "fans",
+        "robot arms",
+        "issue cards"
+      ],
+      "observed_or_inferred_motion": "sewing gestures; fan rotation; panel reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 320.666667,
+      "end": 335,
+      "reference_frame": 9835,
+      "reference_image": "reference/analysis/scene_stills/ref_044_garment_factory.jpg"
+    },
+    {
+      "id": "ref_045",
+      "start_approx": 335,
+      "end_approx": 340,
+      "scene": "robot_cost_comparison",
+      "layout": "Robot arm at left next to tall cost stack and many dollar symbols; human worker at right with short stack.",
+      "props": [
+        "robot arm",
+        "worker",
+        "cost stacks"
+      ],
+      "observed_or_inferred_motion": "cost bars rise",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 335,
+      "end": 340,
+      "reference_frame": 10125,
+      "reference_image": "reference/analysis/scene_stills/ref_045_robot_cost_comparison.jpg"
+    },
+    {
+      "id": "ref_046",
+      "start_approx": 340,
+      "end_approx": 345,
+      "scene": "robot_economics_grid",
+      "layout": "Large thousand-cell pale grid with only a few blue cells and large blue 0.3% callout.",
+      "props": [
+        "dense grid",
+        "three blue cells",
+        "percentage"
+      ],
+      "observed_or_inferred_motion": "tiny cells highlight",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 340,
+      "end": 345,
+      "reference_frame": 10275,
+      "reference_image": "reference/analysis/scene_stills/ref_046_robot_economics_grid.jpg"
+    },
+    {
+      "id": "ref_047",
+      "start_approx": 345,
+      "end_approx": 354,
+      "scene": "robot_soft_cloth",
+      "layout": "Blue robot arm near table of fabric; cloth droops/falls, grey woman gestures.",
+      "props": [
+        "robot arm",
+        "fabric",
+        "table",
+        "woman"
+      ],
+      "observed_or_inferred_motion": "joint motion; cloth falls",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 345,
+      "end": 354,
+      "reference_frame": 10485,
+      "reference_image": "reference/analysis/scene_stills/ref_047_robot_soft_cloth.jpg"
+    },
+    {
+      "id": "ref_048",
+      "start_approx": 354,
+      "end_approx": 359,
+      "scene": "garment_temporary_safety",
+      "layout": "Two sewing workers below large green check and black hourglass.",
+      "props": [
+        "workers",
+        "check",
+        "hourglass",
+        "fans"
+      ],
+      "observed_or_inferred_motion": "check draws; hourglass appears",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 354,
+      "end": 359,
+      "reference_frame": 10695,
+      "reference_image": "reference/analysis/scene_stills/ref_048_garment_temporary_safety.jpg"
+    },
+    {
+      "id": "ref_049",
+      "start_approx": 359,
+      "end_approx": 369,
+      "scene": "robot_imitation_learning",
+      "layout": "Garment work scene with pale blue training enclosure where robot mirrors a person; calendar/ability grid above.",
+      "props": [
+        "workers",
+        "imitation-learning enclosure",
+        "grid"
+      ],
+      "observed_or_inferred_motion": "robot follows pose; cells fill",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 359,
+      "end": 369,
+      "reference_frame": 10920,
+      "reference_image": "reference/analysis/scene_stills/ref_049_robot_imitation_learning.jpg"
+    },
+    {
+      "id": "ref_050",
+      "start_approx": 369,
+      "end_approx": 377,
+      "scene": "digital_work_panels",
+      "layout": "Cream frame divides into four scenes: office paperwork, bank teller, shared desks, freelancer under fan.",
+      "props": [
+        "four panels",
+        "workers",
+        "desks",
+        "bank booth"
+      ],
+      "observed_or_inferred_motion": "camera zoom out to four-panel layout",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 369,
+      "end": 377,
+      "reference_frame": 11190,
+      "reference_image": "reference/analysis/scene_stills/ref_050_digital_work_panels.jpg"
+    },
+    {
+      "id": "ref_051",
+      "start_approx": 377,
+      "end_approx": 384.266667,
+      "scene": "copyable_ai",
+      "layout": "Blue orb in center of four-panel layout with many small blue nodes; screens turn blue.",
+      "props": [
+        "orb",
+        "copies",
+        "panels"
+      ],
+      "observed_or_inferred_motion": "particles radiate; blue screens illuminate",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 377,
+      "end": 384.266667,
+      "reference_frame": 11419,
+      "reference_image": "reference/analysis/scene_stills/ref_051_copyable_ai.jpg"
+    },
+    {
+      "id": "ref_052",
+      "start_approx": 384.266667,
+      "end_approx": 392.433333,
+      "scene": "small_cheap_ai",
+      "layout": "Zoom back into office panel: small blue orb handles file stacks, red check under monitor.",
+      "props": [
+        "worker",
+        "monitor",
+        "small orb",
+        "files"
+      ],
+      "observed_or_inferred_motion": "small orb moves between work items",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 384.266667,
+      "end": 392.433333,
+      "reference_frame": 11650,
+      "reference_image": "reference/analysis/scene_stills/ref_052_small_cheap_ai.jpg"
+    },
+    {
+      "id": "ref_053",
+      "start_approx": 392.433333,
+      "end_approx": 406.866667,
+      "scene": "government_paperwork",
+      "layout": "Cream government office with cabinet left, seated official center, piles of tied files and standing clerk; ceiling fans and clock. Blue halftone outline highlights entire desk.",
+      "props": [
+        "official",
+        "clerk",
+        "tied files",
+        "cabinet",
+        "fans",
+        "clock"
+      ],
+      "observed_or_inferred_motion": "files accumulate; blue frame sweeps over desk",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 392.433333,
+      "end": 406.866667,
+      "reference_frame": 11990,
+      "reference_image": "reference/analysis/scene_stills/ref_053_government_paperwork.jpg"
+    },
+    {
+      "id": "ref_054",
+      "start_approx": 406.866667,
+      "end_approx": 413.533333,
+      "scene": "recruitment_reduction",
+      "layout": "Notice board of recruitment lines with red strike-through marks at left; empty desk and no-new-hire sign at right.",
+      "props": [
+        "notice board",
+        "desk",
+        "two applicants"
+      ],
+      "observed_or_inferred_motion": "notice lines strike through",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 406.866667,
+      "end": 413.533333,
+      "reference_frame": 12306,
+      "reference_image": "reference/analysis/scene_stills/ref_054_recruitment_reduction.jpg"
+    },
+    {
+      "id": "ref_055",
+      "start_approx": 413.533333,
+      "end_approx": 425,
+      "scene": "government_exam_queue",
+      "layout": "Long mixed queue to examination-center building. Large black number cards count applicants and positions.",
+      "props": [
+        "queue",
+        "examination building",
+        "counters"
+      ],
+      "observed_or_inferred_motion": "counter rolls; queue advances",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 413.533333,
+      "end": 425,
+      "reference_frame": 12578,
+      "reference_image": "reference/analysis/scene_stills/ref_055_government_exam_queue.jpg"
+    },
+    {
+      "id": "ref_056",
+      "start_approx": 425,
+      "end_approx": 432.3,
+      "scene": "chairs_and_queue",
+      "layout": "Three red outline chairs along baseline; surrounding crowd/queue emphasizes competition.",
+      "props": [
+        "red chairs",
+        "applicants"
+      ],
+      "observed_or_inferred_motion": "chairs reduce; crowd accumulates",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 425,
+      "end": 432.3,
+      "reference_frame": 12860,
+      "reference_image": "reference/analysis/scene_stills/ref_056_chairs_and_queue.jpg"
+    },
+    {
+      "start_approx": 432.3,
+      "scene": "chapter_six_card",
+      "layout": "Blue chapter page: other-side heading left; enormous striped 06 over red disc right.",
+      "props": [
+        "chapter typography",
+        "striped numeral",
+        "red disc"
+      ],
+      "observed_or_inferred_motion": "slab wipe",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_057",
+      "end_approx": 435.4,
+      "start": 432.3,
+      "end": 435.4,
+      "reference_frame": 13016,
+      "reference_image": "reference/analysis/scene_stills/ref_057_chapter_six_card.jpg"
+    },
+    {
+      "id": "ref_058",
+      "start_approx": 435.4,
+      "end_approx": 438,
+      "scene": "counterargument_intro",
+      "layout": "Grey figure gestures in large cream negative space; red numbered circle introduces next section.",
+      "props": [
+        "presenter",
+        "red counter badge"
+      ],
+      "observed_or_inferred_motion": "badge drops; gesture",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 435.4,
+      "end": 438,
+      "reference_frame": 13101,
+      "reference_image": "reference/analysis/scene_stills/ref_058_counterargument_intro.jpg"
+    },
+    {
+      "id": "ref_059",
+      "start_approx": 438,
+      "end_approx": 452.233333,
+      "scene": "accounting_history",
+      "layout": "Cream office with spreadsheet monitor, filing papers and comparison card: crossed-out clerks versus growing accountant icons.",
+      "props": [
+        "accountants",
+        "desk",
+        "spreadsheet",
+        "icon comparison"
+      ],
+      "observed_or_inferred_motion": "icons cross out/fill; workers pass",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 438,
+      "end": 452.233333,
+      "reference_frame": 13353,
+      "reference_image": "reference/analysis/scene_stills/ref_059_accounting_history.jpg"
+    },
+    {
+      "id": "ref_060",
+      "start_approx": 452.233333,
+      "end_approx": 455,
+      "scene": "healthcare_queue",
+      "layout": "Long line outside local health complex with red medical cross and green sign.",
+      "props": [
+        "mixed queue",
+        "clinic"
+      ],
+      "observed_or_inferred_motion": "queue movement",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 452.233333,
+      "end": 455,
+      "reference_frame": 13608,
+      "reference_image": "reference/analysis/scene_stills/ref_060_healthcare_queue.jpg"
+    },
+    {
+      "id": "ref_061",
+      "start_approx": 455,
+      "end_approx": 465,
+      "scene": "healthcare_density",
+      "layout": "Pictogram grid with green icons for Bangladesh and comparative density labeling.",
+      "props": [
+        "medical icons",
+        "density grid"
+      ],
+      "observed_or_inferred_motion": "grid fills",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 455,
+      "end": 465,
+      "reference_frame": 13800,
+      "reference_image": "reference/analysis/scene_stills/ref_061_healthcare_density.jpg"
+    },
+    {
+      "id": "ref_062",
+      "start_approx": 465,
+      "end_approx": 472.1,
+      "scene": "village_health_network",
+      "layout": "Mother with child and blue phone among four huts and palms; blue orb above connects dashed arcs to village windows.",
+      "props": [
+        "mother",
+        "child",
+        "huts",
+        "palms",
+        "orb"
+      ],
+      "observed_or_inferred_motion": "arcs draw and pulses travel",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 465,
+      "end": 472.1,
+      "reference_frame": 14056,
+      "reference_image": "reference/analysis/scene_stills/ref_062_village_health_network.jpg"
+    },
+    {
+      "id": "ref_063",
+      "start_approx": 472.1,
+      "end_approx": 478,
+      "scene": "unlimited_demand_funnel",
+      "layout": "Blue AI pipe pours through open funnel toward growing line of people; healthcare/education icons label funnel.",
+      "props": [
+        "pipe",
+        "funnel",
+        "people",
+        "medical/education icons"
+      ],
+      "observed_or_inferred_motion": "blue flow, expanding crowd",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 472.1,
+      "end": 478,
+      "reference_frame": 14252,
+      "reference_image": "reference/analysis/scene_stills/ref_063_unlimited_demand_funnel.jpg"
+    },
+    {
+      "id": "ref_064",
+      "start_approx": 478,
+      "end_approx": 493,
+      "scene": "saturated_office_demand",
+      "layout": "Companion pipe pours into a bounded office rectangle packed with tiny worker rows; overflow dislodges icons as few people remain outside.",
+      "props": [
+        "pipe",
+        "full office block",
+        "displaced people"
+      ],
+      "observed_or_inferred_motion": "fill rises; worker tiles move out",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 478,
+      "end": 493,
+      "reference_frame": 14565,
+      "reference_image": "reference/analysis/scene_stills/ref_064_saturated_office_demand.jpg"
+    },
+    {
+      "id": "ref_065",
+      "start_approx": 493,
+      "end_approx": 503,
+      "scene": "jobs_data_chart",
+      "layout": "Large outlined chart with near-flat black line, handheld magnifier, two observers; red section-two badge.",
+      "props": [
+        "chart",
+        "magnifier",
+        "two people"
+      ],
+      "observed_or_inferred_motion": "magnifier moves over line",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 493,
+      "end": 503,
+      "reference_frame": 14940,
+      "reference_image": "reference/analysis/scene_stills/ref_065_jobs_data_chart.jpg"
+    },
+    {
+      "id": "ref_066",
+      "start_approx": 503,
+      "end_approx": 508.5,
+      "scene": "ai_washing_podium",
+      "layout": "Speaker behind podium and AI-labeled large box, audience applauds; tiny blue AI-WASHING tag.",
+      "props": [
+        "podium",
+        "box",
+        "speaker",
+        "audience"
+      ],
+      "observed_or_inferred_motion": "box reveals; arms lift",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 503,
+      "end": 508.5,
+      "reference_frame": 15172,
+      "reference_image": "reference/analysis/scene_stills/ref_066_ai_washing_podium.jpg"
+    },
+    {
+      "id": "ref_067",
+      "start_approx": 508.5,
+      "end_approx": 513.533333,
+      "scene": "rank_five_chart",
+      "layout": "Dark panel containing five grey horizontal bars; fifth bar partly blue and labeled AI, red-shirt guide at right.",
+      "props": [
+        "ranked bar chart",
+        "guide"
+      ],
+      "observed_or_inferred_motion": "bars reveal; fifth highlights",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 508.5,
+      "end": 513.533333,
+      "reference_frame": 15330,
+      "reference_image": "reference/analysis/scene_stills/ref_067_rank_five_chart.jpg"
+    },
+    {
+      "id": "ref_068",
+      "start_approx": 513.533333,
+      "end_approx": 522.8,
+      "scene": "hidden_hiring_below_surface",
+      "layout": "Cream upper strip with tipped chair; navy lower region and halftone texture, spotlight on dashed empty chairs under hiring label.",
+      "props": [
+        "surface line",
+        "empty chairs",
+        "spotlight"
+      ],
+      "observed_or_inferred_motion": "vertical reveal into lower region",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 513.533333,
+      "end": 522.8,
+      "reference_frame": 15545,
+      "reference_image": "reference/analysis/scene_stills/ref_068_hidden_hiring_below_surface.jpg"
+    },
+    {
+      "id": "ref_069",
+      "start_approx": 522.8,
+      "end_approx": 529,
+      "scene": "editor_never_hired",
+      "layout": "Empty editor workstation with two dark screens and vacancy sign; standing grey figure gestures.",
+      "props": [
+        "empty chair",
+        "monitors",
+        "figure",
+        "sign"
+      ],
+      "observed_or_inferred_motion": "arm gesture; chair remains empty",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 522.8,
+      "end": 529,
+      "reference_frame": 15777,
+      "reference_image": "reference/analysis/scene_stills/ref_069_editor_never_hired.jpg"
+    },
+    {
+      "id": "ref_070",
+      "start_approx": 529,
+      "end_approx": 535.966667,
+      "scene": "late_data_wave",
+      "layout": "Guide seated holding rising-chart card; thick blue wave rises along bottom edge.",
+      "props": [
+        "guide",
+        "chart",
+        "chair",
+        "blue water"
+      ],
+      "observed_or_inferred_motion": "wave oscillates and rises",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 529,
+      "end": 535.966667,
+      "reference_frame": 15975,
+      "reference_image": "reference/analysis/scene_stills/ref_070_late_data_wave.jpg"
+    },
+    {
+      "id": "ref_071",
+      "start_approx": 535.966667,
+      "end_approx": 547,
+      "scene": "atm_human_queue",
+      "layout": "Blue-screen ATM at left, human teller booth at right with guide serving; queue prefers human; clipboard survey overhead.",
+      "props": [
+        "ATM",
+        "teller booth",
+        "queue",
+        "survey clipboard"
+      ],
+      "observed_or_inferred_motion": "queue forms; checkbox ticks",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 535.966667,
+      "end": 547,
+      "reference_frame": 16245,
+      "reference_image": "reference/analysis/scene_stills/ref_071_atm_human_queue.jpg"
+    },
+    {
+      "id": "ref_072",
+      "start_approx": 547,
+      "end_approx": 551,
+      "scene": "human_cost_tenfold",
+      "layout": "Human teller and tall cost stack with red 10x left; ATM and tiny cost stack right.",
+      "props": [
+        "teller",
+        "ATM",
+        "cost stacks"
+      ],
+      "observed_or_inferred_motion": "cost reveal",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 547,
+      "end": 551,
+      "reference_frame": 16470,
+      "reference_image": "reference/analysis/scene_stills/ref_072_human_cost_tenfold.jpg"
+    },
+    {
+      "id": "ref_073",
+      "start_approx": 551,
+      "end_approx": 557,
+      "scene": "mobile_money_doubt",
+      "layout": "Two people with phones; thought bubble shows phone and money under dark halftone vignette.",
+      "props": [
+        "two people",
+        "phones",
+        "money thought bubble"
+      ],
+      "observed_or_inferred_motion": "bubble grows; dotted halo",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 551,
+      "end": 557,
+      "reference_frame": 16620,
+      "reference_image": "reference/analysis/scene_stills/ref_073_mobile_money_doubt.jpg"
+    },
+    {
+      "id": "ref_074",
+      "start_approx": 557,
+      "end_approx": 561.233333,
+      "scene": "mobile_money_shop",
+      "layout": "Green signed mobile banking shop connected by dashed arc to village home; person raises phone.",
+      "props": [
+        "shop",
+        "home",
+        "phone",
+        "dashed arc"
+      ],
+      "observed_or_inferred_motion": "arc draws; green check",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 557,
+      "end": 561.233333,
+      "reference_frame": 16773,
+      "reference_image": "reference/analysis/scene_stills/ref_074_mobile_money_shop.jpg"
+    },
+    {
+      "start_approx": 561.233333,
+      "scene": "preference_speed_bump",
+      "layout": "Green auto-rickshaw crosses small road speed bump with Bengali preference label; city silhouette behind.",
+      "props": [
+        "auto-rickshaw",
+        "road",
+        "speed bump",
+        "skyline"
+      ],
+      "observed_or_inferred_motion": "vehicle slows over bump then continues",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_075",
+      "end_approx": 565.966667,
+      "start": 561.233333,
+      "end": 565.966667,
+      "reference_frame": 16908,
+      "reference_image": "reference/analysis/scene_stills/ref_075_preference_speed_bump.jpg"
+    },
+    {
+      "id": "ref_076",
+      "start_approx": 565.966667,
+      "end_approx": 569,
+      "scene": "chapter_seven_card",
+      "layout": "Electric blue page, cream Bengali heading left with black block behind lower line; enormous striped cream 07 on vermilion disc right.",
+      "props": [
+        "chapter numeral",
+        "red disc",
+        "stripes"
+      ],
+      "observed_or_inferred_motion": "sliding chapter typography",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 565.966667,
+      "end": 569,
+      "reference_frame": 17025,
+      "reference_image": "reference/analysis/scene_stills/ref_076_chapter_seven_card.jpg"
+    },
+    {
+      "start_approx": 569,
+      "scene": "excuse_shield_calendar",
+      "layout": "Guide holds shield labeled excuse while red-topped calendar pages fall around him.",
+      "props": [
+        "guide",
+        "shield",
+        "calendar pages"
+      ],
+      "observed_or_inferred_motion": "pages fall/rotate; shield cracks",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_077",
+      "end_approx": 573,
+      "start": 569,
+      "end": 573,
+      "reference_frame": 17130,
+      "reference_image": "reference/analysis/scene_stills/ref_077_excuse_shield_calendar.jpg"
+    },
+    {
+      "id": "ref_078",
+      "start_approx": 573,
+      "end_approx": 579.5,
+      "scene": "task_conveyor",
+      "layout": "Conveyor carries outlined hand/brain task boxes through tall blue AI machine; outputs turn blue.",
+      "props": [
+        "conveyor",
+        "task boxes",
+        "AI machine"
+      ],
+      "observed_or_inferred_motion": "belt and boxes translate; machine glows",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 573,
+      "end": 579.5,
+      "reference_frame": 17288,
+      "reference_image": "reference/analysis/scene_stills/ref_078_task_conveyor.jpg"
+    },
+    {
+      "start_approx": 579.5,
+      "scene": "if_to_when_stamp",
+      "layout": "Large black Bengali if is struck through in red; tilted red stamp says when.",
+      "props": [
+        "large Bengali word",
+        "red strike",
+        "stamp"
+      ],
+      "observed_or_inferred_motion": "strike draws then stamp impacts",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "time_precision": "Approximate boundary from decoded-PTS overview and transition windows."
+      },
+      "id": "ref_079",
+      "end_approx": 583.5,
+      "start": 579.5,
+      "end": 583.5,
+      "reference_frame": 17445,
+      "reference_image": "reference/analysis/scene_stills/ref_079_if_to_when_stamp.jpg"
+    },
+    {
+      "id": "ref_080",
+      "start_approx": 583.5,
+      "end_approx": 591,
+      "scene": "relaxed_hammock",
+      "layout": "Guide lies in hammock between two palms across cream scene.",
+      "props": [
+        "guide",
+        "hammock",
+        "palms"
+      ],
+      "observed_or_inferred_motion": "gentle hammock sway",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 583.5,
+      "end": 591,
+      "reference_frame": 17618,
+      "reference_image": "reference/analysis/scene_stills/ref_080_relaxed_hammock.jpg"
+    },
+    {
+      "id": "ref_081",
+      "start_approx": 591,
+      "end_approx": 594,
+      "scene": "self_audit_laptop",
+      "layout": "Guide seated at laptop; task tiles array overhead.",
+      "props": [
+        "guide",
+        "laptop",
+        "task tiles"
+      ],
+      "observed_or_inferred_motion": "tiles reveal and descend",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 591,
+      "end": 594,
+      "reference_frame": 17775,
+      "reference_image": "reference/analysis/scene_stills/ref_081_self_audit_laptop.jpg"
+    },
+    {
+      "id": "ref_082",
+      "start_approx": 594,
+      "end_approx": 601,
+      "scene": "ai_human_task_blocks",
+      "layout": "Blue task blocks pile beside laptop; outlined red-edged human task blocks remain on dark pedestal at right.",
+      "props": [
+        "guide",
+        "task blocks",
+        "two platforms"
+      ],
+      "observed_or_inferred_motion": "tiles sort into piles",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 594,
+      "end": 601,
+      "reference_frame": 17925,
+      "reference_image": "reference/analysis/scene_stills/ref_082_ai_human_task_blocks.jpg"
+    },
+    {
+      "id": "ref_083",
+      "start_approx": 601,
+      "end_approx": 613.533333,
+      "scene": "repeat_audit_calendar",
+      "layout": "Same desk/task piles with four small red calendar/check icons upper-right; one human task shifts to blue pile.",
+      "props": [
+        "task piles",
+        "calendars"
+      ],
+      "observed_or_inferred_motion": "calendar ticks; tile transfers",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 601,
+      "end": 613.533333,
+      "reference_frame": 18218,
+      "reference_image": "reference/analysis/scene_stills/ref_083_repeat_audit_calendar.jpg"
+    },
+    {
+      "id": "ref_084",
+      "start_approx": 613.533333,
+      "end_approx": 621.5,
+      "scene": "street_comment_box",
+      "layout": "Return to detailed Dhaka street, guide using phone. Large cream red-shadow comment form floats above center.",
+      "props": [
+        "street",
+        "guide",
+        "phone",
+        "comment card",
+        "tea stall"
+      ],
+      "observed_or_inferred_motion": "comment types; pedestrians/rickshaw move",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 613.533333,
+      "end": 621.5,
+      "reference_frame": 18525,
+      "reference_image": "reference/analysis/scene_stills/ref_084_street_comment_box.jpg"
+    },
+    {
+      "id": "ref_085",
+      "start_approx": 621.5,
+      "end_approx": 631.2,
+      "scene": "street_tech_friend",
+      "layout": "Guide and grey friend meet, phone/chat bubble between them; same Dhaka street.",
+      "props": [
+        "guide",
+        "friend",
+        "conversation bubble",
+        "street"
+      ],
+      "observed_or_inferred_motion": "gesture/handshake; bubble changes",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 621.5,
+      "end": 631.2,
+      "reference_frame": 18790,
+      "reference_image": "reference/analysis/scene_stills/ref_085_street_tech_friend.jpg"
+    },
+    {
+      "id": "ref_086",
+      "start_approx": 631.2,
+      "end_approx": 637.1666666666666,
+      "scene": "dark_sources_endcard",
+      "layout": "Navy final card with cream/red Bengali headline upper-left and two small mono source columns below. Halftone navy texture bottom-left.",
+      "props": [
+        "headline",
+        "source columns",
+        "halftone"
+      ],
+      "observed_or_inferred_motion": "settle and hold",
+      "evidence": {
+        "overview": "reference/analysis/overview/",
+        "full_frame_atlas": "reference/analysis/index.html",
+        "time_precision": "Scene boundary estimates from decoded PTS every two seconds and image-difference transition windows; semantic changes between sampled times may differ by up to about two seconds. Not original project timeline."
+      },
+      "start": 631.2,
+      "end": 637.1666666666666,
+      "reference_frame": 19026,
+      "reference_image": "reference/analysis/scene_stills/ref_086_dark_sources_endcard.jpg"
+    }
+  ]
+}

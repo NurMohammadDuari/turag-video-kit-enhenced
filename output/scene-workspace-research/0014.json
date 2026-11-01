@@ -1,0 +1,202 @@
+{
+  "index": 13,
+  "sourceBeatHash": "fa63aa1fbd450dfdba436bd49d41fb05d2a9c60069ac4ba50bff2a29b3986058",
+  "context": {
+    "previousLine": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?",
+    "nextLine": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-014",
+    "t0": 52.0,
+    "t1": 55.0,
+    "scene": "compose",
+    "cueIndex": 13,
+    "scriptLine": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?",
+    "visualIntent": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি? | Close sewing-floor view: both hands feed cloth across the tabletop and the needle repeatedly penetrates it.",
+    "chapter": 2,
+    "chapterTitle": "সবার একটা অজুহাত",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "window",
+          "x": 750,
+          "y": 305,
+          "w": 170,
+          "h": 125,
+          "id": "s13-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 285,
+          "y": 455,
+          "h": 210,
+          "variant": 2,
+          "pose": "sit",
+          "action": "sew",
+          "id": "s13-1",
+          "instant": true
+        },
+        {
+          "type": "sewing_table",
+          "x": 400,
+          "y": 455,
+          "id": "s13-2",
+          "instant": true
+        },
+        {
+          "type": "sewing_feed",
+          "x": 395,
+          "y": 369,
+          "id": "s13-3",
+          "instant": true
+        },
+        {
+          "type": "sewing_machine_active",
+          "x": 395,
+          "y": 377,
+          "id": "s13-4",
+          "instant": true
+        },
+        {
+          "type": "fabric_rolls",
+          "x": 700,
+          "y": 455,
+          "id": "s13-5",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 470,
+          "y": 150,
+          "text": "রোবট আবার সেলাই করবে নাকি?",
+          "size": 34,
+          "id": "s13-6",
+          "instant": true
+        },
+        {
+          "type": "fan",
+          "x": 180,
+          "y": 150,
+          "id": "s13-7",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "sewing floor retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "garment worker"
+      ],
+      "action": "worker feeds cloth through the sewing machine",
+      "setting": "sewing floor",
+      "facts": [
+        "worker doubts robot sewing"
+      ],
+      "relationship": "worker doubts robot sewing",
+      "tone": "professional confidence",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on garment worker.",
+        "Abstract evidence diagram for worker doubts robot sewing."
+      ],
+      "mechanism": "specific sewing task",
+      "composition": "worker hands, cloth, needle and table form one contact chain",
+      "visibleChange": "cloth advances while needle cycles",
+      "actionPeak": "both hands guide cloth beneath the needle",
+      "cameraPurpose": "close task framing",
+      "transition": "cut to dark AI lab",
+      "why": "Physical contact makes the profession credible and animated."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_008_profession_rooms.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "রোবট আবার সেলাই করবে নাকি?",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "worker feeds cloth through the sewing machine",
+      "motivation": "Physical contact makes the profession credible and animated.",
+      "anticipation": "garment worker orient head and weight toward the acting object before contact.",
+      "contact": "both hands guide cloth beneath the needle; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "both hands guide cloth beneath the needle",
+      "followThrough": "The action settles with a readable hold before cut to dark AI lab.",
+      "secondaryMotion": "sewing floor uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "close task framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes sewing floor with readable subject hierarchy.",
+      "middle": "Action peak checked: both hands guide cloth beneath the needle.",
+      "end": "Final hold leaves the narrated relationship legible before cut to dark AI lab.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

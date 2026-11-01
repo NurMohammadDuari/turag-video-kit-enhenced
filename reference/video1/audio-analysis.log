@@ -1,0 +1,39 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/mint/Downloads/turag/video.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:05:41.46, start: 0.000000, bitrate: 2784 kb/s
+  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, smpte170m/bt470bg/bt709), 1920x1080, 2648 kb/s, 30 fps, 30 tbr, 16k tbn (default)
+    Metadata:
+      handler_name    : ISO Media file produced by Google Inc. Created on: 10/28/2026.
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0x5af9e404ea40] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 pcm_s16le
+[out#0/null @ 0x5af9e3f6a100] video:0kB audio:64023kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+size=N/A time=00:05:41.44 bitrate=N/A speed= 118x    
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] n_samples: 32779536
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] mean_volume: -17.7 dB
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] max_volume: -1.3 dB
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] histogram_1db: 114
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] histogram_2db: 1156
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] histogram_3db: 8027
+[Parsed_volumedetect_0 @ 0x5af9e4049b40] histogram_4db: 29550

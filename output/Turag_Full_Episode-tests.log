@@ -1,0 +1,108 @@
+
+> turag-video-kit@9.0.0 test
+> python3 -m unittest discover -s tests -v && node tools/test_scene_engine.js && python3 tools/director_audit.py episodes/ep02-first-minute-revised.json
+
+test_reject_animated_identity (test_cast_registry.CastTests.test_reject_animated_identity) ... ok
+test_reject_drift (test_cast_registry.CastTests.test_reject_drift) ... ok
+test_reject_unknown (test_cast_registry.CastTests.test_reject_unknown) ... ok
+test_resolve_without_mutating_source (test_cast_registry.CastTests.test_resolve_without_mutating_source) ... ok
+test_complete_dossier_passes (test_director_audit.DirectorAuditTests.test_complete_dossier_passes) ... ok
+test_missing_alternatives_fails (test_director_audit.DirectorAuditTests.test_missing_alternatives_fails) ... ok
+test_unledgered_copy_fails (test_director_audit.DirectorAuditTests.test_unledgered_copy_fails) ... ok
+test_markdown_bengali_and_milliseconds (test_episode.TimingTests.test_markdown_bengali_and_milliseconds) ... ok
+test_rejects_gap_overlap_and_nonfinite (test_episode.TimingTests.test_rejects_gap_overlap_and_nonfinite) ... ok
+test_srt_multiline (test_episode.TimingTests.test_srt_multiline) ... ok
+test_untimed_never_claims_alignment (test_episode.TimingTests.test_untimed_never_claims_alignment) ... ok
+test_millisecond_carry (test_export_handoff.HandoffTests.test_millisecond_carry) ... ok
+test_bad_scene_data_rejected (test_pipeline_regressions.RegressionTests.test_bad_scene_data_rejected) ... ok
+test_bad_timestamp_not_silently_estimated (test_pipeline_regressions.RegressionTests.test_bad_timestamp_not_silently_estimated) ... ok
+test_beat_owns_its_cue_time (test_pipeline_regressions.RegressionTests.test_beat_owns_its_cue_time) ... ok
+test_cue_cannot_run_past_audio (test_pipeline_regressions.RegressionTests.test_cue_cannot_run_past_audio) ... ok
+test_duplicate_object_ids_rejected (test_pipeline_regressions.RegressionTests.test_duplicate_object_ids_rejected) ... ok
+test_invalid_seconds_rejected (test_pipeline_regressions.RegressionTests.test_invalid_seconds_rejected) ... ok
+test_multiline_timecoded_text_kept (test_pipeline_regressions.RegressionTests.test_multiline_timecoded_text_kept) ... ok
+test_partial_srt_must_not_drop_a_cue (test_pipeline_regressions.RegressionTests.test_partial_srt_must_not_drop_a_cue) ... ok
+test_valid_plan (test_pipeline_regressions.RegressionTests.test_valid_plan) ... ok
+test_changes_invalidate_review (test_review_receipt.ReviewReceiptTests.test_changes_invalidate_review) ... ok
+test_edit_invalidates_approval (test_scene_workspace.SceneWorkspaceTests.test_edit_invalidates_approval) ... ok
+test_round_trip_and_new_revision (test_scene_workspace.SceneWorkspaceTests.test_round_trip_and_new_revision) ... ok
+test_script_change_rejected (test_scene_workspace.SceneWorkspaceTests.test_script_change_rejected) ... ok
+test_stale_source_rejected (test_scene_workspace.SceneWorkspaceTests.test_stale_source_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 0.311s
+
+OK
+PASS: timing, attachments, all sockets/actions, all motion kinds, validation and articulated movement.
+{
+  "manifest": "episodes/ep02-first-minute-revised.json",
+  "cues": 15,
+  "errors": [],
+  "warnings": [],
+  "counts": {
+    "backdrops": {
+      "night": 2,
+      "paper": 11,
+      "city": 1,
+      "street": 1
+    },
+    "mechanisms": {
+      "editorial title inside a working office": 1,
+      "grounded offer handoff": 1,
+      "physical exchange": 1,
+      "literal proportion grid": 1,
+      "institution row with departures": 1,
+      "evidence report and counter": 1,
+      "archive retrieval": 1,
+      "shared-baseline towers": 1,
+      "established street claim": 1,
+      "magnified claim inspection": 1,
+      "chapter reset then claim chorus": 1,
+      "specific hospital task": 1,
+      "specific classroom task": 1,
+      "specific sewing task": 1,
+      "active AI laboratory": 1
+    },
+    "props": {
+      "office_windowwall": 1,
+      "office_station": 17,
+      "label": 16,
+      "calendar": 2,
+      "window": 5,
+      "person": 22,
+      "desk": 5,
+      "offer_letter": 1,
+      "filing_cabinet": 3,
+      "exit_door": 1,
+      "cash_packet": 1,
+      "envelope": 1,
+      "workforce_card": 1,
+      "building": 4,
+      "report_board": 2,
+      "count_number": 1,
+      "paper_stack": 2,
+      "live_drawer": 1,
+      "number": 1,
+      "stat_tower": 2,
+      "palm": 1,
+      "tea_stall": 1,
+      "chat": 4,
+      "rickshaw": 1,
+      "claim_evidence": 1,
+      "chapter_card": 1,
+      "patient_bed": 1,
+      "medical_stand": 1,
+      "plant": 2,
+      "blackboard": 1,
+      "writing_marks": 1,
+      "fan": 2,
+      "sewing_table": 1,
+      "sewing_feed": 1,
+      "sewing_machine_active": 1,
+      "fabric_rolls": 1,
+      "lab_wall": 1,
+      "control_panel_live": 1
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,7504 @@
+{
+  "version": 2,
+  "planningStatus": "scaffold",
+  "directorVersion": 1,
+  "directorStatus": "draft",
+  "episodeDesign": {
+    "thesis": "",
+    "emotionalArc": "",
+    "chapterArc": [],
+    "castBible": {},
+    "locationBible": {},
+    "visualMotifs": [],
+    "densityRhythm": "",
+    "chapterCardPlan": [],
+    "continuityRisks": []
+  },
+  "id": "ai-bubble",
+  "title": "ai-bubble",
+  "duration": 471.552,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "audio": "audio/AI বাবল কি বার্স্ট হতে যাচ্ছে DeepSeek, Nvidia আর ট্রিলিয়ন ডলারের হিসাব-7ba76220eb.mp3",
+  "script": "script/ai-bubble.srt",
+  "timing": {
+    "method": "user_supplied_timecodes",
+    "verified": false,
+    "note": "Timecodes are supplied editorial cues, not independently forced-aligned to speech."
+  },
+  "cues": [
+    {
+      "t0": 0.0,
+      "t1": 4.5,
+      "text": "AI কি আসলেই একটা বাবল?"
+    },
+    {
+      "t0": 4.5,
+      "t1": 9.0,
+      "text": "২০২৫ সালের ২৭শে জানুয়ারি। একটা নরমাল সোমবার।"
+    },
+    {
+      "t0": 9.0,
+      "t1": 16.5,
+      "text": "আমেরিকার শেয়ারবাজার খুলল, আর কয়েক ঘণ্টার মধ্যে এমন একটা কাণ্ড ঘটল, যেটা ইতিহাসে আগে কখনো ঘটে নাই।"
+    },
+    {
+      "t0": 16.5,
+      "t1": 23.5,
+      "text": "Nvidia, যারা AI-এর চিপ বানায়, এক দিনে তাদের দাম কমে গেল প্রায় ৫৯ হাজার কোটি ডলার।"
+    },
+    {
+      "t0": 23.5,
+      "t1": 30.0,
+      "text": "ভাবেন একবার। পুরা বাংলাদেশ সারা বছরে যত কিছু উৎপাদন করে, তার চেয়েও বেশি টাকা।"
+    },
+    {
+      "t0": 30.0,
+      "t1": 32.0,
+      "text": "এক দিনে হাওয়া।"
+    },
+    {
+      "t0": 32.0,
+      "t1": 35.0,
+      "text": "তো কী হইছিল? যুদ্ধ? মহামারী? না।"
+    },
+    {
+      "t0": 35.0,
+      "t1": 43.0,
+      "text": "চীনের একটা ছোট্ট, প্রায় অচেনা ল্যাব একটা AI বানাইছে। আর সেটা সবার জন্য ফ্রি করে দিছে। ব্যস।"
+    },
+    {
+      "t0": 43.0,
+      "t1": 49.0,
+      "text": "এখন প্রশ্ন হলো, একটা ফ্রি জিনিস দেখে দুনিয়ার সবচেয়ে বড়লোক কোম্পানিগুলা এত ভয় পাইল কেন?"
+    },
+    {
+      "t0": 49.0,
+      "t1": 53.5,
+      "text": "এইটা বুঝতে হলে আগে একটা বাজির গল্প শুনতে হবে। খুব বড় একটা বাজি।"
+    },
+    {
+      "t0": 53.5,
+      "t1": 58.5,
+      "text": "আমেরিকার বড় টেক কোম্পানিগুলার চিন্তাটা খুব সিম্পল।"
+    },
+    {
+      "t0": 58.5,
+      "t1": 68.5,
+      "text": "যার কাছে যত বেশি চিপ, যত বড় ডেটা সেন্টার, সে তত ভালো AI বানাবে। আর যে সবচেয়ে ভালো AI বানাবে, শেষে পুরা মার্কেট তার।"
+    },
+    {
+      "t0": 68.5,
+      "t1": 77.5,
+      "text": "তো শুরু হইল খরচের রেস। গুগল, মাইক্রোসফট, অ্যামাজন, মেটা—শুধু এই এক বছরেই AI-এর পেছনে ঢালতেছে প্রায় ৬৫ হাজার কোটি ডলার।"
+    },
+    {
+      "t0": 77.5,
+      "t1": 86.5,
+      "text": "ফুটবল মাঠের মতো বিশাল বিল্ডিং, ভেতরে হাজার হাজার চিপ, আর সেগুলা চালাতে আলাদা পাওয়ার প্ল্যান্ট পর্যন্ত লাগতেছে।"
+    },
+    {
+      "t0": 86.5,
+      "t1": 92.0,
+      "text": "আর মজার ব্যাপার হলো, এই টাকার একটা বড় অংশ নিজেদের পকেটের না। লোন।"
+    },
+    {
+      "t0": 92.0,
+      "t1": 98.0,
+      "text": "JPMorgan-এর হিসাবে এই রেসের পেছনে লোন নেওয়া হইতে পারে প্রায় ৪ লাখ কোটি ডলার।"
+    },
+    {
+      "t0": 98.0,
+      "t1": 103.5,
+      "text": "তো এত টাকা উঠবে কেমনে? এইখানে কৌশলটা আপনি আগে থেকেই চেনেন।"
+    },
+    {
+      "t0": 103.5,
+      "t1": 111.0,
+      "text": "পাঠাও, ফুডপান্ডা যখন প্রথম আসলো, মনে আছে? প্রোমো কোডের উপর প্রোমো কোড। পানির দামে রাইড, ফ্রি ডেলিভারি।"
+    },
+    {
+      "t0": 111.0,
+      "t1": 116.5,
+      "text": "প্ল্যান ছিল সিম্পল: আগে সবাইরে অভ্যাস করাও, তারপর আস্তে আস্তে দাম বাড়াও।"
+    },
+    {
+      "t0": 116.5,
+      "t1": 124.5,
+      "text": "আর এখন? ওই প্রোমো কোড কই গেল, আপনিই বলেন। ChatGPT আপনাকে যে ফ্রিতে দিতেছে, ওইটাও আসলে একটা প্রোমো কোড।"
+    },
+    {
+      "t0": 124.5,
+      "t1": 134.5,
+      "text": "কিন্তু এই বাজির একটা শর্ত আছে। টেক দুনিয়ায় এর নাম Moat। আপনি যা বানাইতেছেন, সেটা যেন আর কেউ সস্তায় বানায় ফেলতে না পারে। আর ঠিক এই শর্তটাই ভাঙলো ওই ছোট্ট ল্যাব।"
+    },
+    {
+      "t0": 134.5,
+      "t1": 144.0,
+      "text": "ল্যাবটার নাম DeepSeek। চীনের হাংজৌ শহরে। বড় কোনো টেক কোম্পানি না। এর জন্ম আসলে শেয়ারবাজারে টাকা খাটানো একটা ফান্ডের ভেতরে।"
+    },
+    {
+      "t0": 144.0,
+      "t1": 150.5,
+      "text": "আর ওদের হাতে আমেরিকার সেরা চিপও ছিল না, কারণ আমেরিকা চীনে সেরা চিপ বেচা আটকায় রাখছে।"
+    },
+    {
+      "t0": 150.5,
+      "t1": 156.5,
+      "text": "তো ওদের সামনে একটাই রাস্তা ছিল: কম জিনিস দিয়ে বেশি কাজ বের করা। মানে, বুদ্ধি খাটানো।"
+    },
+    {
+      "t0": 156.5,
+      "t1": 166.5,
+      "text": "রেজাল্ট? এমন একটা AI, যেটা OpenAI-এর সেরা মডেলের কাছাকাছি কাজ করে। আর ওদের দাবি, খরচ ২০ থেকে ৫০ গুণ কম।"
+    },
+    {
+      "t0": 166.5,
+      "t1": 172.5,
+      "text": "কিন্তু আসল বিগ নিউজ দাম না। আসলটা হলো, ওরা পুরা মডেলটাই সবার হাতে দিয়ে দিছে।"
+    },
+    {
+      "t0": 172.5,
+      "t1": 179.0,
+      "text": "একটা উদাহরণ দেই। ChatGPT হলো একটা রেস্টুরেন্ট। খাইতে চাইলে ওদের টেবিলে বসতে হবে, ওদের দামে।"
+    },
+    {
+      "t0": 179.0,
+      "t1": 186.5,
+      "text": "DeepSeek আপনাকে রেস্টুরেন্টে ডাকেরই নাই। সোজা হাতে রেসিপিটা ধরায় দিছে। বলছে, যান, বাসায় গিয়ে নিজে রান্না করেন।"
+    },
+    {
+      "t0": 186.5,
+      "t1": 195.5,
+      "text": "তবে তার মানে এই না যে আপনি এখনই নিজের ল্যাপটপে এই মডেল নামায়ে চালাইতে পারবেন। বড় মডেলগুলা চালাইতে এখনো ভালো সার্ভার লাগে।"
+    },
+    {
+      "t0": 195.5,
+      "t1": 202.5,
+      "text": "তারপর লাইন ধরে আসলো আরো অনেকে। আলিবাবার Qwen, Z.ai-এর GLM, Moonshot-এর Kimi।"
+    },
+    {
+      "t0": 202.5,
+      "t1": 212.5,
+      "text": "আর আজকে, ২০২৬ সালে, দুনিয়ার সেরা ওপেন AI মডেলগুলার বেশিরভাগই চীনের। আর এগুলা সত্যিকারের ওপেন, খালি নামে ওপেন না।"
+    },
+    {
+      "t0": 212.5,
+      "t1": 220.5,
+      "text": "DeepSeek এইখানে আরো এক ধাপ আগায়। ওরা একটু একটু করে ওদের সব কুকিং সিক্রেটস সবাইরে দিয়ে দিতেছে।"
+    },
+    {
+      "t0": 220.5,
+      "t1": 226.0,
+      "text": "কোটি কোটি মানুষকে কেমনে খুব কম খরচে AI চালায়ে দেওয়া যায়, তার পুরা কৌশল।"
+    },
+    {
+      "t0": 226.0,
+      "t1": 232.0,
+      "text": "এই অক্টোবরেই ওরা এমন একটা হিসাব পাবলিক করছে, যেটা বেশিরভাগ কোম্পানি তালা মেরে রাখে।"
+    },
+    {
+      "t0": 232.0,
+      "t1": 238.5,
+      "text": "ওদের দাবি, সবচেয়ে সস্তা সময়ের রেটেও ওদের একেকটা চিপ ঘণ্টায় কামাইতেছে প্রায় ৩৮ ডলার।"
+    },
+    {
+      "t0": 238.5,
+      "t1": 246.5,
+      "text": "আর কাস্টমারের জন্য দাম কেমন? প্রায় ৭ লাখ ইংরেজি শব্দ লিখায়ে নিতে খরচ পড়ে মোটামুটি এক প্লেট ফুচকার দামে।"
+    },
+    {
+      "t0": 246.5,
+      "t1": 256.5,
+      "text": "তার মানে, সস্তা AI কোনো দান-খয়রাত না। এইটা দিয়ে ভালো ব্যবসাও করা যায়। আর এইখানেই লুকায় আছে পুরা গল্পের সবচেয়ে ইন্টারেস্টিং পয়েন্টটা।"
+    },
+    {
+      "t0": 256.5,
+      "t1": 264.0,
+      "text": "আমি নিজে AI ফিল্ডে কাজ করি। আমার চোখে ব্যাপারটা এরকম: আপনাকে উত্তর দিতে গিয়ে কেউ ফকির হয়ে যাইতেছে না।"
+    },
+    {
+      "t0": 264.0,
+      "t1": 270.5,
+      "text": "AI চালানো, মানে আপনার প্রশ্নের উত্তর দেওয়া, এইটা প্রফিটে করা যায়। DeepSeek সেটাই দেখাইতেছে।"
+    },
+    {
+      "t0": 270.5,
+      "t1": 280.5,
+      "text": "টাকা পুড়তেছে রেসে। কে সবার আগে সবচেয়ে বড় মডেল বানাবে, কার ডেটা সেন্টার সবচেয়ে বড় হবে, এই দৌড়ে। তাও আবার লোনের টাকায়।"
+    },
+    {
+      "t0": 280.5,
+      "t1": 289.5,
+      "text": "এখন ভাবেন, রেসে জিতলে প্রাইজটা কী? যদি কয়েক মাস পরেই কেউ প্রায় একই জিনিস বানায় ফ্রিতে কিংবা নামমাত্র মূল্যে ছেড়ে দেয়?"
+    },
+    {
+      "t0": 289.5,
+      "t1": 295.5,
+      "text": "যেকোনো মার্কেটে, যখন সবাই প্রায় একই জিনিস বেচে, দাম শুধু নামতেই থাকে।"
+    },
+    {
+      "t0": 295.5,
+      "t1": 301.5,
+      "text": "আর তখন সবচেয়ে বিপদে পড়ে কে? যে সবচেয়ে বেশি লোন নিয়ে সবচেয়ে বড় দোকান খুলছে।"
+    },
+    {
+      "t0": 301.5,
+      "t1": 314.5,
+      "text": "এই অবস্থার একটা নাম আছে: bubble। কোনো কিছুর দাম যখন তার আসল মূল্যের চেয়ে অনেক বেশি ফুলে-ফেঁপে ওঠে, কারণ সবাই কিনতেছে দেখে সবাই কিনে। তারপর একদিন, ঠাস করে ফাটে।"
+    },
+    {
+      "t0": 314.5,
+      "t1": 325.5,
+      "text": "AI বাবল-এর ভয়টা আসলে এইখানে। AI ভুয়া, ব্যাপারটা মোটেও এরকম না। ভয়টা হলো, AI-এর গায়ে যে প্রাইস ট্যাগ লাগানো হইছে, সেটা হয়তো টিকবে না।"
+    },
+    {
+      "t0": 325.5,
+      "t1": 330.5,
+      "text": "তবে আবার এতটাই সোজা না! শুধু এক দিক বললে তো হবে না। অন্য দিকটাও শোনেন।"
+    },
+    {
+      "t0": 330.5,
+      "t1": 338.5,
+      "text": "প্রথম কথা, AI যত সস্তা হয়, মানুষ তত বেশি ইউজ করে। চাহিদা এত বাড়তে পারে যে সব চিপই কাজে লেগে যায়।"
+    },
+    {
+      "t0": 338.5,
+      "t1": 343.5,
+      "text": "খেয়াল করেন, জানুয়ারির ওই ধাক্কার পরেও Nvidia আবার ঘুরে দাঁড়াইছে।"
+    },
+    {
+      "t0": 343.5,
+      "t1": 349.5,
+      "text": "সেকেন্ড, একদম টপ লেভেলের সেরা মডেলগুলা এখনো আমেরিকার কোম্পানিগুলারই।"
+    },
+    {
+      "t0": 349.5,
+      "t1": 358.0,
+      "text": "আর থার্ড, DeepSeek-এর অনেক নাম্বার ওদের নিজেদের দাবি। ওরা বলছিল, মডেল ট্রেন করতে লাগছে মাত্র ৫৬ লাখ ডলার।"
+    },
+    {
+      "t0": 358.0,
+      "t1": 368.5,
+      "text": "এক্সপার্টরা বলছেন, ওইটা শুধু শেষ ধাপের খরচ, পুরাটা না। আর আগেরবার নিজেদের আয়ের হিসাবরেও ওরা নিজেরাই \"থিওরেটিক্যাল\" বলছিল। তাই চোখ বন্ধ করে বিশ্বাস করারও কিছু নাই।"
+    },
+    {
+      "t0": 368.5,
+      "t1": 378.0,
+      "text": "এইবার আসি আমাদের কথায়। খারাপ খবরটা আগে বলি। এই রেস যদি হুট করে থেমে যায়, ধাক্কাটা লাগবে আমেরিকার অর্থনীতিতে।"
+    },
+    {
+      "t0": 378.0,
+      "t1": 385.5,
+      "text": "আর ওই ধাক্কা ঢেউ হয়ে আসবে আমাদের গার্মেন্টসের অর্ডারে, আউটসোর্সিংয়ের কাজে, প্রবাসী ভাইদের ইনকামে।"
+    },
+    {
+      "t0": 385.5,
+      "t1": 393.5,
+      "text": "কিন্তু ভালো খবরটা আরো বড়। ওপেন মডেল মানে, বাংলাদেশের একজন স্টুডেন্ট, একটা স্টার্টআপ, এমনকি একটা ব্যাংক, কারো আর আমেরিকার দামে আটকায় থাকা লাগবে না।"
+    },
+    {
+      "t0": 393.5,
+      "t1": 401.5,
+      "text": "রেসিপি তো হাতেই আছে। নিজের সার্ভারে চালান, দেশের ডেটা দেশেই রাখেন।"
+    },
+    {
+      "t0": 401.5,
+      "t1": 408.5,
+      "text": "সিলিকন ভ্যালির ট্রিলিয়ন ডলারের রেসের সবচেয়ে বড় লাভটা হয়তো পাবে তারাই, যারা এই রেসে নামেই নাই।"
+    },
+    {
+      "t0": 408.5,
+      "t1": 416.5,
+      "text": "শেষ করার আগে আপনাকে ২০০০ সালের একটা গল্প বলি। তখন আমেরিকার কোম্পানিগুলা লোন নিয়ে মাটির নিচে আর সমুদ্রের তলায় হাজার হাজার মাইল ইন্টারনেট কেবল বসাইছিল।"
+    },
+    {
+      "t0": 416.5,
+      "t1": 423.5,
+      "text": "তারপর bubble ফাটল। বহু কোম্পানি দেউলিয়া। কিন্তু কেবলগুলা? রয়ে গেল।"
+    },
+    {
+      "t0": 423.5,
+      "t1": 431.5,
+      "text": "আর পরে ওই কেবলের উপর দিয়েই আসলো সস্তা ইন্টারনেট, ইউটিউব, আরো কত কী।"
+    },
+    {
+      "t0": 431.5,
+      "t1": 439.5,
+      "text": "আমার মনে হয়, AI-এর গল্পটাও অনেকটা এরকম হবে। টেকনোলজিটা জিতবে ইভেনচুয়ালি, এইটা নিয়ে আমার খুব একটা সন্দেহ নাই।"
+    },
+    {
+      "t0": 439.5,
+      "t1": 445.5,
+      "text": "কিন্তু যারা লোন নিয়ে দৌড়াইতেছে, তারা সবাই জিতবে, এমন কোনো গ্যারান্টি নাই।"
+    },
+    {
+      "t0": 445.5,
+      "t1": 455.5,
+      "text": "আর কবে, কতটা ধাক্কা আসবে? সত্যি কথা হলো, কেউ জানে না। কেউ যদি বলে সে শিওর জানে, একটু সাবধান থাকেন। সে সম্ভবত আপনাকে কিছু একটা বেচতেছে।"
+    },
+    {
+      "t0": 455.5,
+      "t1": 465.5,
+      "text": "যাইহোক, আপনি DeepSeek, Kimi কিংবা Qwen ইউজ করে দেখছেন? ChatGPT-র চেয়ে ভালো লাগছে, নাকি খারাপ? কমেন্টে বইলেন।"
+    },
+    {
+      "t0": 465.5,
+      "t1": 471.0,
+      "text": "টেকনোলজি জিতবে। বাজিটা কে জিতবে?"
+    }
+  ],
+  "beats": [
+    {
+      "id": "beat-001",
+      "t0": 0,
+      "t1": 4.5,
+      "scene": "compose",
+      "cueIndex": 0,
+      "scriptLine": "AI কি আসলেই একটা বাবল?",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-002",
+      "t0": 4.5,
+      "t1": 9.0,
+      "scene": "compose",
+      "cueIndex": 1,
+      "scriptLine": "২০২৫ সালের ২৭শে জানুয়ারি। একটা নরমাল সোমবার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-003",
+      "t0": 9.0,
+      "t1": 16.5,
+      "scene": "compose",
+      "cueIndex": 2,
+      "scriptLine": "আমেরিকার শেয়ারবাজার খুলল, আর কয়েক ঘণ্টার মধ্যে এমন একটা কাণ্ড ঘটল, যেটা ইতিহাসে আগে কখনো ঘটে নাই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-004",
+      "t0": 16.5,
+      "t1": 23.5,
+      "scene": "compose",
+      "cueIndex": 3,
+      "scriptLine": "Nvidia, যারা AI-এর চিপ বানায়, এক দিনে তাদের দাম কমে গেল প্রায় ৫৯ হাজার কোটি ডলার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-005",
+      "t0": 23.5,
+      "t1": 30.0,
+      "scene": "compose",
+      "cueIndex": 4,
+      "scriptLine": "ভাবেন একবার। পুরা বাংলাদেশ সারা বছরে যত কিছু উৎপাদন করে, তার চেয়েও বেশি টাকা।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "calendar",
+            "x": 650,
+            "y": 390,
+            "text": "২৬",
+            "label": "সময়",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 325,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 1
+          },
+          {
+            "id": "object-3",
+            "type": "paper_stack",
+            "x": 470,
+            "y": 455,
+            "count": 6,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-006",
+      "t0": 30.0,
+      "t1": 32.0,
+      "scene": "compose",
+      "cueIndex": 5,
+      "scriptLine": "এক দিনে হাওয়া।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-007",
+      "t0": 32.0,
+      "t1": 35.0,
+      "scene": "compose",
+      "cueIndex": 6,
+      "scriptLine": "তো কী হইছিল? যুদ্ধ? মহামারী? না।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-008",
+      "t0": 35.0,
+      "t1": 43.0,
+      "scene": "compose",
+      "cueIndex": 7,
+      "scriptLine": "চীনের একটা ছোট্ট, প্রায় অচেনা ল্যাব একটা AI বানাইছে। আর সেটা সবার জন্য ফ্রি করে দিছে। ব্যস।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "grid",
+            "x": 460,
+            "y": 365,
+            "count": 40,
+            "cols": 10,
+            "active": 24,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 270,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 0
+          },
+          {
+            "id": "object-3",
+            "type": "card",
+            "x": 780,
+            "y": 380,
+            "w": 180,
+            "h": 170,
+            "text": "কাজের হিসাব",
+            "size": 23,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-009",
+      "t0": 43.0,
+      "t1": 49.0,
+      "scene": "compose",
+      "cueIndex": 8,
+      "scriptLine": "এখন প্রশ্ন হলো, একটা ফ্রি জিনিস দেখে দুনিয়ার সবচেয়ে বড়লোক কোম্পানিগুলা এত ভয় পাইল কেন?",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-010",
+      "t0": 49.0,
+      "t1": 53.5,
+      "scene": "compose",
+      "cueIndex": 9,
+      "scriptLine": "এইটা বুঝতে হলে আগে একটা বাজির গল্প শুনতে হবে। খুব বড় একটা বাজি।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-011",
+      "t0": 53.5,
+      "t1": 58.5,
+      "scene": "compose",
+      "cueIndex": 10,
+      "scriptLine": "আমেরিকার বড় টেক কোম্পানিগুলার চিন্তাটা খুব সিম্পল।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-012",
+      "t0": 58.5,
+      "t1": 68.5,
+      "scene": "compose",
+      "cueIndex": 11,
+      "scriptLine": "যার কাছে যত বেশি চিপ, যত বড় ডেটা সেন্টার, সে তত ভালো AI বানাবে। আর যে সবচেয়ে ভালো AI বানাবে, শেষে পুরা মার্কেট তার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-013",
+      "t0": 68.5,
+      "t1": 77.5,
+      "scene": "compose",
+      "cueIndex": 12,
+      "scriptLine": "তো শুরু হইল খরচের রেস। গুগল, মাইক্রোসফট, অ্যামাজন, মেটা—শুধু এই এক বছরেই AI-এর পেছনে ঢালতেছে প্রায় ৬৫ হাজার কোটি ডলার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "calendar",
+            "x": 650,
+            "y": 390,
+            "text": "২৬",
+            "label": "সময়",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 325,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 1
+          },
+          {
+            "id": "object-3",
+            "type": "paper_stack",
+            "x": 470,
+            "y": 455,
+            "count": 6,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-014",
+      "t0": 77.5,
+      "t1": 86.5,
+      "scene": "compose",
+      "cueIndex": 13,
+      "scriptLine": "ফুটবল মাঠের মতো বিশাল বিল্ডিং, ভেতরে হাজার হাজার চিপ, আর সেগুলা চালাতে আলাদা পাওয়ার প্ল্যান্ট পর্যন্ত লাগতেছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-015",
+      "t0": 86.5,
+      "t1": 92.0,
+      "scene": "compose",
+      "cueIndex": 14,
+      "scriptLine": "আর মজার ব্যাপার হলো, এই টাকার একটা বড় অংশ নিজেদের পকেটের না। লোন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-016",
+      "t0": 92.0,
+      "t1": 98.0,
+      "scene": "compose",
+      "cueIndex": 15,
+      "scriptLine": "JPMorgan-এর হিসাবে এই রেসের পেছনে লোন নেওয়া হইতে পারে প্রায় ৪ লাখ কোটি ডলার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "grid",
+            "x": 460,
+            "y": 365,
+            "count": 40,
+            "cols": 10,
+            "active": 24,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 270,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 0
+          },
+          {
+            "id": "object-3",
+            "type": "card",
+            "x": 780,
+            "y": 380,
+            "w": 180,
+            "h": 170,
+            "text": "কাজের হিসাব",
+            "size": 23,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-017",
+      "t0": 98.0,
+      "t1": 103.5,
+      "scene": "compose",
+      "cueIndex": 16,
+      "scriptLine": "তো এত টাকা উঠবে কেমনে? এইখানে কৌশলটা আপনি আগে থেকেই চেনেন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-018",
+      "t0": 103.5,
+      "t1": 111.0,
+      "scene": "compose",
+      "cueIndex": 17,
+      "scriptLine": "পাঠাও, ফুডপান্ডা যখন প্রথম আসলো, মনে আছে? প্রোমো কোডের উপর প্রোমো কোড। পানির দামে রাইড, ফ্রি ডেলিভারি।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "office",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "desk",
+            "x": 420,
+            "y": 455,
+            "ai": true,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 345,
+            "y": 455,
+            "pose": "sit",
+            "role": "guide",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 2
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 650,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "paper_stack",
+            "x": 770,
+            "y": 455,
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-019",
+      "t0": 111.0,
+      "t1": 116.5,
+      "scene": "compose",
+      "cueIndex": 18,
+      "scriptLine": "প্ল্যান ছিল সিম্পল: আগে সবাইরে অভ্যাস করাও, তারপর আস্তে আস্তে দাম বাড়াও।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-020",
+      "t0": 116.5,
+      "t1": 124.5,
+      "scene": "compose",
+      "cueIndex": 19,
+      "scriptLine": "আর এখন? ওই প্রোমো কোড কই গেল, আপনিই বলেন। ChatGPT আপনাকে যে ফ্রিতে দিতেছে, ওইটাও আসলে একটা প্রোমো কোড।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "office",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "desk",
+            "x": 420,
+            "y": 455,
+            "ai": true,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 345,
+            "y": 455,
+            "pose": "sit",
+            "role": "guide",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 0
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 650,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "paper_stack",
+            "x": 770,
+            "y": 455,
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-021",
+      "t0": 124.5,
+      "t1": 134.5,
+      "scene": "compose",
+      "cueIndex": 20,
+      "scriptLine": "কিন্তু এই বাজির একটা শর্ত আছে। টেক দুনিয়ায় এর নাম Moat। আপনি যা বানাইতেছেন, সেটা যেন আর কেউ সস্তায় বানায় ফেলতে না পারে। আর ঠিক এই শর্তটাই ভাঙলো ওই ছোট্ট ল্যাব।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-022",
+      "t0": 134.5,
+      "t1": 144.0,
+      "scene": "compose",
+      "cueIndex": 21,
+      "scriptLine": "ল্যাবটার নাম DeepSeek। চীনের হাংজৌ শহরে। বড় কোনো টেক কোম্পানি না। এর জন্ম আসলে শেয়ারবাজারে টাকা খাটানো একটা ফান্ডের ভেতরে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "grid",
+            "x": 460,
+            "y": 365,
+            "count": 40,
+            "cols": 10,
+            "active": 24,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 270,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 2
+          },
+          {
+            "id": "object-3",
+            "type": "card",
+            "x": 780,
+            "y": 380,
+            "w": 180,
+            "h": 170,
+            "text": "কাজের হিসাব",
+            "size": 23,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-023",
+      "t0": 144.0,
+      "t1": 150.5,
+      "scene": "compose",
+      "cueIndex": 22,
+      "scriptLine": "আর ওদের হাতে আমেরিকার সেরা চিপও ছিল না, কারণ আমেরিকা চীনে সেরা চিপ বেচা আটকায় রাখছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-024",
+      "t0": 150.5,
+      "t1": 156.5,
+      "scene": "compose",
+      "cueIndex": 23,
+      "scriptLine": "তো ওদের সামনে একটাই রাস্তা ছিল: কম জিনিস দিয়ে বেশি কাজ বের করা। মানে, বুদ্ধি খাটানো।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-025",
+      "t0": 156.5,
+      "t1": 166.5,
+      "scene": "compose",
+      "cueIndex": 24,
+      "scriptLine": "রেজাল্ট? এমন একটা AI, যেটা OpenAI-এর সেরা মডেলের কাছাকাছি কাজ করে। আর ওদের দাবি, খরচ ২০ থেকে ৫০ গুণ কম।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-026",
+      "t0": 166.5,
+      "t1": 172.5,
+      "scene": "compose",
+      "cueIndex": 25,
+      "scriptLine": "কিন্তু আসল বিগ নিউজ দাম না। আসলটা হলো, ওরা পুরা মডেলটাই সবার হাতে দিয়ে দিছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-027",
+      "t0": 172.5,
+      "t1": 179.0,
+      "scene": "compose",
+      "cueIndex": 26,
+      "scriptLine": "একটা উদাহরণ দেই। ChatGPT হলো একটা রেস্টুরেন্ট। খাইতে চাইলে ওদের টেবিলে বসতে হবে, ওদের দামে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-028",
+      "t0": 179.0,
+      "t1": 186.5,
+      "scene": "compose",
+      "cueIndex": 27,
+      "scriptLine": "DeepSeek আপনাকে রেস্টুরেন্টে ডাকেরই নাই। সোজা হাতে রেসিপিটা ধরায় দিছে। বলছে, যান, বাসায় গিয়ে নিজে রান্না করেন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-029",
+      "t0": 186.5,
+      "t1": 195.5,
+      "scene": "compose",
+      "cueIndex": 28,
+      "scriptLine": "তবে তার মানে এই না যে আপনি এখনই নিজের ল্যাপটপে এই মডেল নামায়ে চালাইতে পারবেন। বড় মডেলগুলা চালাইতে এখনো ভালো সার্ভার লাগে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-030",
+      "t0": 195.5,
+      "t1": 202.5,
+      "scene": "compose",
+      "cueIndex": 29,
+      "scriptLine": "তারপর লাইন ধরে আসলো আরো অনেকে। আলিবাবার Qwen, Z.ai-এর GLM, Moonshot-এর Kimi।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-031",
+      "t0": 202.5,
+      "t1": 212.5,
+      "scene": "compose",
+      "cueIndex": 30,
+      "scriptLine": "আর আজকে, ২০২৬ সালে, দুনিয়ার সেরা ওপেন AI মডেলগুলার বেশিরভাগই চীনের। আর এগুলা সত্যিকারের ওপেন, খালি নামে ওপেন না।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-032",
+      "t0": 212.5,
+      "t1": 220.5,
+      "scene": "compose",
+      "cueIndex": 31,
+      "scriptLine": "DeepSeek এইখানে আরো এক ধাপ আগায়। ওরা একটু একটু করে ওদের সব কুকিং সিক্রেটস সবাইরে দিয়ে দিতেছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-033",
+      "t0": 220.5,
+      "t1": 226.0,
+      "scene": "compose",
+      "cueIndex": 32,
+      "scriptLine": "কোটি কোটি মানুষকে কেমনে খুব কম খরচে AI চালায়ে দেওয়া যায়, তার পুরা কৌশল।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-034",
+      "t0": 226.0,
+      "t1": 232.0,
+      "scene": "compose",
+      "cueIndex": 33,
+      "scriptLine": "এই অক্টোবরেই ওরা এমন একটা হিসাব পাবলিক করছে, যেটা বেশিরভাগ কোম্পানি তালা মেরে রাখে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "calendar",
+            "x": 650,
+            "y": 390,
+            "text": "২৬",
+            "label": "সময়",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 325,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 2
+          },
+          {
+            "id": "object-3",
+            "type": "paper_stack",
+            "x": 470,
+            "y": 455,
+            "count": 6,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-035",
+      "t0": 232.0,
+      "t1": 238.5,
+      "scene": "compose",
+      "cueIndex": 34,
+      "scriptLine": "ওদের দাবি, সবচেয়ে সস্তা সময়ের রেটেও ওদের একেকটা চিপ ঘণ্টায় কামাইতেছে প্রায় ৩৮ ডলার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-036",
+      "t0": 238.5,
+      "t1": 246.5,
+      "scene": "compose",
+      "cueIndex": 35,
+      "scriptLine": "আর কাস্টমারের জন্য দাম কেমন? প্রায় ৭ লাখ ইংরেজি শব্দ লিখায়ে নিতে খরচ পড়ে মোটামুটি এক প্লেট ফুচকার দামে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "atm",
+            "x": 730,
+            "y": 455,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 350,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "person",
+            "x": 305,
+            "y": 455,
+            "pose": "sit",
+            "role": "guide",
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2,
+            "variant": 1
+          },
+          {
+            "id": "object-4",
+            "type": "person",
+            "x": 495,
+            "y": 455,
+            "variant": 2,
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          },
+          {
+            "id": "object-5",
+            "type": "person",
+            "x": 570,
+            "y": 455,
+            "variant": 3,
+            "enter": 0.48,
+            "revealFrom": 12,
+            "z": 4
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-037",
+      "t0": 246.5,
+      "t1": 256.5,
+      "scene": "compose",
+      "cueIndex": 36,
+      "scriptLine": "তার মানে, সস্তা AI কোনো দান-খয়রাত না। এইটা দিয়ে ভালো ব্যবসাও করা যায়। আর এইখানেই লুকায় আছে পুরা গল্পের সবচেয়ে ইন্টারেস্টিং পয়েন্টটা।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-038",
+      "t0": 256.5,
+      "t1": 264.0,
+      "scene": "compose",
+      "cueIndex": 37,
+      "scriptLine": "আমি নিজে AI ফিল্ডে কাজ করি। আমার চোখে ব্যাপারটা এরকম: আপনাকে উত্তর দিতে গিয়ে কেউ ফকির হয়ে যাইতেছে না।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-039",
+      "t0": 264.0,
+      "t1": 270.5,
+      "scene": "compose",
+      "cueIndex": 38,
+      "scriptLine": "AI চালানো, মানে আপনার প্রশ্নের উত্তর দেওয়া, এইটা প্রফিটে করা যায়। DeepSeek সেটাই দেখাইতেছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-040",
+      "t0": 270.5,
+      "t1": 280.5,
+      "scene": "compose",
+      "cueIndex": 39,
+      "scriptLine": "টাকা পুড়তেছে রেসে। কে সবার আগে সবচেয়ে বড় মডেল বানাবে, কার ডেটা সেন্টার সবচেয়ে বড় হবে, এই দৌড়ে। তাও আবার লোনের টাকায়।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-041",
+      "t0": 280.5,
+      "t1": 289.5,
+      "scene": "compose",
+      "cueIndex": 40,
+      "scriptLine": "এখন ভাবেন, রেসে জিতলে প্রাইজটা কী? যদি কয়েক মাস পরেই কেউ প্রায় একই জিনিস বানায় ফ্রিতে কিংবা নামমাত্র মূল্যে ছেড়ে দেয়?",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "calendar",
+            "x": 650,
+            "y": 390,
+            "text": "২৬",
+            "label": "সময়",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 325,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 1
+          },
+          {
+            "id": "object-3",
+            "type": "paper_stack",
+            "x": 470,
+            "y": 455,
+            "count": 6,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-042",
+      "t0": 289.5,
+      "t1": 295.5,
+      "scene": "compose",
+      "cueIndex": 41,
+      "scriptLine": "যেকোনো মার্কেটে, যখন সবাই প্রায় একই জিনিস বেচে, দাম শুধু নামতেই থাকে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-043",
+      "t0": 295.5,
+      "t1": 301.5,
+      "scene": "compose",
+      "cueIndex": 42,
+      "scriptLine": "আর তখন সবচেয়ে বিপদে পড়ে কে? যে সবচেয়ে বেশি লোন নিয়ে সবচেয়ে বড় দোকান খুলছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-044",
+      "t0": 301.5,
+      "t1": 314.5,
+      "scene": "compose",
+      "cueIndex": 43,
+      "scriptLine": "এই অবস্থার একটা নাম আছে: bubble। কোনো কিছুর দাম যখন তার আসল মূল্যের চেয়ে অনেক বেশি ফুলে-ফেঁপে ওঠে, কারণ সবাই কিনতেছে দেখে সবাই কিনে। তারপর একদিন, ঠাস করে ফাটে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-045",
+      "t0": 314.5,
+      "t1": 325.5,
+      "scene": "compose",
+      "cueIndex": 44,
+      "scriptLine": "AI বাবল-এর ভয়টা আসলে এইখানে। AI ভুয়া, ব্যাপারটা মোটেও এরকম না। ভয়টা হলো, AI-এর গায়ে যে প্রাইস ট্যাগ লাগানো হইছে, সেটা হয়তো টিকবে না।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-046",
+      "t0": 325.5,
+      "t1": 330.5,
+      "scene": "compose",
+      "cueIndex": 45,
+      "scriptLine": "তবে আবার এতটাই সোজা না! শুধু এক দিক বললে তো হবে না। অন্য দিকটাও শোনেন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-047",
+      "t0": 330.5,
+      "t1": 338.5,
+      "scene": "compose",
+      "cueIndex": 46,
+      "scriptLine": "প্রথম কথা, AI যত সস্তা হয়, মানুষ তত বেশি ইউজ করে। চাহিদা এত বাড়তে পারে যে সব চিপই কাজে লেগে যায়।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-048",
+      "t0": 338.5,
+      "t1": 343.5,
+      "scene": "compose",
+      "cueIndex": 47,
+      "scriptLine": "খেয়াল করেন, জানুয়ারির ওই ধাক্কার পরেও Nvidia আবার ঘুরে দাঁড়াইছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-049",
+      "t0": 343.5,
+      "t1": 349.5,
+      "scene": "compose",
+      "cueIndex": 48,
+      "scriptLine": "সেকেন্ড, একদম টপ লেভেলের সেরা মডেলগুলা এখনো আমেরিকার কোম্পানিগুলারই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-050",
+      "t0": 349.5,
+      "t1": 358.0,
+      "scene": "compose",
+      "cueIndex": 49,
+      "scriptLine": "আর থার্ড, DeepSeek-এর অনেক নাম্বার ওদের নিজেদের দাবি। ওরা বলছিল, মডেল ট্রেন করতে লাগছে মাত্র ৫৬ লাখ ডলার।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-051",
+      "t0": 358.0,
+      "t1": 368.5,
+      "scene": "compose",
+      "cueIndex": 50,
+      "scriptLine": "এক্সপার্টরা বলছেন, ওইটা শুধু শেষ ধাপের খরচ, পুরাটা না। আর আগেরবার নিজেদের আয়ের হিসাবরেও ওরা নিজেরাই \"থিওরেটিক্যাল\" বলছিল। তাই চোখ বন্ধ করে বিশ্বাস করারও কিছু নাই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "grid",
+            "x": 460,
+            "y": 365,
+            "count": 40,
+            "cols": 10,
+            "active": 24,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 270,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1,
+            "variant": 3
+          },
+          {
+            "id": "object-3",
+            "type": "card",
+            "x": 780,
+            "y": 380,
+            "w": 180,
+            "h": 170,
+            "text": "কাজের হিসাব",
+            "size": 23,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-052",
+      "t0": 368.5,
+      "t1": 378.0,
+      "scene": "compose",
+      "cueIndex": 51,
+      "scriptLine": "এইবার আসি আমাদের কথায়। খারাপ খবরটা আগে বলি। এই রেস যদি হুট করে থেমে যায়, ধাক্কাটা লাগবে আমেরিকার অর্থনীতিতে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-053",
+      "t0": 378.0,
+      "t1": 385.5,
+      "scene": "compose",
+      "cueIndex": 52,
+      "scriptLine": "আর ওই ধাক্কা ঢেউ হয়ে আসবে আমাদের গার্মেন্টসের অর্ডারে, আউটসোর্সিংয়ের কাজে, প্রবাসী ভাইদের ইনকামে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "office",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "robot",
+            "x": 650,
+            "y": 455,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 380,
+            "y": 455,
+            "monitor": false,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "person",
+            "x": 270,
+            "y": 455,
+            "pose": "sit",
+            "variant": 2,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 440,
+            "y": 385,
+            "color": "#FF3D17",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-054",
+      "t0": 385.5,
+      "t1": 393.5,
+      "scene": "compose",
+      "cueIndex": 53,
+      "scriptLine": "কিন্তু ভালো খবরটা আরো বড়। ওপেন মডেল মানে, বাংলাদেশের একজন স্টুডেন্ট, একটা স্টার্টআপ, এমনকি একটা ব্যাংক, কারো আর আমেরিকার দামে আটকায় থাকা লাগবে না।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "atm",
+            "x": 730,
+            "y": 455,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 350,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "person",
+            "x": 305,
+            "y": 455,
+            "pose": "sit",
+            "role": "guide",
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2,
+            "variant": 3
+          },
+          {
+            "id": "object-4",
+            "type": "person",
+            "x": 495,
+            "y": 455,
+            "variant": 2,
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          },
+          {
+            "id": "object-5",
+            "type": "person",
+            "x": 570,
+            "y": 455,
+            "variant": 3,
+            "enter": 0.48,
+            "revealFrom": 12,
+            "z": 4
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-055",
+      "t0": 393.5,
+      "t1": 401.5,
+      "scene": "compose",
+      "cueIndex": 54,
+      "scriptLine": "রেসিপি তো হাতেই আছে। নিজের সার্ভারে চালান, দেশের ডেটা দেশেই রাখেন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-056",
+      "t0": 401.5,
+      "t1": 408.5,
+      "scene": "compose",
+      "cueIndex": 55,
+      "scriptLine": "সিলিকন ভ্যালির ট্রিলিয়ন ডলারের রেসের সবচেয়ে বড় লাভটা হয়তো পাবে তারাই, যারা এই রেসে নামেই নাই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-057",
+      "t0": 408.5,
+      "t1": 416.5,
+      "scene": "compose",
+      "cueIndex": 56,
+      "scriptLine": "শেষ করার আগে আপনাকে ২০০০ সালের একটা গল্প বলি। তখন আমেরিকার কোম্পানিগুলা লোন নিয়ে মাটির নিচে আর সমুদ্রের তলায় হাজার হাজার মাইল ইন্টারনেট কেবল বসাইছিল।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-058",
+      "t0": 416.5,
+      "t1": 423.5,
+      "scene": "compose",
+      "cueIndex": 57,
+      "scriptLine": "তারপর bubble ফাটল। বহু কোম্পানি দেউলিয়া। কিন্তু কেবলগুলা? রয়ে গেল।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 1
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-059",
+      "t0": 423.5,
+      "t1": 431.5,
+      "scene": "compose",
+      "cueIndex": 58,
+      "scriptLine": "আর পরে ওই কেবলের উপর দিয়েই আসলো সস্তা ইন্টারনেট, ইউটিউব, আরো কত কী।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-060",
+      "t0": 431.5,
+      "t1": 439.5,
+      "scene": "compose",
+      "cueIndex": 59,
+      "scriptLine": "আমার মনে হয়, AI-এর গল্পটাও অনেকটা এরকম হবে। টেকনোলজিটা জিতবে ইভেনচুয়ালি, এইটা নিয়ে আমার খুব একটা সন্দেহ নাই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-061",
+      "t0": 439.5,
+      "t1": 445.5,
+      "scene": "compose",
+      "cueIndex": 60,
+      "scriptLine": "কিন্তু যারা লোন নিয়ে দৌড়াইতেছে, তারা সবাই জিতবে, এমন কোনো গ্যারান্টি নাই।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 0
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-062",
+      "t0": 445.5,
+      "t1": 455.5,
+      "scene": "compose",
+      "cueIndex": 61,
+      "scriptLine": "আর কবে, কতটা ধাক্কা আসবে? সত্যি কথা হলো, কেউ জানে না। কেউ যদি বলে সে শিওর জানে, একটু সাবধান থাকেন। সে সম্ভবত আপনাকে কিছু একটা বেচতেছে।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "field",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "palm",
+            "x": 130,
+            "y": 455,
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0
+          },
+          {
+            "id": "object-2",
+            "type": "person",
+            "x": 330,
+            "y": 455,
+            "pose": "point",
+            "variant": 3,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "person",
+            "x": 590,
+            "y": 455,
+            "pose": "walk",
+            "variant": 1,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 740,
+            "y": 455,
+            "text": "ধান",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-063",
+      "t0": 455.5,
+      "t1": 465.5,
+      "scene": "compose",
+      "cueIndex": 62,
+      "scriptLine": "যাইহোক, আপনি DeepSeek, Kimi কিংবা Qwen ইউজ করে দেখছেন? ChatGPT-র চেয়ে ভালো লাগছে, নাকি খারাপ? কমেন্টে বইলেন।",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 2
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    },
+    {
+      "id": "beat-064",
+      "t0": 465.5,
+      "t1": 471.552,
+      "scene": "compose",
+      "cueIndex": 63,
+      "scriptLine": "টেকনোলজি জিতবে। বাজিটা কে জিতবে?",
+      "visualIntent": "AI must compose the concrete meaning and action of this line.",
+      "shot": {
+        "backdrop": "paper",
+        "objects": [
+          {
+            "id": "object-1",
+            "type": "person",
+            "x": 280,
+            "y": 455,
+            "role": "guide",
+            "pose": "point",
+            "enter": 0.0,
+            "revealFrom": 12,
+            "z": 0,
+            "variant": 3
+          },
+          {
+            "id": "object-2",
+            "type": "desk",
+            "x": 590,
+            "y": 455,
+            "enter": 0.12,
+            "revealFrom": 12,
+            "z": 1
+          },
+          {
+            "id": "object-3",
+            "type": "orb",
+            "x": 755,
+            "y": 320,
+            "enter": 0.24,
+            "revealFrom": 12,
+            "z": 2
+          },
+          {
+            "id": "object-4",
+            "type": "box",
+            "x": 460,
+            "y": 435,
+            "text": "কাজ",
+            "enter": 0.36,
+            "revealFrom": 12,
+            "z": 3
+          }
+        ],
+        "links": []
+      },
+      "chapter": 1,
+      "chapterTitle": "নতুন পর্ব",
+      "heading": "",
+      "label": "",
+      "items": [],
+      "semanticAnalysis": {
+        "actors": [],
+        "action": "",
+        "setting": "",
+        "facts": [],
+        "relationship": "",
+        "tone": "",
+        "negation": "",
+        "uncertainty": "",
+        "notes": ""
+      },
+      "designDecision": {
+        "alternatives": [],
+        "mechanism": "",
+        "composition": "",
+        "visibleChange": "",
+        "actionPeak": "",
+        "cameraPurpose": "",
+        "transition": "",
+        "why": ""
+      },
+      "styleRefs": [],
+      "referenceUse": [],
+      "copyLedger": [],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "",
+        "motivation": "",
+        "anticipation": "",
+        "contact": "",
+        "weightShift": "",
+        "actionPeak": "",
+        "followThrough": "",
+        "secondaryMotion": "",
+        "gaze": "",
+        "cameraMotivation": "",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "continuity": {
+        "cast": "",
+        "place": "",
+        "props": ""
+      },
+      "review": {
+        "start": "",
+        "middle": "",
+        "end": "",
+        "issues": [],
+        "fixes": [],
+        "approved": false
+      }
+    }
+  ],
+  "planning": "Draft only. The operating AI must complete the director dossier, replace heuristic suggestions, inspect renders, run director_audit.py, then mark planningStatus authored and directorStatus approved."
+}

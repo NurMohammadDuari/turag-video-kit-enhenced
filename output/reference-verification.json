@@ -1,0 +1,9 @@
+{
+  "type": "reference_picture_and_supplied_audio_mux",
+  "frames_verified": 19115,
+  "all_decoded_frame_hashes_identical": true,
+  "video_reencoded": false,
+  "audio": "ep02_voiceover.mp3",
+  "audio_codec": "AAC 192 kbps",
+  "fact_check": "No independent verification of claims in the supplied script."
+}

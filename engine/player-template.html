@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="bn"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Turag · Episode player</title>
+<style>/* EMBED_FONTS */
+:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#10121b;color:#e9e4d2;font:14px system-ui}main{width:min(1280px,100%);margin:20px auto;padding:16px}canvas{display:block;width:100%;height:auto;background:#12141c}nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:14px}button,select{padding:10px;background:#242738;color:inherit;border:1px solid #54586d;border-radius:4px}input{flex:1;accent-color:#ff3d17;min-width:160px}#status{color:#b5b7c7;font-size:12px}h1{font:600 20px 'Hind Siliguri';margin:0 0 12px}a{color:#aaaaff}#error{white-space:pre-wrap;color:#ff8f75}</style>
+<main><h1 id="title">Turag</h1><canvas id="c" width="1280" height="720" aria-label="Animated episode"></canvas><nav><button id="play">Play</button><input id="scrub" type="range" min="0" max="1" step="0.033333" value="0" aria-label="Video position"><output id="time">00:00</output><button id="mute">Mute</button><select id="chapters" aria-label="Chapters"></select></nav><p id="status">Loading local fonts and narration…</p><pre id="error"></pre><audio id="voice" preload="auto" src="__AUDIO_URL__"></audio></main>
+<script id="episode" type="application/json">__EPISODE_JSON__</script>
+<script>/* EMBED_ENGINE */</script></html>

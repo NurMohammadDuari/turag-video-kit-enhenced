@@ -1,0 +1,40 @@
+[
+  {
+    "folder": "/home/mint/Downloads/turag/files",
+    "files": 2,
+    "bytes": 459366,
+    "examples": [
+      "turag-decodes.html",
+      "turag-job-safe-ep02.html"
+    ]
+  },
+  {
+    "folder": "/home/mint/Downloads/turag/frames",
+    "files": 341,
+    "bytes": 18721744,
+    "examples": [
+      "f_0001.jpg",
+      "f_0002.jpg",
+      "f_0003.jpg",
+      "f_0004.jpg",
+      "f_0005.jpg",
+      "f_0006.jpg",
+      "f_0007.jpg",
+      "f_0008.jpg"
+    ]
+  },
+  {
+    "file": "turag-decodes.html",
+    "bytes": 15129,
+    "sha256": "6f9a81974fe7373222818fa81a62c0f6ecd26cbae53ada6f6487b21891d943b7",
+    "contains_full_episode": false,
+    "notes": "Legacy HTML implementation; modern engine/composer.js and master prompt supersede stage builds."
+  },
+  {
+    "file": "turag-job-safe-ep02.html",
+    "bytes": 444237,
+    "sha256": "e243889c1e783c9fe3c63766b474d1e686611ea41dce540a3a943238f2d50266",
+    "contains_full_episode": false,
+    "notes": "Legacy HTML implementation; modern engine/composer.js and master prompt supersede stage builds."
+  }
+]

@@ -1,0 +1,364 @@
+{
+  "source": "/home/mint/Downloads/turag/video.mp4",
+  "source_sha256": "15b64b3e55ba5c5ab9bd34e8256f85984a0d065679af4d389be5dd405685e774",
+  "source_width": 1920,
+  "source_height": 1080,
+  "fps": 30.000029288323038,
+  "decoded_frames": 10243,
+  "decoded_md5_rows": 10243,
+  "duration": 341.461,
+  "last_frame_pts": 341.4,
+  "first_frame_pts": 0.0,
+  "audio_streams": 1,
+  "exact_duplicate_adjacent_frames": 8,
+  "unique_decoded_frame_hashes": 10234,
+  "exact_hold_runs": [
+    {
+      "start_frame": 1490,
+      "end_frame": 1491,
+      "frames": 2,
+      "start": 49.667,
+      "end": 49.73333330079079
+    },
+    {
+      "start_frame": 4021,
+      "end_frame": 4022,
+      "frames": 2,
+      "start": 134.033,
+      "end": 134.1003333007908
+    },
+    {
+      "start_frame": 5884,
+      "end_frame": 5886,
+      "frames": 3,
+      "start": 196.134,
+      "end": 196.23333330079078
+    },
+    {
+      "start_frame": 6141,
+      "end_frame": 6142,
+      "frames": 2,
+      "start": 204.7,
+      "end": 204.7663333007908
+    },
+    {
+      "start_frame": 6281,
+      "end_frame": 6282,
+      "frames": 2,
+      "start": 209.367,
+      "end": 209.4333333007908
+    },
+    {
+      "start_frame": 9065,
+      "end_frame": 9066,
+      "frames": 2,
+      "start": 302.166,
+      "end": 302.2333333007908
+    },
+    {
+      "start_frame": 9165,
+      "end_frame": 9166,
+      "frames": 2,
+      "start": 305.5,
+      "end": 305.5663333007908
+    }
+  ],
+  "candidate_transition_windows": [
+    {
+      "start": 9.166,
+      "end": 9.3,
+      "frames": [
+        275,
+        276,
+        277,
+        278,
+        279
+      ]
+    },
+    {
+      "start": 17.734,
+      "end": 17.767,
+      "frames": [
+        532,
+        533
+      ]
+    },
+    {
+      "start": 26.667,
+      "end": 26.667,
+      "frames": [
+        800
+      ]
+    },
+    {
+      "start": 49.367,
+      "end": 49.4,
+      "frames": [
+        1481,
+        1482
+      ]
+    },
+    {
+      "start": 63.066,
+      "end": 63.166,
+      "frames": [
+        1892,
+        1893,
+        1894,
+        1895
+      ]
+    },
+    {
+      "start": 78.466,
+      "end": 78.466,
+      "frames": [
+        2354
+      ]
+    },
+    {
+      "start": 78.866,
+      "end": 78.866,
+      "frames": [
+        2366
+      ]
+    },
+    {
+      "start": 138.067,
+      "end": 138.167,
+      "frames": [
+        4142,
+        4143,
+        4144,
+        4145
+      ]
+    },
+    {
+      "start": 147.367,
+      "end": 147.367,
+      "frames": [
+        4421
+      ]
+    },
+    {
+      "start": 151.666,
+      "end": 151.834,
+      "frames": [
+        4550,
+        4551,
+        4552,
+        4553,
+        4554,
+        4555
+      ]
+    },
+    {
+      "start": 156.134,
+      "end": 156.2,
+      "frames": [
+        4684,
+        4685,
+        4686
+      ]
+    },
+    {
+      "start": 156.6,
+      "end": 156.667,
+      "frames": [
+        4698,
+        4699,
+        4700
+      ]
+    },
+    {
+      "start": 195.9,
+      "end": 195.9,
+      "frames": [
+        5877
+      ]
+    },
+    {
+      "start": 196.334,
+      "end": 196.334,
+      "frames": [
+        5890
+      ]
+    },
+    {
+      "start": 209.933,
+      "end": 210.033,
+      "frames": [
+        6298,
+        6299,
+        6300,
+        6301
+      ]
+    },
+    {
+      "start": 214.033,
+      "end": 214.033,
+      "frames": [
+        6421
+      ]
+    },
+    {
+      "start": 234.967,
+      "end": 235.033,
+      "frames": [
+        7049,
+        7050,
+        7051
+      ]
+    },
+    {
+      "start": 254.833,
+      "end": 254.833,
+      "frames": [
+        7645
+      ]
+    },
+    {
+      "start": 258.967,
+      "end": 259.0,
+      "frames": [
+        7769,
+        7770
+      ]
+    },
+    {
+      "start": 277.433,
+      "end": 277.533,
+      "frames": [
+        8323,
+        8324,
+        8325,
+        8326
+      ]
+    },
+    {
+      "start": 294.4,
+      "end": 294.4,
+      "frames": [
+        8832
+      ]
+    },
+    {
+      "start": 331.367,
+      "end": 331.367,
+      "frames": [
+        9941
+      ]
+    }
+  ],
+  "candidate_cut_threshold": {
+    "mean_rgb_difference_gt": 15,
+    "changed_fraction_gt": 0.3,
+    "metric_resolution": [
+      320,
+      180
+    ]
+  },
+  "palette_quantization": 8,
+  "palette_top": [
+    {
+      "hex": "#E0D8C8",
+      "sample_share": 0.20309
+    },
+    {
+      "hex": "#101018",
+      "sample_share": 0.08519
+    },
+    {
+      "hex": "#081018",
+      "sample_share": 0.07554
+    },
+    {
+      "hex": "#E0E0C8",
+      "sample_share": 0.05693
+    },
+    {
+      "hex": "#D8D0C0",
+      "sample_share": 0.05139
+    },
+    {
+      "hex": "#202030",
+      "sample_share": 0.04238
+    },
+    {
+      "hex": "#2830F8",
+      "sample_share": 0.03072
+    },
+    {
+      "hex": "#D0C8B8",
+      "sample_share": 0.02827
+    },
+    {
+      "hex": "#202830",
+      "sample_share": 0.02275
+    },
+    {
+      "hex": "#D8D8C8",
+      "sample_share": 0.02251
+    },
+    {
+      "hex": "#D8D8C0",
+      "sample_share": 0.01621
+    },
+    {
+      "hex": "#D0D0C0",
+      "sample_share": 0.01445
+    },
+    {
+      "hex": "#788090",
+      "sample_share": 0.01365
+    },
+    {
+      "hex": "#C8C0A8",
+      "sample_share": 0.01199
+    },
+    {
+      "hex": "#C8C0B0",
+      "sample_share": 0.01199
+    },
+    {
+      "hex": "#D8D0B8",
+      "sample_share": 0.00989
+    },
+    {
+      "hex": "#383850",
+      "sample_share": 0.00969
+    },
+    {
+      "hex": "#585870",
+      "sample_share": 0.0084
+    },
+    {
+      "hex": "#D0C8B0",
+      "sample_share": 0.00768
+    },
+    {
+      "hex": "#A0A0A8",
+      "sample_share": 0.00681
+    },
+    {
+      "hex": "#F83810",
+      "sample_share": 0.00679
+    },
+    {
+      "hex": "#C8C8B8",
+      "sample_share": 0.00613
+    },
+    {
+      "hex": "#505868",
+      "sample_share": 0.00606
+    },
+    {
+      "hex": "#181828",
+      "sample_share": 0.00531
+    }
+  ],
+  "atlas_sheets": 103,
+  "atlas_every_frame": true,
+  "overview_interval_seconds": 2,
+  "overview_sheets": 6,
+  "coverage_note": "Every encoded video frame was decoded and fingerprinted at full resolution. Metrics and atlas images use resized frames. Overview sheets sample one frame every two seconds. A visual review of these samples is not a manual inspection of every full-resolution frame."
+}

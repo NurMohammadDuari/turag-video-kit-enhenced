@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "purpose": "Decision vocabulary for the operating AI. These are mechanisms to adapt, never fixed scene templates.",
+  "mechanisms": [
+    {
+      "id": "grounded_environment_action",
+      "useWhen": "A person performs a concrete physical or professional task.",
+      "borrow": ["slender articulated cast", "furniture scale", "supporting room detail", "hand-to-tool contact"],
+      "avoid": ["standing icon beside unrelated prop", "floating tool", "motionless hands"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0159.jpg", "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"]
+    },
+    {
+      "id": "literal_quantity_grid",
+      "useWhen": "The narration states a count, fraction, retained share or removed share.",
+      "borrow": ["literal repeated figures", "vermilion changed subset", "shared baseline", "restrained annotation"],
+      "avoid": ["decorative crowd unrelated to quantity", "wrong denominator", "percentage without visible whole"],
+      "evidence": ["reference/analysis/scene_stills/ref_003_office_headcount_card.jpg", "reference/folder_audit/frames/fullsize/f_0189.jpg"]
+    },
+    {
+      "id": "shared_scale_comparison",
+      "useWhen": "Two values, durations, costs or groups are directly compared.",
+      "borrow": ["one baseline", "consistent unit geometry", "guide or bracket", "staged reveal"],
+      "avoid": ["unrelated scales", "3D chart styling", "invented precision"],
+      "evidence": ["reference/analysis/scene_stills/ref_005_layoff_year_comparison.jpg", "reference/folder_audit/frames/fullsize/f_0199.jpg"]
+    },
+    {
+      "id": "claim_then_pressure",
+      "useWhen": "A person states a belief, excuse or confident prediction that the argument will test.",
+      "borrow": ["cream claim card", "distinct speaker silhouettes", "vermilion challenge mark", "later state change"],
+      "avoid": ["presenting belief as verified fact", "identical speakers", "full narration pasted as text"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0067.jpg", "reference/folder_audit/frames/fullsize/f_0300.jpg"]
+    },
+    {
+      "id": "process_transformation",
+      "useWhen": "The line describes before/after workflow, automation, substitution or changed structure.",
+      "borrow": ["same spatial frame before and after", "objects transform in place", "clear causal path", "remaining human work stays visible"],
+      "avoid": ["arbitrary cut between unrelated rooms", "orb as universal cause", "change shown only by label"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0118.jpg", "reference/folder_audit/frames/fullsize/f_0210.jpg"]
+    },
+    {
+      "id": "network_or_flow",
+      "useWhen": "The script describes routing, agents, dependencies, geographic service or a feedback loop.",
+      "borrow": ["dashed routes", "meaningful nodes", "traveling pulses", "grounded endpoints"],
+      "avoid": ["decorative connections", "inaccurate geography presented as exact", "unexplained node colors"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0240.jpg", "reference/folder_audit/frames/fullsize/f_0268.jpg"]
+    },
+    {
+      "id": "editorial_chapter_reset",
+      "useWhen": "The argument changes chapter or introduces a major conceptual turn.",
+      "borrow": ["electric-blue field", "vermilion disc", "striped Bengali number", "cream and black headline blocks"],
+      "avoid": ["dropping known chapter identity", "using it for ordinary cues", "subtitle collision"],
+      "evidence": ["reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"]
+    },
+    {
+      "id": "established_location_return",
+      "useWhen": "The guide returns to commentary, advice or a recurring human viewpoint.",
+      "borrow": ["same street geography", "tea stall and palm landmarks", "background traffic", "quiet sky for copy"],
+      "avoid": ["moving landmarks between returns", "new guide identity", "empty generic street"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0009.jpg", "reference/folder_audit/frames/fullsize/f_0320.jpg"]
+    },
+    {
+      "id": "evidence_document",
+      "useWhen": "A line cites a report, survey, archive, ledger or measured result.",
+      "borrow": ["hard-offset paper card", "mono metadata", "one dominant number", "files or records grounded nearby"],
+      "avoid": ["fake source citation", "header-number collision", "unsupported year or precision"],
+      "evidence": ["reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg", "reference/folder_audit/frames/fullsize/f_0159.jpg"]
+    },
+    {
+      "id": "task_density_system",
+      "useWhen": "Many tasks, screens, jobs or capabilities must be shown as a system.",
+      "borrow": ["dense task grid", "blue active cells", "few vermilion disputed cells", "people checking outputs"],
+      "avoid": ["every cell identical without meaning", "blue glow everywhere", "grid with no narrated unit"],
+      "evidence": ["reference/folder_audit/frames/fullsize/f_0135.jpg", "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"]
+    }
+  ]
+}

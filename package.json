@@ -1,0 +1,18 @@
+{
+  "name": "turag-video-kit",
+  "version": "9.0.0",
+  "private": true,
+  "description": "Offline Bengali canvas explainer toolkit and reference evidence",
+  "scripts": {
+    "build": "python3 tools/build_episode.py episodes/ep02-composed.json --output engine/episode.html",
+    "render": "node tools/render_mp4.js engine/episode.html audio/ep02_voiceover.mp3 output/Turag_EP02_composed.mp4 --workers 1",
+    "qa": "node tools/qa_episode.js engine/episode.html output/composer-qa",
+    "test": "python3 -m unittest discover -s tests -v && node tools/test_scene_engine.js && python3 tools/director_audit.py episodes/ep02-first-minute-revised.json"
+  },
+  "dependencies": {
+    "puppeteer-core": "25.16.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

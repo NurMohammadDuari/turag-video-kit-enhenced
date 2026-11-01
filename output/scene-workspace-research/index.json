@@ -1,0 +1,81 @@
+{
+  "source": "/home/mint/Desktop/turag-video-kit/episodes/ep02-first-minute-revised.json",
+  "sourceHash": "f44a317c9e5d514aa871f8118d5da99d6d56e7f498d432916fe6ecf45d650e12",
+  "scenes": [
+    {
+      "index": 0,
+      "id": "line-001",
+      "file": "0001.json"
+    },
+    {
+      "index": 1,
+      "id": "line-002",
+      "file": "0002.json"
+    },
+    {
+      "index": 2,
+      "id": "line-003",
+      "file": "0003.json"
+    },
+    {
+      "index": 3,
+      "id": "line-004",
+      "file": "0004.json"
+    },
+    {
+      "index": 4,
+      "id": "line-005",
+      "file": "0005.json"
+    },
+    {
+      "index": 5,
+      "id": "line-006",
+      "file": "0006.json"
+    },
+    {
+      "index": 6,
+      "id": "line-007",
+      "file": "0007.json"
+    },
+    {
+      "index": 7,
+      "id": "line-008",
+      "file": "0008.json"
+    },
+    {
+      "index": 8,
+      "id": "line-009",
+      "file": "0009.json"
+    },
+    {
+      "index": 9,
+      "id": "line-010",
+      "file": "0010.json"
+    },
+    {
+      "index": 10,
+      "id": "line-011",
+      "file": "0011.json"
+    },
+    {
+      "index": 11,
+      "id": "line-012",
+      "file": "0012.json"
+    },
+    {
+      "index": 12,
+      "id": "line-013",
+      "file": "0013.json"
+    },
+    {
+      "index": 13,
+      "id": "line-014",
+      "file": "0014.json"
+    },
+    {
+      "index": 14,
+      "id": "line-015",
+      "file": "0015.json"
+    }
+  ]
+}

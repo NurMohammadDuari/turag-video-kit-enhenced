@@ -1,0 +1,10 @@
+{
+  "timing": {
+    "method": "user_supplied_timecodes",
+    "verified": false,
+    "note": "Supplied editorial timecodes preserved; not forced-aligned speech. Audio duration is authoritative."
+  },
+  "duration": 637.257143,
+  "audio": "audio/ep02_voiceover.mp3",
+  "note": "These exports preserve supplied manifest timing. Exporting subtitles does not independently verify speech alignment."
+}

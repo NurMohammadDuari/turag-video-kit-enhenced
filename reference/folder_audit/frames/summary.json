@@ -1,0 +1,268 @@
+{
+  "source": "/home/mint/Downloads/turag/frames",
+  "recursive_files": 341,
+  "decoded_images": 341,
+  "dimensions": {
+    "1920x1080": 341
+  },
+  "unique_file_hashes": 341,
+  "byte_duplicate_files": 0,
+  "errors": [],
+  "overview_images": 341,
+  "overview_sheets": 15,
+  "overview_sampling": "every image",
+  "large_visual_changes": [
+    {
+      "file": "f_0002.jpg",
+      "index": 1,
+      "difference": 30.467
+    },
+    {
+      "file": "f_0006.jpg",
+      "index": 5,
+      "difference": 55.362
+    },
+    {
+      "file": "f_0010.jpg",
+      "index": 9,
+      "difference": 41.797
+    },
+    {
+      "file": "f_0016.jpg",
+      "index": 15,
+      "difference": 24.977
+    },
+    {
+      "file": "f_0019.jpg",
+      "index": 18,
+      "difference": 94.54
+    },
+    {
+      "file": "f_0028.jpg",
+      "index": 27,
+      "difference": 88.524
+    },
+    {
+      "file": "f_0029.jpg",
+      "index": 28,
+      "difference": 80.172
+    },
+    {
+      "file": "f_0050.jpg",
+      "index": 49,
+      "difference": 136.227
+    },
+    {
+      "file": "f_0064.jpg",
+      "index": 63,
+      "difference": 169.338
+    },
+    {
+      "file": "f_0075.jpg",
+      "index": 74,
+      "difference": 51.044
+    },
+    {
+      "file": "f_0076.jpg",
+      "index": 75,
+      "difference": 33.172
+    },
+    {
+      "file": "f_0079.jpg",
+      "index": 78,
+      "difference": 80.72
+    },
+    {
+      "file": "f_0080.jpg",
+      "index": 79,
+      "difference": 110.154
+    },
+    {
+      "file": "f_0094.jpg",
+      "index": 93,
+      "difference": 76.341
+    },
+    {
+      "file": "f_0116.jpg",
+      "index": 115,
+      "difference": 34.404
+    },
+    {
+      "file": "f_0126.jpg",
+      "index": 125,
+      "difference": 41.57
+    },
+    {
+      "file": "f_0127.jpg",
+      "index": 126,
+      "difference": 90.902
+    },
+    {
+      "file": "f_0128.jpg",
+      "index": 127,
+      "difference": 104.301
+    },
+    {
+      "file": "f_0139.jpg",
+      "index": 138,
+      "difference": 33.203
+    },
+    {
+      "file": "f_0141.jpg",
+      "index": 140,
+      "difference": 31.079
+    },
+    {
+      "file": "f_0148.jpg",
+      "index": 147,
+      "difference": 35.344
+    },
+    {
+      "file": "f_0153.jpg",
+      "index": 152,
+      "difference": 52.287
+    },
+    {
+      "file": "f_0154.jpg",
+      "index": 153,
+      "difference": 38.779
+    },
+    {
+      "file": "f_0155.jpg",
+      "index": 154,
+      "difference": 29.401
+    },
+    {
+      "file": "f_0156.jpg",
+      "index": 155,
+      "difference": 44.568
+    },
+    {
+      "file": "f_0157.jpg",
+      "index": 156,
+      "difference": 108.541
+    },
+    {
+      "file": "f_0158.jpg",
+      "index": 157,
+      "difference": 117.477
+    },
+    {
+      "file": "f_0184.jpg",
+      "index": 183,
+      "difference": 27.754
+    },
+    {
+      "file": "f_0197.jpg",
+      "index": 196,
+      "difference": 24.558
+    },
+    {
+      "file": "f_0207.jpg",
+      "index": 206,
+      "difference": 28.437
+    },
+    {
+      "file": "f_0211.jpg",
+      "index": 210,
+      "difference": 54.515
+    },
+    {
+      "file": "f_0215.jpg",
+      "index": 214,
+      "difference": 99.431
+    },
+    {
+      "file": "f_0217.jpg",
+      "index": 216,
+      "difference": 66.835
+    },
+    {
+      "file": "f_0218.jpg",
+      "index": 217,
+      "difference": 24.072
+    },
+    {
+      "file": "f_0236.jpg",
+      "index": 235,
+      "difference": 150.098
+    },
+    {
+      "file": "f_0256.jpg",
+      "index": 255,
+      "difference": 30.633
+    },
+    {
+      "file": "f_0257.jpg",
+      "index": 256,
+      "difference": 72.618
+    },
+    {
+      "file": "f_0260.jpg",
+      "index": 259,
+      "difference": 119.606
+    },
+    {
+      "file": "f_0278.jpg",
+      "index": 277,
+      "difference": 29.545
+    },
+    {
+      "file": "f_0279.jpg",
+      "index": 278,
+      "difference": 26.774
+    },
+    {
+      "file": "f_0295.jpg",
+      "index": 294,
+      "difference": 151.595
+    },
+    {
+      "file": "f_0296.jpg",
+      "index": 295,
+      "difference": 117.35
+    },
+    {
+      "file": "f_0297.jpg",
+      "index": 296,
+      "difference": 49.189
+    },
+    {
+      "file": "f_0298.jpg",
+      "index": 297,
+      "difference": 69.67
+    },
+    {
+      "file": "f_0309.jpg",
+      "index": 308,
+      "difference": 41.881
+    },
+    {
+      "file": "f_0317.jpg",
+      "index": 316,
+      "difference": 82.035
+    },
+    {
+      "file": "f_0321.jpg",
+      "index": 320,
+      "difference": 24.937
+    },
+    {
+      "file": "f_0322.jpg",
+      "index": 321,
+      "difference": 28.439
+    },
+    {
+      "file": "f_0332.jpg",
+      "index": 331,
+      "difference": 75.302
+    },
+    {
+      "file": "f_0333.jpg",
+      "index": 332,
+      "difference": 56.789
+    }
+  ],
+  "wall_seconds": 1.57,
+  "visual_review_note": "Every image decoded using JPEG reduced-resolution decoding and measured; full source-video frames were decoded separately in reference/analysis.  Overview viewing is separate from exhaustive computational file coverage."
+}

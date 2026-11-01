@@ -1,0 +1,29 @@
+{
+  "sourceBeats": "director/composed/full_episode_beats.json",
+  "audioSource": "audio/AI babu...mp3",
+  "audioMs": 471552,
+  "durationSec": 471.552,
+  "beatsRendered": 15,
+  "chapters": [
+    "Ch 01 · এক দিনে উdhao (00:00–00:53)",
+    "Ch 01",
+    "Ch 01 -> Ch 02 transition",
+    "Ch 02 · বড় বাজি (00:54–02:14)",
+    "Ch 03 · ছোট্ট ল্যাবের ধাক্কা (02:15–03:32)",
+    "Ch 04 · টাকা পুড়ছে কোথায় (03:33–05:25)",
+    "Ch 05 · অন্য দিকটা (05:26–06:09)",
+    "Ch 06 · আমাদের কী & সমাপনী (06:10–07:51)"
+  ],
+  "palette": {
+    "paper": "#ECE6D5",
+    "ink": "#10121A",
+    "vermilion": "#F53816",
+    "blue": "#2638FF",
+    "slate": "#6F7388",
+    "line": "#3A3D4D",
+    "green": "#1C7847"
+  },
+  "status": "rendered_from_beats",
+  "honestNote": "Full 471.552s video rendered via author engine (canvas -> ffmpeg). Verify with ffprobe before claiming final delivery.",
+  "renderedAt": "2026-11-01T16:55:03.311Z"
+}

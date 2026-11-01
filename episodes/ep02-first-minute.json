@@ -1,0 +1,2344 @@
+{
+  "version": 2,
+  "id": "ep02-first-minute",
+  "title": "আপনার চাকরি কি আসলেই সেফ? · প্রথম ১ মিনিট",
+  "duration": 60,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "audio": "audio/ep02_first_minute.mp3",
+  "script": "script/ep02.md",
+  "timing": {
+    "method": "user_supplied_timecodes",
+    "verified": false,
+    "note": "Timecodes are supplied editorial cues, not independently forced-aligned to speech."
+  },
+  "cues": [
+    {
+      "t0": 0.0,
+      "t1": 4.0,
+      "text": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ?",
+      "kind": "card"
+    },
+    {
+      "t0": 4.0,
+      "t1": 10.0,
+      "text": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।"
+    },
+    {
+      "t0": 10.0,
+      "t1": 13.0,
+      "text": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।"
+    },
+    {
+      "t0": 13.0,
+      "t1": 17.0,
+      "text": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।"
+    },
+    {
+      "t0": 17.0,
+      "t1": 20.0,
+      "text": "আর এইটা একা মাইক্রোসফটের গল্প না।"
+    },
+    {
+      "t0": 20.0,
+      "t1": 28.0,
+      "text": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।"
+    },
+    {
+      "t0": 28.0,
+      "t1": 32.0,
+      "text": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।"
+    },
+    {
+      "t0": 32.0,
+      "t1": 36.0,
+      "text": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।"
+    },
+    {
+      "t0": 36.0,
+      "t1": 39.0,
+      "text": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\""
+    },
+    {
+      "t0": 39.0,
+      "t1": 41.0,
+      "text": "আসলেই? চলেন, একটু দেখি।"
+    },
+    {
+      "t0": 41.0,
+      "t1": 46.0,
+      "text": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।"
+    },
+    {
+      "t0": 46.0,
+      "t1": 49.0,
+      "text": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।"
+    },
+    {
+      "t0": 49.0,
+      "t1": 52.0,
+      "text": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?"
+    },
+    {
+      "t0": 52.0,
+      "t1": 55.0,
+      "text": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?"
+    },
+    {
+      "t0": 55.0,
+      "t1": 60,
+      "text": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।"
+    }
+  ],
+  "beats": [
+    {
+      "id": "line-001",
+      "t0": 0,
+      "t1": 4.0,
+      "scene": "compose",
+      "cueIndex": 0,
+      "scriptLine": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ?",
+      "visualIntent": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ? → office_windowwall, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, label, label, label",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "night",
+        "floor": false,
+        "objects": [
+          {
+            "type": "office_windowwall",
+            "x": 480,
+            "y": 455,
+            "z": -20,
+            "id": "opening-0-0",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": -15,
+            "y": 355,
+            "s": 0.93,
+            "variant": 0,
+            "z": -5,
+            "id": "opening-0-1",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 126,
+            "y": 355,
+            "s": 0.93,
+            "variant": 1,
+            "z": -5,
+            "id": "opening-0-2",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 267,
+            "y": 355,
+            "s": 0.93,
+            "variant": 2,
+            "z": -5,
+            "id": "opening-0-3",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 408,
+            "y": 355,
+            "s": 0.93,
+            "variant": 3,
+            "z": -5,
+            "id": "opening-0-4",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 549,
+            "y": 355,
+            "s": 0.93,
+            "variant": 4,
+            "z": -5,
+            "id": "opening-0-5",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 690,
+            "y": 355,
+            "s": 0.93,
+            "variant": 5,
+            "z": -5,
+            "id": "opening-0-6",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 831,
+            "y": 355,
+            "s": 0.93,
+            "variant": 6,
+            "z": -5,
+            "id": "opening-0-7",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 972,
+            "y": 355,
+            "s": 0.93,
+            "variant": 7,
+            "z": -5,
+            "id": "opening-0-8",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 30,
+            "y": 461,
+            "s": 1.1,
+            "variant": 1,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-9",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 196,
+            "y": 461,
+            "s": 1.1,
+            "variant": 2,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-10",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 362,
+            "y": 461,
+            "s": 1.1,
+            "variant": 3,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-11",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 528,
+            "y": 461,
+            "s": 1.1,
+            "variant": 4,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-12",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 694,
+            "y": 461,
+            "s": 1.1,
+            "variant": 5,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-13",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 860,
+            "y": 461,
+            "s": 1.1,
+            "variant": 6,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-14",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 57,
+            "y": 143,
+            "text": "আপনার চাকরি কি",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 760,
+            "color": "#E9E4D2",
+            "revealFrom": 35,
+            "id": "opening-0-15",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 57,
+            "y": 218,
+            "text": "আসলেই",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 320,
+            "color": "#E9E4D2",
+            "enter": 0.12,
+            "revealFrom": 35,
+            "id": "opening-0-16"
+          },
+          {
+            "type": "label",
+            "x": 305,
+            "y": 218,
+            "text": "সেফ?",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 240,
+            "color": "#FF3D17",
+            "enter": 0.25,
+            "revealFrom": 35,
+            "id": "opening-0-17"
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 480,
+          "y": 270,
+          "zoom": 1,
+          "keyframes": [
+            {
+              "at": 0,
+              "zoom": 1.02
+            },
+            {
+              "at": 4,
+              "zoom": 1
+            }
+          ]
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-002",
+      "t0": 4.0,
+      "t1": 10.0,
+      "scene": "compose",
+      "cueIndex": 1,
+      "scriptLine": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।",
+      "visualIntent": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে। → office_windowwall, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, card, label, envelope, envelope, envelope, envelope, envelope",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "night",
+        "floor": false,
+        "objects": [
+          {
+            "type": "office_windowwall",
+            "x": 480,
+            "y": 455,
+            "z": -20,
+            "id": "opening-1-0",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": -15,
+            "y": 355,
+            "s": 0.93,
+            "variant": 0,
+            "z": -5,
+            "id": "opening-1-1",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 126,
+            "y": 355,
+            "s": 0.93,
+            "variant": 1,
+            "z": -5,
+            "id": "opening-1-2",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 267,
+            "y": 355,
+            "s": 0.93,
+            "variant": 2,
+            "z": -5,
+            "id": "opening-1-3",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 408,
+            "y": 355,
+            "s": 0.93,
+            "variant": 3,
+            "z": -5,
+            "id": "opening-1-4",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 549,
+            "y": 355,
+            "s": 0.93,
+            "variant": 4,
+            "z": -5,
+            "id": "opening-1-5",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 690,
+            "y": 355,
+            "s": 0.93,
+            "variant": 5,
+            "z": -5,
+            "id": "opening-1-6",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 831,
+            "y": 355,
+            "s": 0.93,
+            "variant": 6,
+            "z": -5,
+            "id": "opening-1-7",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 972,
+            "y": 355,
+            "s": 0.93,
+            "variant": 7,
+            "z": -5,
+            "id": "opening-1-8",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 30,
+            "y": 461,
+            "s": 1.1,
+            "variant": 1,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-9",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 196,
+            "y": 461,
+            "s": 1.1,
+            "variant": 2,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-10",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 362,
+            "y": 461,
+            "s": 1.1,
+            "variant": 3,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-11",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 528,
+            "y": 461,
+            "s": 1.1,
+            "variant": 4,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-12",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 694,
+            "y": 461,
+            "s": 1.1,
+            "variant": 5,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-13",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 860,
+            "y": 461,
+            "s": 1.1,
+            "variant": 6,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-1-14",
+            "enter": 0
+          },
+          {
+            "type": "card",
+            "x": 440,
+            "y": 170,
+            "w": 570,
+            "h": 47,
+            "text": "২৬ অক্টোবর · মাইক্রোসফট",
+            "size": 26,
+            "id": "opening-1-15",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 445,
+            "y": 210,
+            "text": "MICROSOFT · VOLUNTARY EXIT OFFER",
+            "size": 13,
+            "color": "#E9E4D2",
+            "maxWidth": 540,
+            "id": "opening-1-16",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 175,
+            "y": 305,
+            "scale": 0.55,
+            "enter": 0.0,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-1-17"
+          },
+          {
+            "type": "envelope",
+            "x": 333,
+            "y": 305,
+            "scale": 0.55,
+            "enter": 0.23,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-1-18"
+          },
+          {
+            "type": "envelope",
+            "x": 491,
+            "y": 305,
+            "scale": 0.55,
+            "enter": 0.46,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-1-19"
+          },
+          {
+            "type": "envelope",
+            "x": 649,
+            "y": 305,
+            "scale": 0.55,
+            "enter": 0.6900000000000001,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-1-20"
+          },
+          {
+            "type": "envelope",
+            "x": 807,
+            "y": 305,
+            "scale": 0.55,
+            "enter": 0.92,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-1-21"
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-003",
+      "t0": 10.0,
+      "t1": 13.0,
+      "scene": "compose",
+      "cueIndex": 2,
+      "scriptLine": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।",
+      "visualIntent": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন। → office_windowwall, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, card, envelope, envelope, envelope, envelope, envelope",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "night",
+        "floor": false,
+        "objects": [
+          {
+            "type": "office_windowwall",
+            "x": 480,
+            "y": 455,
+            "z": -20,
+            "id": "opening-2-0",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": -15,
+            "y": 355,
+            "s": 0.93,
+            "variant": 0,
+            "z": -5,
+            "id": "opening-2-1",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 126,
+            "y": 355,
+            "s": 0.93,
+            "variant": 1,
+            "z": -5,
+            "id": "opening-2-2",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 267,
+            "y": 355,
+            "s": 0.93,
+            "variant": 2,
+            "z": -5,
+            "id": "opening-2-3",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 408,
+            "y": 355,
+            "s": 0.93,
+            "variant": 3,
+            "z": -5,
+            "id": "opening-2-4",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 549,
+            "y": 355,
+            "s": 0.93,
+            "variant": 4,
+            "z": -5,
+            "id": "opening-2-5",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 690,
+            "y": 355,
+            "s": 0.93,
+            "variant": 5,
+            "z": -5,
+            "id": "opening-2-6",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 831,
+            "y": 355,
+            "s": 0.93,
+            "variant": 6,
+            "z": -5,
+            "id": "opening-2-7",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 972,
+            "y": 355,
+            "s": 0.93,
+            "variant": 7,
+            "z": -5,
+            "id": "opening-2-8",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 30,
+            "y": 461,
+            "s": 1.1,
+            "variant": 1,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-9",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 196,
+            "y": 461,
+            "s": 1.1,
+            "variant": 2,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-10",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 362,
+            "y": 461,
+            "s": 1.1,
+            "variant": 3,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-11",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 528,
+            "y": 461,
+            "s": 1.1,
+            "variant": 4,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-12",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 694,
+            "y": 461,
+            "s": 1.1,
+            "variant": 5,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-13",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 860,
+            "y": 461,
+            "s": 1.1,
+            "variant": 6,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-2-14",
+            "enter": 0
+          },
+          {
+            "type": "card",
+            "x": 445,
+            "y": 160,
+            "w": 450,
+            "h": 52,
+            "text": "টাকা নেন, চাকরি ছাড়েন।",
+            "size": 29,
+            "id": "opening-2-15",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 175,
+            "y": 305,
+            "scale": 0.55,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-2-16",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 333,
+            "y": 305,
+            "scale": 0.55,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-2-17",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 491,
+            "y": 305,
+            "scale": 0.55,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-2-18",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 649,
+            "y": 305,
+            "scale": 0.55,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-2-19",
+            "enter": 0
+          },
+          {
+            "type": "envelope",
+            "x": 807,
+            "y": 305,
+            "scale": 0.55,
+            "motion": {
+              "kind": "float",
+              "amplitude": 4,
+              "speed": 2
+            },
+            "id": "opening-2-20",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-004",
+      "t0": 13.0,
+      "t1": 17.0,
+      "scene": "compose",
+      "cueIndex": 3,
+      "scriptLine": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।",
+      "visualIntent": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ। → office_windowwall, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, office_station, workforce_card",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "night",
+        "floor": false,
+        "objects": [
+          {
+            "type": "office_windowwall",
+            "x": 480,
+            "y": 455,
+            "z": -20,
+            "id": "opening-3-0",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": -15,
+            "y": 355,
+            "s": 0.93,
+            "variant": 0,
+            "z": -5,
+            "id": "opening-3-1",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 126,
+            "y": 355,
+            "s": 0.93,
+            "variant": 1,
+            "z": -5,
+            "id": "opening-3-2",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 267,
+            "y": 355,
+            "s": 0.93,
+            "variant": 2,
+            "z": -5,
+            "id": "opening-3-3",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 408,
+            "y": 355,
+            "s": 0.93,
+            "variant": 3,
+            "z": -5,
+            "id": "opening-3-4",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 549,
+            "y": 355,
+            "s": 0.93,
+            "variant": 4,
+            "z": -5,
+            "id": "opening-3-5",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 690,
+            "y": 355,
+            "s": 0.93,
+            "variant": 5,
+            "z": -5,
+            "id": "opening-3-6",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 831,
+            "y": 355,
+            "s": 0.93,
+            "variant": 6,
+            "z": -5,
+            "id": "opening-3-7",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 972,
+            "y": 355,
+            "s": 0.93,
+            "variant": 7,
+            "z": -5,
+            "id": "opening-3-8",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 30,
+            "y": 461,
+            "s": 1.1,
+            "variant": 1,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-9",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 196,
+            "y": 461,
+            "s": 1.1,
+            "variant": 2,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-10",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 362,
+            "y": 461,
+            "s": 1.1,
+            "variant": 3,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-11",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 528,
+            "y": 461,
+            "s": 1.1,
+            "variant": 4,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-12",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 694,
+            "y": 461,
+            "s": 1.1,
+            "variant": 5,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-13",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 860,
+            "y": 461,
+            "s": 1.1,
+            "variant": 6,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-3-14",
+            "enter": 0
+          },
+          {
+            "type": "workforce_card",
+            "x": 665,
+            "y": 397,
+            "active": 25,
+            "text": "১/৪",
+            "revealFrom": 25,
+            "id": "opening-3-15",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-005",
+      "t0": 17.0,
+      "t1": 20.0,
+      "scene": "compose",
+      "cueIndex": 4,
+      "scriptLine": "আর এইটা একা মাইক্রোসফটের গল্প না।",
+      "visualIntent": "আর এইটা একা মাইক্রোসফটের গল্প না। → person, person, person, person, person, box, box, box, box, box",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "city",
+        "floor": false,
+        "objects": [
+          {
+            "type": "person",
+            "x": 100,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 0,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-0",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 255,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 1,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-1",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 410,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 2,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 565,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 3,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-3",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 720,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 4,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-4",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 135,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-5",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 290,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-6",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 445,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-7",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 600,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-8",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 755,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-4-9",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-006",
+      "t0": 20.0,
+      "t1": 28.0,
+      "scene": "compose",
+      "cueIndex": 5,
+      "scriptLine": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।",
+      "visualIntent": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে। → person, person, person, person, person, box, box, box, box, box, number",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "city",
+        "floor": false,
+        "objects": [
+          {
+            "type": "person",
+            "x": 100,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 0,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-0",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 255,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 1,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-1",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 410,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 2,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 565,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 3,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-3",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 720,
+            "y": 445,
+            "h": 135,
+            "role": "extra",
+            "pose": "walk",
+            "variant": 4,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-4",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 135,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-5",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 290,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-6",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 445,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-7",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 600,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-8",
+            "enter": 0
+          },
+          {
+            "type": "box",
+            "x": 755,
+            "y": 387,
+            "scale": 0.38,
+            "motion": {
+              "kind": "walk",
+              "speed": 24
+            },
+            "id": "opening-5-9",
+            "enter": 0
+          },
+          {
+            "type": "number",
+            "x": 210,
+            "y": 180,
+            "text": "১.২ লাখ",
+            "label": "এআই-জনিত ছাঁটাই · ৯ মাস",
+            "size": 70,
+            "w": 300,
+            "id": "opening-5-10",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-007",
+      "t0": 28.0,
+      "t1": 32.0,
+      "scene": "compose",
+      "cueIndex": 6,
+      "scriptLine": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।",
+      "visualIntent": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো। → number, bar, person",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "city",
+        "floor": false,
+        "objects": [
+          {
+            "type": "number",
+            "x": 205,
+            "y": 180,
+            "text": "৫৫ হাজার",
+            "label": "২০২৫ · পুরো বছর",
+            "size": 68,
+            "w": 300,
+            "id": "opening-6-0",
+            "enter": 0
+          },
+          {
+            "type": "bar",
+            "x": 650,
+            "y": 445,
+            "w": 100,
+            "h": 135,
+            "text": "২০২৫",
+            "color": "#8A8CA0",
+            "id": "opening-6-1",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 540,
+            "y": 445,
+            "h": 139,
+            "role": "extra",
+            "pose": "point",
+            "id": "opening-6-2",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-008",
+      "t0": 32.0,
+      "t1": 36.0,
+      "scene": "compose",
+      "cueIndex": 7,
+      "scriptLine": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।",
+      "visualIntent": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি। → number, bar, bar, label",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "city",
+        "floor": false,
+        "objects": [
+          {
+            "type": "number",
+            "x": 205,
+            "y": 180,
+            "text": "১.২ লাখ",
+            "label": "২০২৬ · প্রথম ৯ মাস",
+            "size": 68,
+            "w": 300,
+            "id": "opening-7-0",
+            "enter": 0
+          },
+          {
+            "type": "bar",
+            "x": 620,
+            "y": 445,
+            "w": 100,
+            "h": 125,
+            "text": "২০২৫",
+            "color": "#8A8CA0",
+            "id": "opening-7-1",
+            "enter": 0
+          },
+          {
+            "type": "bar",
+            "x": 790,
+            "y": 445,
+            "w": 100,
+            "h": 265,
+            "text": "২০২৬",
+            "keyframes": [
+              {
+                "at": 0,
+                "h": 125
+              },
+              {
+                "at": 1.2,
+                "h": 265
+              }
+            ],
+            "id": "opening-7-2",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 790,
+            "y": 140,
+            "text": "দুই গুণের বেশি",
+            "size": 24,
+            "color": "#FF3D17",
+            "id": "opening-7-3",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_005_layoff_year_comparison.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-009",
+      "t0": 36.0,
+      "t1": 39.0,
+      "scene": "compose",
+      "cueIndex": 8,
+      "scriptLine": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\"",
+      "visualIntent": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\" → palm, tea_stall, person, person, rickshaw, shield, chat",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "street",
+        "floor": false,
+        "objects": [
+          {
+            "type": "palm",
+            "x": 465,
+            "y": 371,
+            "scale": 0.78,
+            "z": -3,
+            "id": "opening-8-0",
+            "enter": 0
+          },
+          {
+            "type": "tea_stall",
+            "x": 780,
+            "y": 465,
+            "scale": 0.88,
+            "id": "opening-8-1",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 310,
+            "y": 465,
+            "h": 190,
+            "role": "guide",
+            "pose": "phone",
+            "id": "opening-8-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 630,
+            "y": 465,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 3,
+            "id": "opening-8-3",
+            "enter": 0
+          },
+          {
+            "type": "rickshaw",
+            "x": 80,
+            "y": 411,
+            "scale": 0.46,
+            "motion": {
+              "kind": "walk",
+              "speed": 30
+            },
+            "z": -1,
+            "id": "opening-8-4",
+            "enter": 0
+          },
+          {
+            "type": "shield",
+            "x": 450,
+            "y": 284,
+            "scale": 0.85,
+            "id": "opening-8-5",
+            "enter": 0
+          },
+          {
+            "type": "chat",
+            "x": 515,
+            "y": 225,
+            "text": "আমার কাজ এআই পারবে না।",
+            "scale": 0.9,
+            "id": "opening-8-6",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_005_layoff_year_comparison.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-010",
+      "t0": 39.0,
+      "t1": 41.0,
+      "scene": "compose",
+      "cueIndex": 9,
+      "scriptLine": "আসলেই? চলেন, একটু দেখি।",
+      "visualIntent": "আসলেই? চলেন, একটু দেখি। → palm, tea_stall, person, person, rickshaw, shield",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "street",
+        "floor": false,
+        "objects": [
+          {
+            "type": "palm",
+            "x": 465,
+            "y": 371,
+            "scale": 0.78,
+            "z": -3,
+            "id": "opening-9-0",
+            "enter": 0
+          },
+          {
+            "type": "tea_stall",
+            "x": 780,
+            "y": 465,
+            "scale": 0.88,
+            "id": "opening-9-1",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 310,
+            "y": 465,
+            "h": 190,
+            "role": "guide",
+            "pose": "phone",
+            "id": "opening-9-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 630,
+            "y": 465,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 3,
+            "id": "opening-9-3",
+            "enter": 0
+          },
+          {
+            "type": "rickshaw",
+            "x": 80,
+            "y": 411,
+            "scale": 0.46,
+            "motion": {
+              "kind": "walk",
+              "speed": 30
+            },
+            "z": -1,
+            "id": "opening-9-4",
+            "enter": 0
+          },
+          {
+            "type": "shield",
+            "x": 450,
+            "y": 284,
+            "scale": 0.85,
+            "cracked": true,
+            "id": "opening-9-5",
+            "enter": 0
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 480,
+          "y": 270,
+          "zoom": 1,
+          "keyframes": [
+            {
+              "at": 0,
+              "zoom": 1
+            },
+            {
+              "at": 1.7,
+              "zoom": 1.06,
+              "x": 440
+            }
+          ]
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_006_street_shield.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-011",
+      "t0": 41.0,
+      "t1": 46.0,
+      "scene": "compose",
+      "cueIndex": 10,
+      "scriptLine": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।",
+      "visualIntent": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে। → room_outline, room_outline, room_outline, person, bed, blackboard, person, person, person, desk, sewing_machine",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": false,
+        "objects": [
+          {
+            "type": "room_outline",
+            "x": 190,
+            "y": 453,
+            "label": "ডাক্তার",
+            "id": "opening-10-0",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 480,
+            "y": 453,
+            "label": "টিচার",
+            "id": "opening-10-1",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 770,
+            "y": 453,
+            "label": "গার্মেন্টস",
+            "id": "opening-10-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 124,
+            "y": 450,
+            "h": 150,
+            "role": "doctor",
+            "pose": "point",
+            "id": "opening-10-3",
+            "enter": 0
+          },
+          {
+            "type": "bed",
+            "x": 215,
+            "y": 405,
+            "scale": 0.62,
+            "id": "opening-10-4",
+            "enter": 0
+          },
+          {
+            "type": "blackboard",
+            "x": 495,
+            "y": 314,
+            "scale": 0.8,
+            "id": "opening-10-5",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 419,
+            "y": 450,
+            "h": 151,
+            "role": "extra",
+            "pose": "point",
+            "variant": 1,
+            "id": "opening-10-6",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 550,
+            "y": 450,
+            "h": 102,
+            "role": "extra",
+            "pose": "sit",
+            "id": "opening-10-7",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 690,
+            "y": 450,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 2,
+            "id": "opening-10-8",
+            "enter": 0
+          },
+          {
+            "type": "desk",
+            "x": 755,
+            "y": 450,
+            "monitor": false,
+            "scale": 0.82,
+            "id": "opening-10-9",
+            "enter": 0
+          },
+          {
+            "type": "sewing_machine",
+            "x": 755,
+            "y": 393,
+            "scale": 0.65,
+            "id": "opening-10-10",
+            "enter": 0
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-012",
+      "t0": 46.0,
+      "t1": 49.0,
+      "scene": "compose",
+      "cueIndex": 11,
+      "scriptLine": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।",
+      "visualIntent": "ডাক্তার বলে, রোগী দেখা এআই পারবে না। → room_outline, room_outline, room_outline, person, bed, blackboard, person, person, person, desk, sewing_machine, shield",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": false,
+        "objects": [
+          {
+            "type": "room_outline",
+            "x": 190,
+            "y": 453,
+            "label": "ডাক্তার",
+            "id": "opening-11-0",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 480,
+            "y": 453,
+            "label": "টিচার",
+            "id": "opening-11-1",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 770,
+            "y": 453,
+            "label": "গার্মেন্টস",
+            "id": "opening-11-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 124,
+            "y": 450,
+            "h": 150,
+            "role": "doctor",
+            "pose": "point",
+            "id": "opening-11-3",
+            "enter": 0
+          },
+          {
+            "type": "bed",
+            "x": 215,
+            "y": 405,
+            "scale": 0.62,
+            "id": "opening-11-4",
+            "enter": 0
+          },
+          {
+            "type": "blackboard",
+            "x": 495,
+            "y": 314,
+            "scale": 0.8,
+            "id": "opening-11-5",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 419,
+            "y": 450,
+            "h": 151,
+            "role": "extra",
+            "pose": "point",
+            "variant": 1,
+            "id": "opening-11-6",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 550,
+            "y": 450,
+            "h": 102,
+            "role": "extra",
+            "pose": "sit",
+            "id": "opening-11-7",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 690,
+            "y": 450,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 2,
+            "id": "opening-11-8",
+            "enter": 0
+          },
+          {
+            "type": "desk",
+            "x": 755,
+            "y": 450,
+            "monitor": false,
+            "scale": 0.82,
+            "id": "opening-11-9",
+            "enter": 0
+          },
+          {
+            "type": "sewing_machine",
+            "x": 755,
+            "y": 393,
+            "scale": 0.65,
+            "id": "opening-11-10",
+            "enter": 0
+          },
+          {
+            "type": "shield",
+            "x": 220,
+            "y": 235,
+            "scale": 0.55,
+            "id": "opening-11-11",
+            "enter": 0
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 290,
+          "y": 295,
+          "zoom": 1.15
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-013",
+      "t0": 49.0,
+      "t1": 52.0,
+      "scene": "compose",
+      "cueIndex": 12,
+      "scriptLine": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?",
+      "visualIntent": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে? → room_outline, room_outline, room_outline, person, bed, blackboard, person, person, person, desk, sewing_machine, shield",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": false,
+        "objects": [
+          {
+            "type": "room_outline",
+            "x": 190,
+            "y": 453,
+            "label": "ডাক্তার",
+            "id": "opening-12-0",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 480,
+            "y": 453,
+            "label": "টিচার",
+            "id": "opening-12-1",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 770,
+            "y": 453,
+            "label": "গার্মেন্টস",
+            "id": "opening-12-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 124,
+            "y": 450,
+            "h": 150,
+            "role": "doctor",
+            "pose": "point",
+            "id": "opening-12-3",
+            "enter": 0
+          },
+          {
+            "type": "bed",
+            "x": 215,
+            "y": 405,
+            "scale": 0.62,
+            "id": "opening-12-4",
+            "enter": 0
+          },
+          {
+            "type": "blackboard",
+            "x": 495,
+            "y": 314,
+            "scale": 0.8,
+            "id": "opening-12-5",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 419,
+            "y": 450,
+            "h": 151,
+            "role": "extra",
+            "pose": "point",
+            "variant": 1,
+            "id": "opening-12-6",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 550,
+            "y": 450,
+            "h": 102,
+            "role": "extra",
+            "pose": "sit",
+            "id": "opening-12-7",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 690,
+            "y": 450,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 2,
+            "id": "opening-12-8",
+            "enter": 0
+          },
+          {
+            "type": "desk",
+            "x": 755,
+            "y": 450,
+            "monitor": false,
+            "scale": 0.82,
+            "id": "opening-12-9",
+            "enter": 0
+          },
+          {
+            "type": "sewing_machine",
+            "x": 755,
+            "y": 393,
+            "scale": 0.65,
+            "id": "opening-12-10",
+            "enter": 0
+          },
+          {
+            "type": "shield",
+            "x": 510,
+            "y": 209,
+            "scale": 0.55,
+            "id": "opening-12-11",
+            "enter": 0
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 490,
+          "y": 295,
+          "zoom": 1.15
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-014",
+      "t0": 52.0,
+      "t1": 55.0,
+      "scene": "compose",
+      "cueIndex": 13,
+      "scriptLine": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?",
+      "visualIntent": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি? → room_outline, room_outline, room_outline, person, bed, blackboard, person, person, person, desk, sewing_machine, shield",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": false,
+        "objects": [
+          {
+            "type": "room_outline",
+            "x": 190,
+            "y": 453,
+            "label": "ডাক্তার",
+            "id": "opening-13-0",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 480,
+            "y": 453,
+            "label": "টিচার",
+            "id": "opening-13-1",
+            "enter": 0
+          },
+          {
+            "type": "room_outline",
+            "x": 770,
+            "y": 453,
+            "label": "গার্মেন্টস",
+            "id": "opening-13-2",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 124,
+            "y": 450,
+            "h": 150,
+            "role": "doctor",
+            "pose": "point",
+            "id": "opening-13-3",
+            "enter": 0
+          },
+          {
+            "type": "bed",
+            "x": 215,
+            "y": 405,
+            "scale": 0.62,
+            "id": "opening-13-4",
+            "enter": 0
+          },
+          {
+            "type": "blackboard",
+            "x": 495,
+            "y": 314,
+            "scale": 0.8,
+            "id": "opening-13-5",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 419,
+            "y": 450,
+            "h": 151,
+            "role": "extra",
+            "pose": "point",
+            "variant": 1,
+            "id": "opening-13-6",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 550,
+            "y": 450,
+            "h": 102,
+            "role": "extra",
+            "pose": "sit",
+            "id": "opening-13-7",
+            "enter": 0
+          },
+          {
+            "type": "person",
+            "x": 690,
+            "y": 450,
+            "h": 140,
+            "role": "extra",
+            "pose": "sit",
+            "variant": 2,
+            "id": "opening-13-8",
+            "enter": 0
+          },
+          {
+            "type": "desk",
+            "x": 755,
+            "y": 450,
+            "monitor": false,
+            "scale": 0.82,
+            "id": "opening-13-9",
+            "enter": 0
+          },
+          {
+            "type": "sewing_machine",
+            "x": 755,
+            "y": 393,
+            "scale": 0.65,
+            "id": "opening-13-10",
+            "enter": 0
+          },
+          {
+            "type": "shield",
+            "x": 805,
+            "y": 235,
+            "scale": 0.55,
+            "id": "opening-13-11",
+            "enter": 0
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 690,
+          "y": 295,
+          "zoom": 1.15
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    },
+    {
+      "id": "line-015",
+      "t0": 55.0,
+      "t1": 60,
+      "scene": "compose",
+      "cueIndex": 14,
+      "scriptLine": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।",
+      "visualIntent": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না। → vector, label, orb, office_station, office_station, office_station, clipboard",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": false,
+        "objects": [
+          {
+            "type": "vector",
+            "x": 480,
+            "y": 455,
+            "shapes": [
+              {
+                "kind": "rect",
+                "x": -230,
+                "y": -300,
+                "w": 460,
+                "h": 300,
+                "fill": "#12141C"
+              }
+            ],
+            "id": "opening-14-0",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 480,
+            "y": 141,
+            "text": "AI LAB",
+            "size": 15,
+            "maxWidth": 200,
+            "id": "opening-14-1",
+            "enter": 0
+          },
+          {
+            "type": "orb",
+            "x": 480,
+            "y": 270,
+            "r": 36,
+            "id": "opening-14-2",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 300,
+            "y": 455,
+            "s": 0.9,
+            "ai": true,
+            "variant": 0,
+            "id": "opening-14-3",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 435,
+            "y": 455,
+            "s": 0.9,
+            "ai": true,
+            "variant": 1,
+            "id": "opening-14-4",
+            "enter": 0
+          },
+          {
+            "type": "office_station",
+            "x": 570,
+            "y": 455,
+            "s": 0.9,
+            "ai": true,
+            "variant": 2,
+            "id": "opening-14-5",
+            "enter": 0
+          },
+          {
+            "type": "clipboard",
+            "x": 790,
+            "y": 354,
+            "scale": 0.8,
+            "checked": 1,
+            "enter": 2.3,
+            "id": "opening-14-6"
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "guideIdentity": "guide",
+        "change": "Preserve the cast and style; illustrate the current line action."
+      }
+    }
+  ],
+  "planning": "First-minute reference-informed composition pass. Script/audio supplied by user. Uses source-office density, grounded street details and adjacent profession-room camera framing. Timing retains supplied editorial timecodes.",
+  "planningStatus": "authored",
+  "styleLock": "style-lock.json",
+  "cast": {
+    "guide": {
+      "role": "guide",
+      "variant": 0,
+      "color": "#FF3D17",
+      "legColor": "#272A3A",
+      "visor": true
+    }
+  }
+}

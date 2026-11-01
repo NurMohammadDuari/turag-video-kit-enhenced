@@ -1,0 +1,30 @@
+[
+  {
+    "t": 40.99,
+    "blue": false
+  },
+  {
+    "t": 41,
+    "blue": true
+  },
+  {
+    "t": 41.2,
+    "blue": true
+  },
+  {
+    "t": 42,
+    "blue": true
+  },
+  {
+    "t": 43.39,
+    "blue": true
+  },
+  {
+    "t": 43.4,
+    "blue": false
+  },
+  {
+    "t": 44,
+    "blue": false
+  }
+]

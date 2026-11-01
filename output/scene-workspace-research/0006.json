@@ -1,0 +1,214 @@
+{
+  "index": 5,
+  "sourceBeatHash": "ccf6d89a98fe9ddf4397f138efcb0ced691b61b8b781ab44fcebd4787b79e1d5",
+  "context": {
+    "previousLine": "আর এইটা একা মাইক্রোসফটের গল্প না।",
+    "nextLine": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-006",
+    "t0": 20.0,
+    "t1": 28.0,
+    "scene": "compose",
+    "cueIndex": 5,
+    "scriptLine": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।",
+    "visualIntent": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে। | A report fills with the narrated US total and named AI cause; a rising counter is evidence, not a repeated street walk.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "report_board",
+          "x": 485,
+          "y": 425,
+          "id": "s5-0",
+          "instant": true
+        },
+        {
+          "type": "count_number",
+          "x": 460,
+          "y": 300,
+          "to": 120000,
+          "seconds": 2.4,
+          "label": "আমেরিকা · প্রথম ৯ মাস",
+          "w": 330,
+          "size": 70,
+          "id": "s5-1",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 475,
+          "y": 330,
+          "text": "ছাঁটাইয়ের কারণ হিসেবে এআই",
+          "size": 25,
+          "color": "#2F3BFF",
+          "id": "s5-2",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 175,
+          "y": 455,
+          "h": 175,
+          "role": "guide",
+          "action": "explain",
+          "id": "s5-3",
+          "instant": true
+        },
+        {
+          "type": "paper_stack",
+          "x": 780,
+          "y": 447,
+          "count": 16,
+          "id": "s5-4",
+          "instant": true
+        },
+        {
+          "type": "filing_cabinet",
+          "x": 850,
+          "y": 455,
+          "scale": 0.6,
+          "id": "s5-5",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "evidence desk retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "guide and report"
+      ],
+      "action": "counter rises to the narrated US layoff total",
+      "setting": "evidence desk",
+      "facts": [
+        "first nine months; about 120 thousand; AI named"
+      ],
+      "relationship": "first nine months; about 120 thousand; AI named",
+      "tone": "evidentiary",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on guide and report.",
+        "Abstract evidence diagram for first nine months; about 120 thousand; AI named."
+      ],
+      "mechanism": "evidence report and counter",
+      "composition": "guide frames a large report with records at right",
+      "visibleChange": "counter climbs to 120000 and holds",
+      "actionPeak": "number resolves while AI-cause caption remains attached",
+      "cameraPurpose": "fixed evidence hierarchy",
+      "transition": "cut backward into archive",
+      "why": "The report format distinguishes evidence from a decorative statistic."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_004_layoff_walkers_counter.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "আমেরিকা · প্রথম ৯ মাস",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "ছাঁটাইয়ের কারণ হিসেবে এআই",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [
+      {
+        "value": "৯ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "120000",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "16",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      }
+    ],
+    "animationPlan": {
+      "primaryAction": "counter rises to the narrated US layoff total",
+      "motivation": "The report format distinguishes evidence from a decorative statistic.",
+      "anticipation": "guide and report orient head and weight toward the acting object before contact.",
+      "contact": "number resolves while AI-cause caption remains attached; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "number resolves while AI-cause caption remains attached",
+      "followThrough": "The action settles with a readable hold before cut backward into archive.",
+      "secondaryMotion": "evidence desk uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "fixed evidence hierarchy supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes evidence desk with readable subject hierarchy.",
+      "middle": "Action peak checked: number resolves while AI-cause caption remains attached.",
+      "end": "Final hold leaves the narrated relationship legible before cut backward into archive.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

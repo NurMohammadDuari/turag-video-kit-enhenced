@@ -1,0 +1,99 @@
+{
+  "duration": 60,
+  "beats": 15,
+  "cues": 15,
+  "sceneTypes": [
+    "compose"
+  ],
+  "testedTimes": 75,
+  "maxDrawMs": 17.399999999441206,
+  "blank": [],
+  "nondeterministic": [],
+  "samples": [
+    {
+      "id": "line-001",
+      "scene": "compose",
+      "t": 2
+    },
+    {
+      "id": "line-002",
+      "scene": "compose",
+      "t": 7
+    },
+    {
+      "id": "line-003",
+      "scene": "compose",
+      "t": 11.5
+    },
+    {
+      "id": "line-004",
+      "scene": "compose",
+      "t": 15
+    },
+    {
+      "id": "line-005",
+      "scene": "compose",
+      "t": 18.5
+    },
+    {
+      "id": "line-006",
+      "scene": "compose",
+      "t": 24
+    },
+    {
+      "id": "line-007",
+      "scene": "compose",
+      "t": 30
+    },
+    {
+      "id": "line-008",
+      "scene": "compose",
+      "t": 34
+    },
+    {
+      "id": "line-009",
+      "scene": "compose",
+      "t": 37.5
+    },
+    {
+      "id": "line-010",
+      "scene": "compose",
+      "t": 40
+    },
+    {
+      "id": "line-011",
+      "scene": "compose",
+      "t": 43.5
+    },
+    {
+      "id": "line-012",
+      "scene": "compose",
+      "t": 47.5
+    },
+    {
+      "id": "line-013",
+      "scene": "compose",
+      "t": 50.5
+    },
+    {
+      "id": "line-014",
+      "scene": "compose",
+      "t": 53.5
+    },
+    {
+      "id": "line-015",
+      "scene": "compose",
+      "t": 57.5
+    }
+  ],
+  "fonts": [
+    "800 32px \"Anek Bangla\"",
+    "600 19px \"Hind Siliguri\"",
+    "400 10px \"Space Mono\"",
+    "700 10px \"Space Mono\""
+  ],
+  "errors": [],
+  "maxSubtitleWidth": 805.01318359375,
+  "browserErrors": [],
+  "networkRequests": []
+}

@@ -1,0 +1,369 @@
+{
+  "html": "/home/mint/Desktop/turag-video-kit/engine/Turag_First_Minute_v9.html",
+  "beats": [
+    {
+      "id": "line-001",
+      "times": [
+        0.12,
+        0.8,
+        2,
+        3.2,
+        3.88
+      ],
+      "files": [
+        "001-start.jpg",
+        "001-anticipation.jpg",
+        "001-peak.jpg",
+        "001-settle.jpg",
+        "001-end.jpg"
+      ],
+      "deltas": [
+        7.248819444444444,
+        4.299774305555555,
+        1.351657986111111,
+        0.1440451388888889
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-002",
+      "times": [
+        4.18,
+        5.2,
+        7,
+        8.8,
+        9.82
+      ],
+      "files": [
+        "002-start.jpg",
+        "002-anticipation.jpg",
+        "002-peak.jpg",
+        "002-settle.jpg",
+        "002-end.jpg"
+      ],
+      "deltas": [
+        0.24383680555555556,
+        0.2290625,
+        0.04171875,
+        0.09361979166666666
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-003",
+      "times": [
+        10.09,
+        10.6,
+        11.5,
+        12.4,
+        12.91
+      ],
+      "files": [
+        "003-start.jpg",
+        "003-anticipation.jpg",
+        "003-peak.jpg",
+        "003-settle.jpg",
+        "003-end.jpg"
+      ],
+      "deltas": [
+        0.30409722222222224,
+        0.3385590277777778,
+        0.14604166666666665,
+        0.04212673611111111
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-004",
+      "times": [
+        13.12,
+        13.8,
+        15,
+        16.2,
+        16.88
+      ],
+      "files": [
+        "004-start.jpg",
+        "004-anticipation.jpg",
+        "004-peak.jpg",
+        "004-settle.jpg",
+        "004-end.jpg"
+      ],
+      "deltas": [
+        0.25991319444444444,
+        0.2354079861111111,
+        0.19029513888888888,
+        0.09784722222222222
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-005",
+      "times": [
+        17.09,
+        17.6,
+        18.5,
+        19.4,
+        19.91
+      ],
+      "files": [
+        "005-start.jpg",
+        "005-anticipation.jpg",
+        "005-peak.jpg",
+        "005-settle.jpg",
+        "005-end.jpg"
+      ],
+      "deltas": [
+        10.848168402777778,
+        2.284965277777778,
+        1.8315364583333333,
+        0.45553819444444443
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-006",
+      "times": [
+        20.24,
+        21.6,
+        24,
+        26.4,
+        27.759999999999998
+      ],
+      "files": [
+        "006-start.jpg",
+        "006-anticipation.jpg",
+        "006-peak.jpg",
+        "006-settle.jpg",
+        "006-end.jpg"
+      ],
+      "deltas": [
+        1.9279166666666667,
+        7.699140625,
+        0.05204861111111111,
+        0.020911458333333334
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-007",
+      "times": [
+        28.12,
+        28.8,
+        30,
+        31.2,
+        31.88
+      ],
+      "files": [
+        "007-start.jpg",
+        "007-anticipation.jpg",
+        "007-peak.jpg",
+        "007-settle.jpg",
+        "007-end.jpg"
+      ],
+      "deltas": [
+        3.353394097222222,
+        0,
+        0,
+        0.0003993055555555556
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-008",
+      "times": [
+        32.12,
+        32.8,
+        34,
+        35.2,
+        35.88
+      ],
+      "files": [
+        "008-start.jpg",
+        "008-anticipation.jpg",
+        "008-peak.jpg",
+        "008-settle.jpg",
+        "008-end.jpg"
+      ],
+      "deltas": [
+        0.8131857638888889,
+        0.38608506944444443,
+        0.14368923611111112,
+        0.046128472222222223
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-009",
+      "times": [
+        36.09,
+        36.6,
+        37.5,
+        38.4,
+        38.91
+      ],
+      "files": [
+        "009-start.jpg",
+        "009-anticipation.jpg",
+        "009-peak.jpg",
+        "009-settle.jpg",
+        "009-end.jpg"
+      ],
+      "deltas": [
+        0.45598090277777775,
+        0.7196354166666666,
+        0.7126041666666667,
+        0.6714409722222222
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-010",
+      "times": [
+        39.06,
+        39.4,
+        40,
+        40.6,
+        40.94
+      ],
+      "files": [
+        "010-start.jpg",
+        "010-anticipation.jpg",
+        "010-peak.jpg",
+        "010-settle.jpg",
+        "010-end.jpg"
+      ],
+      "deltas": [
+        0.80625,
+        1.074314236111111,
+        0.9255729166666666,
+        0.18358506944444444
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-011",
+      "times": [
+        41.15,
+        42,
+        43.5,
+        45,
+        45.85
+      ],
+      "files": [
+        "011-start.jpg",
+        "011-anticipation.jpg",
+        "011-peak.jpg",
+        "011-settle.jpg",
+        "011-end.jpg"
+      ],
+      "deltas": [
+        0,
+        87.61040798611111,
+        3.9503385416666665,
+        0.4462847222222222
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-012",
+      "times": [
+        46.09,
+        46.6,
+        47.5,
+        48.4,
+        48.91
+      ],
+      "files": [
+        "012-start.jpg",
+        "012-anticipation.jpg",
+        "012-peak.jpg",
+        "012-settle.jpg",
+        "012-end.jpg"
+      ],
+      "deltas": [
+        0.1476736111111111,
+        0.12076388888888889,
+        0.21325520833333333,
+        0.13756944444444444
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-013",
+      "times": [
+        49.09,
+        49.6,
+        50.5,
+        51.4,
+        51.91
+      ],
+      "files": [
+        "013-start.jpg",
+        "013-anticipation.jpg",
+        "013-peak.jpg",
+        "013-settle.jpg",
+        "013-end.jpg"
+      ],
+      "deltas": [
+        0.28125868055555553,
+        0.12657118055555555,
+        0.1684982638888889,
+        0.3279166666666667
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-014",
+      "times": [
+        52.09,
+        52.6,
+        53.5,
+        54.4,
+        54.91
+      ],
+      "files": [
+        "014-start.jpg",
+        "014-anticipation.jpg",
+        "014-peak.jpg",
+        "014-settle.jpg",
+        "014-end.jpg"
+      ],
+      "deltas": [
+        0.4060416666666667,
+        0.21803819444444444,
+        0.19219618055555557,
+        0.41370659722222225
+      ],
+      "warning": ""
+    },
+    {
+      "id": "line-015",
+      "times": [
+        55.15,
+        56,
+        57.5,
+        59,
+        59.85
+      ],
+      "files": [
+        "015-start.jpg",
+        "015-anticipation.jpg",
+        "015-peak.jpg",
+        "015-settle.jpg",
+        "015-end.jpg"
+      ],
+      "deltas": [
+        0.0415625,
+        0.016024305555555556,
+        0.030703125,
+        0.02095486111111111
+      ],
+      "warning": "Active cue has almost no measured visual change"
+    }
+  ],
+  "warnings": [
+    "line-015: Active cue has almost no measured visual change"
+  ],
+  "browserErrors": []
+}

@@ -1,0 +1,255 @@
+{
+  "index": 10,
+  "sourceBeatHash": "6a3451314d43449e394e754631785970e66e1921bb4157039de202a44ea3f622",
+  "context": {
+    "previousLine": "আসলেই? চলেন, একটু দেখি।",
+    "nextLine": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-011",
+    "t0": 41.0,
+    "t1": 46.0,
+    "scene": "compose",
+    "cueIndex": 10,
+    "scriptLine": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।",
+    "visualIntent": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে। | Three distinct professionals voice their own claims; this is a conversation, not three room templates. First 2.4 seconds preserve the blue chapter card and striped 02 from the reference, followed by the three professional claims.",
+    "chapter": 2,
+    "chapterTitle": "সবার একটা অজুহাত",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "person",
+          "x": 230,
+          "y": 455,
+          "h": 180,
+          "role": "doctor",
+          "variant": 0,
+          "action": "explain",
+          "phase": 0,
+          "enter": 2.4,
+          "id": "s10-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 480,
+          "y": 455,
+          "h": 180,
+          "role": "extra",
+          "variant": 1,
+          "action": "explain",
+          "phase": 1,
+          "enter": 2.6,
+          "id": "s10-1",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 730,
+          "y": 455,
+          "h": 180,
+          "role": "extra",
+          "variant": 2,
+          "action": "explain",
+          "phase": 2,
+          "enter": 2.8,
+          "id": "s10-2",
+          "instant": true
+        },
+        {
+          "type": "chat",
+          "x": 250,
+          "y": 255,
+          "text": "রোগী দেখা?",
+          "enter": 2.4,
+          "scale": 0.9,
+          "id": "s10-3",
+          "instant": true
+        },
+        {
+          "type": "chat",
+          "x": 500,
+          "y": 255,
+          "text": "বাচ্চা পড়ানো?",
+          "enter": 2.9,
+          "scale": 0.9,
+          "id": "s10-4",
+          "instant": false
+        },
+        {
+          "type": "chat",
+          "x": 750,
+          "y": 255,
+          "text": "সেলাই করা?",
+          "enter": 3.4,
+          "scale": 0.9,
+          "id": "s10-5",
+          "instant": false
+        },
+        {
+          "id": "chapter-02-card",
+          "type": "chapter_card",
+          "x": 0,
+          "y": 0,
+          "number": "০২",
+          "chapter": 2,
+          "total": 7,
+          "line1": "সবার একটা",
+          "line2": "অজুহাত",
+          "enter": 0,
+          "exit": 2.4,
+          "z": 100,
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0067.jpg",
+      "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "claim stage retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "doctor teacher garment worker"
+      ],
+      "action": "three people voice different excuses",
+      "setting": "claim stage",
+      "facts": [
+        "everyone has an excuse"
+      ],
+      "relationship": "everyone has an excuse",
+      "tone": "observational",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on doctor teacher garment worker.",
+        "Abstract evidence diagram for everyone has an excuse."
+      ],
+      "mechanism": "chapter reset then claim chorus",
+      "composition": "full blue chapter page yields to three spaced speakers",
+      "visibleChange": "chapter exits and claim cards appear in sequence",
+      "actionPeak": "third professional completes the chorus",
+      "cameraPurpose": "editorial reset then wide trio",
+      "transition": "cut into first profession room",
+      "why": "The chapter card preserves series identity before expanding the excuses."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0067.jpg.",
+      "Borrow staging, silhouette density, material and motion mechanism from ref_007_chapter_two_card.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "রোগী দেখা?",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "বাচ্চা পড়ানো?",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "সেলাই করা?",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "সবার একটা",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "অজুহাত",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "০২",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [
+      {
+        "value": "০২",
+        "basis": "editorial",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      }
+    ],
+    "animationPlan": {
+      "primaryAction": "three people voice different excuses",
+      "motivation": "The chapter card preserves series identity before expanding the excuses.",
+      "anticipation": "doctor teacher garment worker orient head and weight toward the acting object before contact.",
+      "contact": "third professional completes the chorus; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "third professional completes the chorus",
+      "followThrough": "The action settles with a readable hold before cut into first profession room.",
+      "secondaryMotion": "claim stage uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "editorial reset then wide trio supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes claim stage with readable subject hierarchy.",
+      "middle": "Action peak checked: third professional completes the chorus.",
+      "end": "Final hold leaves the narrated relationship legible before cut into first profession room.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

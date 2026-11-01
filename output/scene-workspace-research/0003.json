@@ -1,0 +1,227 @@
+{
+  "index": 2,
+  "sourceBeatHash": "6989de0305c88186a014f9182cb470ca94121f0997f9f98a120f6fb8314b64e6",
+  "context": {
+    "previousLine": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।",
+    "nextLine": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-003",
+    "t0": 10.0,
+    "t1": 13.0,
+    "scene": "compose",
+    "cueIndex": 2,
+    "scriptLine": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।",
+    "visualIntent": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন। | Show an exit payment moving across the desk between employer and worker, with an exit door beyond.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "exit_door",
+          "x": 780,
+          "y": 455,
+          "id": "s2-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 320,
+          "y": 455,
+          "h": 200,
+          "role": "extra",
+          "variant": 3,
+          "action": "explain",
+          "id": "s2-1",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 515,
+          "y": 455,
+          "h": 200,
+          "role": "extra",
+          "variant": 0,
+          "dir": -1,
+          "action": "take",
+          "rightHandFrames": [
+            [
+              0,
+              0.4,
+              -0.56
+            ],
+            [
+              0.9,
+              0.32,
+              -0.57
+            ],
+            [
+              1.6,
+              0.26,
+              -0.67
+            ],
+            [
+              3,
+              0.26,
+              -0.67
+            ]
+          ],
+          "id": "s2-2",
+          "instant": true
+        },
+        {
+          "type": "desk",
+          "x": 425,
+          "y": 455,
+          "monitor": false,
+          "scale": 1.6,
+          "id": "s2-3",
+          "instant": true
+        },
+        {
+          "type": "cash_packet",
+          "x": -12,
+          "y": -4,
+          "scale": 0.6,
+          "attachTo": "s2-2",
+          "hand": "right",
+          "z": 5,
+          "id": "s2-4",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 440,
+          "y": 165,
+          "text": "টাকা নেন → চাকরি ছাড়েন",
+          "size": 36,
+          "id": "s2-5",
+          "instant": true
+        },
+        {
+          "type": "envelope",
+          "x": 402,
+          "y": 344.6,
+          "scale": 0.45,
+          "id": "s2-6",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "exit desk retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "employer and worker"
+      ],
+      "action": "money is exchanged for departure",
+      "setting": "exit desk",
+      "facts": [
+        "take money and leave job"
+      ],
+      "relationship": "take money and leave job",
+      "tone": "blunt",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on employer and worker.",
+        "Abstract evidence diagram for take money and leave job."
+      ],
+      "mechanism": "physical exchange",
+      "composition": "two people face across one desk with exit door beyond",
+      "visibleChange": "cash reaches the worker while resignation envelope stays on desk",
+      "actionPeak": "cash packet meets the receiving wrist",
+      "cameraPurpose": "locked bilateral framing",
+      "transition": "cut to abstract headcount",
+      "why": "The line becomes an unmistakable transaction and consequence."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_002_night_office_offer.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "টাকা নেন → চাকরি ছাড়েন",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "money is exchanged for departure",
+      "motivation": "The line becomes an unmistakable transaction and consequence.",
+      "anticipation": "employer and worker orient head and weight toward the acting object before contact.",
+      "contact": "cash packet meets the receiving wrist; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "cash packet meets the receiving wrist",
+      "followThrough": "The action settles with a readable hold before cut to abstract headcount.",
+      "secondaryMotion": "exit desk uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "locked bilateral framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes exit desk with readable subject hierarchy.",
+      "middle": "Action peak checked: cash packet meets the receiving wrist.",
+      "end": "Final hold leaves the narrated relationship legible before cut to abstract headcount.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

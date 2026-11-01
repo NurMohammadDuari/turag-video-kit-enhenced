@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+"""Curated episode-specific composition decisions; not a general script planner."""
+import json
+from pathlib import Path
+from compose_episode import object_ as O
+p=Path('episodes/ep02-composed.json');ep=json.loads(p.read_text())
+def setshot(indices,backdrop,objects):
+ for i in indices:
+  b=ep['beats'][i];b['shot']={'backdrop':backdrop,'objects':[dict(o,id=f'{b["id"]}-{j}',enter=j*.10,revealFrom=8) for j,o in enumerate(objects)],'links':[]};b['visualIntent']=b['scriptLine']+' → '+', '.join(o['type'] for o in objects)
+def person(x=270,role='guide',pose='point',**kw):return O('actor','person',x,455,role=role,pose=pose,**kw)
+def prop(typ,x=610,y=455,**kw):return O(typ,typ,x,y,**kw)
+setshot([0],'night',[prop('label',480,225,text='আপনার চাকরি কি',size=65,color='#E9E4D2',maxWidth=820),prop('label',480,310,text='আসলেই সেফ?',size=72,color='#FF3D17',maxWidth=820)])
+ep['cues'][0]['kind']='card';ep['cues'][-1]['kind']='card'
+setshot([1],'night',[person(220,'extra','sit'),prop('desk',295),prop('envelope',525,330),prop('calendar',760,390,text='২৬',label='অক্টোবর')])
+setshot([2],'night',[person(290,'extra','walk'),prop('envelope',470,340),prop('label',700,250,text='টাকা নেন, চাকরি ছাড়েন',size=35,color='#E9E4D2')])
+setshot([3],'night',[prop('grid',300,430,count=100,cols=20,active=25,color='#FF3D17'),prop('number',660,240,text='১/৪',label='৬০ হাজার কর্মী')])
+setshot([4,5],'city',[person(210,'extra','walk'),person(365,'extra','walk',variant=2),prop('box',410,380),prop('number',660,240,text='১.২ লাখ',label='এআই-জনিত ছাঁটাই')])
+setshot([6,7],'city',[prop('bar',390,h=110,text='২০২৫',color='#8A8CA0'),prop('bar',650,h=230,text='২০২৬'),prop('label',520,170,text='৫৫ হাজার → ১.২ লাখ',size=35)])
+setshot([12],'paper',[person(300,'extra','point'),prop('blackboard',500,text='ক খ গ'),person(700,'extra','sit',h=110)])
+setshot([13,63,68,69],'office',[person(280,'extra','sit',variant=2),prop('desk',340,monitor=False),prop('sewing_machine',350,382),prop('robot',650)])
+setshot([15,16,17,18],'paper',[person(210,'extra','sit'),prop('desk',285,ai=True),prop('orb',490,270),prop('grid',650,420,count=40,cols=10,active=40)])
+setshot([19],'paper',[person(),prop('bar',590,h=240,text='এআই নির্মাতা'),prop('number',720,190,text='৭৫%')])
+setshot([20],'paper',[person(),prop('bar',590,h=90,text='সাধারণ মানুষ'),prop('number',720,190,text='২৮%')])
+setshot([23,24,25],'paper',[person(),prop('engine',530),prop('car',780),prop('label',590,200,text='ইঞ্জিন → গাড়ি',size=38)])
+setshot([26,28,29],'office',[prop('orb',480,255),prop('monitor',270,435,ai=True),prop('paper_stack',690),person(800,'extra','point')])
+setshot([27],'paper',[prop('hospital',170,455,scale=.7),prop('building',400,455,label='ব্যাংক'),prop('building',620,455,label='আইন'),prop('building',825,455,label='কল সেন্টার')])
+setshot([31,108],'paper',[prop('hammock',500)])
+setshot([32,33,39,106,109,110],'paper',[person(220,'guide','sit'),prop('desk',290),prop('task',470,390,text='ইমেইল',ai=True),prop('task',585,390,text='রিপোর্ট',ai=True),prop('task',700,390,text='সিদ্ধান্ত'),prop('task',815,390,text='পরিকল্পনা')])
+setshot([34,35],'paper',[*[person(140+j*76,'doctor','stand',h=150,variant=j%4) for j in range(10)],prop('label',480,180,text='১০ জন · ৪০% কাগজপত্র',size=39)])
+setshot([36,37],'paper',[*[person(230+j*86,'doctor','stand',h=160,variant=j%4) for j in range(6)],prop('orb',790,270),prop('label',480,170,text='১০ জন → ৬ জন',size=46)])
+setshot([38],'paper',[prop('grid',160,440,count=100,cols=20,active=80),prop('number',740,210,text='৮০%',label='চাকরির ভেতরের কাজ')])
+setshot([40],'field',[person(210,'extra','point'),person(350,'extra','walk',variant=1),person(490,'extra','point',variant=3),person(630,'extra','walk',variant=2),prop('box',790,text='ধান')])
+setshot([41,42,43,44,45,46],'field',[prop('palm',100),prop('harvester',460),person(690,'extra','stand'),prop('label',540,160,text='লোক লাগে প্রায় ৭০% কম',size=38)])
+setshot([47,48,49,50,51],'night',[person(300,'extra','sit'),prop('desk',375,ai=True),prop('orb',620,300),prop('clock',780,220)])
+setshot([52,53,54,96,97],'night',[prop('chair',440),prop('desk',570),prop('label',530,220,text='খালি চেয়ার',size=40,color='#E9E4D2')])
+setshot([55,56,57,58,59,60,61],'paper',[prop('grid',200,440,count=50,cols=10,active=50,color='#8A8CA0'),prop('grid',590,440,count=15,cols=5,active=15),prop('label',470,170,text='১০৩ জন → ৬৫ জন',size=48)])
+setshot([62],'paper',[person(240,'doctor','point'),prop('orb',480,245),prop('grid',630,440,count=100,cols=10,active=100),prop('label',470,150,text='৪০ → ৪০০',size=48)])
+setshot([64,65,66,67,70],'paper',[prop('robot',290),prop('paper_stack',460,count=26),person(660,'extra','stand'),prop('label',530,160,text='রোবটের খরচ ও সীমাবদ্ধতা',size=35)])
+setshot([71,72,73,74],'office',[person(240,'guide','sit'),prop('desk',315,ai=True),*[prop('orb',520+j*100,320,scale=.55) for j in range(4)]])
+setshot([75,76,77],'office',[person(240,'extra','sit'),prop('desk',310),prop('paper_stack',470,count=20),prop('paper_stack',600,count=15),prop('chair',790)])
+setshot([78,79],'paper',[prop('building',800,label='পরীক্ষা কেন্দ্র'),*[person(140+j*70,'extra','stand',h=135,variant=j%4) for j in range(8)],prop('label',450,170,text='৩,৬৮৮টি পোস্ট',size=43)])
+setshot([80,81,82,83],'office',[person(240,'extra','sit'),prop('desk',310),prop('monitor',550,340),prop('grid',690,430,count=24,cols=6,active=24,color='#FF3D17')])
+setshot([84,85,86,87],'paper',[prop('hospital',740),person(260,'doctor','point'),prop('orb',500,260),prop('label',490,160,text='১৩ জন বনাম ৪৯ জন',size=40)])
+setshot([88,89,90],'paper',[prop('grid',160,440,count=60,cols=12,active=60),prop('building',720,label='অফিস'),prop('orb',720,205)])
+setshot([91,92,93,94,95,98],'paper',[prop('chart',450,410),person(750,'extra','point',dir=-1),prop('label',450,150,text='তথ্য কি পুরো ছবি দেখায়?',size=36)])
+setshot([99,100,101],'paper',[prop('atm',800),prop('desk',285,monitor=False),person(240,'guide','sit'),person(460,'extra','stand',variant=2),person(560,'extra','stand',variant=1),prop('label',500,160,text='মানুষের সাথে যোগাযোগ',size=36)])
+setshot([102,103,104],'street',[person(300,'guide','phone'),person(680,'extra','phone',variant=2),prop('phone',500,340,ai=True)])
+setshot([105],'paper',[person(),prop('calendar',530,385,text='আজ'),prop('shield',750,330,cracked=True)])
+setshot([107],'paper',[prop('label',380,300,text='যদি',size=85),prop('label',650,300,text='কবে',size=85,color='#FF3D17')])
+setshot([111],'paper',[person(270,'guide','sit'),prop('desk',345,ai=True),*[prop('calendar',540+j*120,330,text='✓',scale=.7) for j in range(3)]])
+setshot([112,113],'street',[person(280,'guide','phone'),person(700,'extra','point',dir=-1),prop('chat',510,270,text='আপনার কোন কাজ এআই পারে?')])
+setshot([114],'night',[prop('label',480,235,text='আপনার চাকরি কি আসলেই সেফ?',size=55,color='#E9E4D2',maxWidth=820),prop('label',480,330,text='নিজে এআই ব্যবহার করুন',size=35,color='#FF3D17')])
+ep['planningStatus']='authored'
+ep['title']='AI কি আপনার চাকরি খাবে? · Composed episode';ep['planning']='AI-authored per-line compositions using shared props and custom props. Timing uses supplied unverified editorial timestamps; visual reconstruction is approximate.'
+p.write_text(json.dumps(ep,ensure_ascii=False,indent=2)+'\n')
+print('Authored',len(ep['beats']),'line shots')

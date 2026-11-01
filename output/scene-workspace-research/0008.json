@@ -1,0 +1,268 @@
+{
+  "index": 7,
+  "sourceBeatHash": "4bf8148b5134263722214eb11451197a7168ae4f8fc7aee732cab7a9df627430",
+  "context": {
+    "previousLine": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।",
+    "nextLine": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\"",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-008",
+    "t0": 32.0,
+    "t1": 36.0,
+    "scene": "compose",
+    "cueIndex": 7,
+    "scriptLine": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।",
+    "visualIntent": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি। | Two towers share a baseline and an exact 120000:55000 height ratio, revealing more than double in less time.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "stat_tower",
+          "x": 400,
+          "y": 430,
+          "w": 115,
+          "h": 110,
+          "text": "২০২৫ · ১২ মাস",
+          "keyframes": [
+            {
+              "at": 0,
+              "h": 2
+            },
+            {
+              "at": 0.8,
+              "h": 110
+            }
+          ],
+          "id": "s7-0",
+          "instant": true
+        },
+        {
+          "type": "stat_tower",
+          "x": 650,
+          "y": 430,
+          "w": 115,
+          "h": 240,
+          "text": "চলতি বছর · ৯ মাস",
+          "accent": true,
+          "keyframes": [
+            {
+              "at": 0,
+              "h": 2
+            },
+            {
+              "at": 1.4,
+              "h": 240
+            }
+          ],
+          "id": "s7-1",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 400,
+          "y": 294,
+          "text": "৫৫ হাজার",
+          "size": 25,
+          "id": "s7-2",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 650,
+          "y": 160,
+          "text": "১.২ লাখ",
+          "size": 32,
+          "id": "s7-3",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 220,
+          "y": 185,
+          "text": "দুই গুণের বেশি",
+          "size": 34,
+          "maxWidth": 270,
+          "id": "s7-4",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 170,
+          "y": 455,
+          "h": 155,
+          "role": "guide",
+          "action": "explain",
+          "id": "s7-5",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0199.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "comparison stage retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "guide and two totals"
+      ],
+      "action": "same-scale towers expose the ratio",
+      "setting": "comparison stage",
+      "facts": [
+        "nine months exceeds twice the prior full year"
+      ],
+      "relationship": "nine months exceeds twice the prior full year",
+      "tone": "confronting",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on guide and two totals.",
+        "Abstract evidence diagram for nine months exceeds twice the prior full year."
+      ],
+      "mechanism": "shared-baseline towers",
+      "composition": "guide, short tower and tall tower read left to right",
+      "visibleChange": "both towers grow on one scale",
+      "actionPeak": "120000 tower settles above twice 55000 height",
+      "cameraPurpose": "wide comparison framing",
+      "transition": "cut to human belief on street",
+      "why": "Common baseline makes the relationship visible without invented data."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0199.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "২০২৫ · ১২ মাস",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "চলতি বছর · ৯ মাস",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "৫৫ হাজার",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "১.২ লাখ",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "দুই গুণের বেশি",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [
+      {
+        "value": "২০২৫ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "১২ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "৯ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "৫৫ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "১",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      },
+      {
+        "value": "২ ",
+        "basis": "derived",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      }
+    ],
+    "animationPlan": {
+      "primaryAction": "same-scale towers expose the ratio",
+      "motivation": "Common baseline makes the relationship visible without invented data.",
+      "anticipation": "guide and two totals orient head and weight toward the acting object before contact.",
+      "contact": "120000 tower settles above twice 55000 height; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "120000 tower settles above twice 55000 height",
+      "followThrough": "The action settles with a readable hold before cut to human belief on street.",
+      "secondaryMotion": "comparison stage uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "wide comparison framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes comparison stage with readable subject hierarchy.",
+      "middle": "Action peak checked: 120000 tower settles above twice 55000 height.",
+      "end": "Final hold leaves the narrated relationship legible before cut to human belief on street.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

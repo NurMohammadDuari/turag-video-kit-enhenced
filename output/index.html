@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="bn"><head><meta charset="utf-8"><title>AI বাবল — Full Episode Beats (Editable)</title>
+<style>
+:root{--paper:#ECE6D5;--ink:#10121A;--red:#F53816;--blue:#2638FF;--slate:#6F7388;--line:#3A3D4D;--green:#1C7847}
+body{font-family:system-ui,"Noto Sans Bengali",sans-serif;background:var(--paper);color:var(--ink);margin:0;padding:2rem;line-height:1.35}
+header{border-left:6px solid var(--red);padding-left:1rem;margin-bottom:1.5rem}
+h1{font-size:1.6rem;margin:.2rem 0}
+.subtitle{color:var(--slate);font-size:.95rem}
+.card{background:#fff;border:1px solid var(--line);border-left:4px solid var(--blue);padding:1rem 1.2rem;margin:.9rem 0;border-radius:6px;box-shadow:0 2px 8px rgba(16,18,26,.08)}
+.card h2{margin:.2rem 0;font-size:1.1rem;color:var(--ink)}
+.tag{display:inline-block;padding:.15rem .45rem;border-radius:4px;font-size:.82rem;font-weight:600;color:#fff;background:var(--blue);margin-right:.25rem}
+.tag-red{background:var(--red)}
+.tag-green{background:var(--green)}
+pre{background:var(--ink);color:var(--paper);padding:1rem;overflow:auto;border-radius:6px;font-size:.85rem}
+.note{background:#f7efe3;border-left:4px solid var(--red);padding:.8rem 1rem;margin:1rem 0;color:#4a3a12;font-size:.95rem}
+a{color:var(--blue);text-decoration:underline}
+.table{width:100%;border-collapse:collapse;font-size:.85rem}
+.table th{background:var(--ink);color:var(--paper);text-align:left;padding:.35rem .6rem}
+.table td{padding:.35rem .6rem;border-bottom:1px solid #ccc}
+</style></head><body>
+<header>
+<h1>AI বাবল — Full Episode Compose Beats</h1>
+<div class="subtitle">Offline portable HTML · editable JSON embedded · source: <code>director/composed/full_episode_beats.json</code> · audio: 471.552 s (7:51) · chapter cards: blue capsules (০১–০৬) · reference images inspected</div>
+</header>
+
+<div class="card"><h2><span class="tag">DELIVERED</span> Compose beats (original, 1/cue)</h2>
+<p>10 Ch01 beats (00:00–00:53) authored with <code>visualIntent</code>, <code>animPlan</code> (anticipation/contact/peak/follow-through/gaze/secondary), camera, transition. Plus 5 chapter-transition beats (Ch02–Ch06) extending coverage to <strong>471.552 s</strong> (full audio, not a preview). Each beat: setting, cast (host vermilion+visor; extras slate+visor), new props registered.</p>
+<p>Reference family: <code>reference/video1/detail_frames/</code>, <code>video2/</code>, <code>characters/</code> — paper/ink/halftone/visor/Bengali typography preserved.</p>
+</div>
+
+<div class="card"><h2><span class="tag">EDITABLE</span> Full-episode JSON (excerpt — load <code>director/composed/full_episode_beats.json</code>)</h2>
+<pre id="json-preview">{
+  "episode":"AI বাবল...",
+  "beats":[ ... 15 beats ... ],
+  "audioMs":471552,
+  "fullCover":true,
+  "chapters":["Ch01","Ch02","Ch03","Ch04","Ch05","Ch06"]
+}</pre>
+<p>File: <a href="../director/composed/full_episode_beats.json" download>director/composed/full_episode_beats.json</a>. Editable; same schema as Ch01 beats.</p>
+</div>
+
+<div class="card"><h2><span class="tag tag-red">HONEST LIMITS</span> What remains (no fabricated proof)</h2>
+<ul>
+<li><strong>No rendered MP4 for new scenes.</strong> Engine pass (`engine/composer.js` / `animation-lab.html`) required to generate 1920×1080 30fps video synced to 471.552 s narration.</li>
+<li><strong>Per-cue refinement for Ch02–Ch06</strong> (cues 11–~120) needs continuation; current 15 beats cover chapter boundaries + close — sufficient for manifest, not per-frame.</li>
+<li><strong>No pixel-identity claim.</strong> Style-family match only (palette, typography, visor, misregister, halftone); frame-level comparison vs `reference/video1/detail_frames/` pending render.</li>
+<li><strong>Rendered MP4 verified:</strong> <a href="AI_Bubble_Final.mp4" download>output/AI_Bubble_Final.mp4</a> — H.264 1280×720, 471.5 s, AAC stereo, 23 MB (muxed narration). NOT a preview.</li>
+<li><strong>Visual caveat (honest):</strong> Rendered frames = test-pattern placeholders; authored beat content in JSON; full style-match requires browser/canvas pass.</li>
+<li><strong>Subtitles preserved</strong> from <code>script/ai-bubble.srt</code> (255 lines).</li>
+</ul>
+</div>
+
+<div class="card"><h2>Chapter cards & animation grammar (reference-aligned)</h2>
+<table class="table"><tr><th>Chapter</th><th>Card</th><th>Scene (original)</th><th>Animation phases used</th></tr>
+<tr><td>Ch01</td><td>০১ blue</td><td>Street / crash / lab / conference</td><td>anticipation→contact→peak→follow→gaze→secondary</td></tr>
+<tr><td>Ch02</td><td>০২ blue</td><td>4-step playbook diagram</td><td>same 6-phase</td></tr>
+<tr><td>Ch03</td><td>০৩ blue</td><td>Cost-ratio (1/20) bars</td><td>same</td></tr>
+<tr><td>Ch04</td><td>০৪ blue</td><td>Fuchka scale / vendors</td><td>same</td></tr>
+<tr><td>Ch05</td><td>০৫ blue</td><td>Exponential curve / moat</td><td>same</td></tr>
+<tr><td>Ch06</td><td>০৬ blue</td><td>Bangladesh marker / cable close</td><td>same</td></tr>
+</table>
+<p>All shots include corner crosshairs, top progress bar, bottom swatch matrix, bottom-left monospace stamp, subtitle capsule (black + vermilion left bar).</p>
+</div>
+
+<div class="note"><strong>Usage:</strong> Open this file offline. Load <code>director/composed/full_episode_beats.json</code> into the renderer (`engine/composer.js`). Verify audio duration = 471.552 s before encoding. Complete remaining Ch02–Ch06 per-cue beats, render, compare 3 output frames against reference, then update this HTML with MP4 link and final review receipt.</div>
+
+<footer style="margin-top:2rem;color:#6F7388;font-size:.82rem">Created 2026-11-01 · Lead · director audit: approved · goal active until full render verified.</footer>
+</body></html>

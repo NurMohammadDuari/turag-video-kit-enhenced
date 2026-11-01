@@ -1,0 +1,165 @@
+{
+  "index": 9,
+  "sourceBeatHash": "e32c3175996ca35533d7795de89a9074920374f87b2cca03f4f3706b2468cc15",
+  "context": {
+    "previousLine": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\"",
+    "nextLine": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-010",
+    "t0": 39.0,
+    "t1": 41.0,
+    "scene": "compose",
+    "cueIndex": 9,
+    "scriptLine": "আসলেই? চলেন, একটু দেখি।",
+    "visualIntent": "আসলেই? চলেন, একটু দেখি। | Cut to a close evidence inspection: a magnifier travels over the claim, opening the question rather than replaying the street.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "claim_evidence",
+          "x": 480,
+          "y": 390,
+          "id": "s9-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 245,
+          "y": 455,
+          "h": 185,
+          "role": "guide",
+          "action": "explain",
+          "id": "s9-1",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 480,
+          "y": 160,
+          "text": "আসলেই?",
+          "size": 65,
+          "color": "#FF3D17",
+          "id": "s9-2",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0300.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "evidence close-up retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "guide and claim"
+      ],
+      "action": "magnifier tests the confidence claim",
+      "setting": "evidence close-up",
+      "facts": [
+        "question rather than assertion"
+      ],
+      "relationship": "question rather than assertion",
+      "tone": "skeptical",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on guide and claim.",
+        "Abstract evidence diagram for question rather than assertion."
+      ],
+      "mechanism": "magnified claim inspection",
+      "composition": "guide faces a large claim card and moving lens",
+      "visibleChange": "lens crosses the claim text",
+      "actionPeak": "red lens rests over the confidence phrase",
+      "cameraPurpose": "close evidence framing",
+      "transition": "blue chapter reset",
+      "why": "Inspection turns the rhetorical question into a visual action."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0300.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "আসলেই?",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "magnifier tests the confidence claim",
+      "motivation": "Inspection turns the rhetorical question into a visual action.",
+      "anticipation": "guide and claim orient head and weight toward the acting object before contact.",
+      "contact": "red lens rests over the confidence phrase; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "red lens rests over the confidence phrase",
+      "followThrough": "The action settles with a readable hold before blue chapter reset.",
+      "secondaryMotion": "evidence close-up uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "close evidence framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes evidence close-up with readable subject hierarchy.",
+      "middle": "Action peak checked: red lens rests over the confidence phrase.",
+      "end": "Final hold leaves the narrated relationship legible before blue chapter reset.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

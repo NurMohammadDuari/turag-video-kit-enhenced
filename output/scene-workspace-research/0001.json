@@ -1,0 +1,370 @@
+{
+  "index": 0,
+  "sourceBeatHash": "966a214573ef83426b3dbc1d530a13f4cc7f3dc06ed23cdb69c7c97f0ab808a2",
+  "context": {
+    "previousLine": null,
+    "nextLine": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-001",
+    "t0": 0,
+    "t1": 4.0,
+    "scene": "compose",
+    "cueIndex": 0,
+    "scriptLine": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ?",
+    "visualIntent": "Open inside a dense working night office; the headline asks whether the viewer’s job is safe while the workplace remains active behind it.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "night",
+      "floor": false,
+      "objects": [
+        {
+          "type": "office_windowwall",
+          "x": 480,
+          "y": 455,
+          "z": -20,
+          "id": "opening-0-0",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": -15,
+          "y": 355,
+          "s": 0.93,
+          "variant": 0,
+          "z": -5,
+          "id": "opening-0-1",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 126,
+          "y": 355,
+          "s": 0.93,
+          "variant": 1,
+          "z": -5,
+          "id": "opening-0-2",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 267,
+          "y": 355,
+          "s": 0.93,
+          "variant": 2,
+          "z": -5,
+          "id": "opening-0-3",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 408,
+          "y": 355,
+          "s": 0.93,
+          "variant": 3,
+          "z": -5,
+          "id": "opening-0-4",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 549,
+          "y": 355,
+          "s": 0.93,
+          "variant": 4,
+          "z": -5,
+          "id": "opening-0-5",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 690,
+          "y": 355,
+          "s": 0.93,
+          "variant": 5,
+          "z": -5,
+          "id": "opening-0-6",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 831,
+          "y": 355,
+          "s": 0.93,
+          "variant": 6,
+          "z": -5,
+          "id": "opening-0-7",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 972,
+          "y": 355,
+          "s": 0.93,
+          "variant": 7,
+          "z": -5,
+          "id": "opening-0-8",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 30,
+          "y": 461,
+          "s": 1.1,
+          "variant": 1,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-9",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 196,
+          "y": 461,
+          "s": 1.1,
+          "variant": 2,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-10",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 362,
+          "y": 461,
+          "s": 1.1,
+          "variant": 3,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-11",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 528,
+          "y": 461,
+          "s": 1.1,
+          "variant": 4,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-12",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 694,
+          "y": 461,
+          "s": 1.1,
+          "variant": 5,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-13",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 860,
+          "y": 461,
+          "s": 1.1,
+          "variant": 6,
+          "z": -2,
+          "color": "#9B9DAE",
+          "id": "opening-0-14",
+          "enter": 0,
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 57,
+          "y": 143,
+          "text": "আপনার চাকরি কি",
+          "align": "left",
+          "size": 65,
+          "maxWidth": 760,
+          "color": "#E9E4D2",
+          "revealFrom": 35,
+          "id": "opening-0-15",
+          "enter": 0
+        },
+        {
+          "type": "label",
+          "x": 57,
+          "y": 218,
+          "text": "আসলেই",
+          "align": "left",
+          "size": 65,
+          "maxWidth": 320,
+          "color": "#E9E4D2",
+          "enter": 0.12,
+          "revealFrom": 35,
+          "id": "opening-0-16"
+        },
+        {
+          "type": "label",
+          "x": 305,
+          "y": 218,
+          "text": "সেফ?",
+          "align": "left",
+          "size": 65,
+          "maxWidth": 240,
+          "color": "#FF3D17",
+          "enter": 0.25,
+          "revealFrom": 35,
+          "id": "opening-0-17"
+        }
+      ],
+      "links": [],
+      "camera": {
+        "x": 480,
+        "y": 270,
+        "zoom": 1,
+        "keyframes": [
+          {
+            "at": 0,
+            "zoom": 1.02
+          },
+          {
+            "at": 4,
+            "zoom": 1
+          }
+        ]
+      }
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "night office retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "viewer"
+      ],
+      "action": "questions job safety",
+      "setting": "night office",
+      "facts": [
+        "title question"
+      ],
+      "relationship": "title question",
+      "tone": "uneasy",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on viewer.",
+        "Abstract evidence diagram for title question."
+      ],
+      "mechanism": "editorial title inside a working office",
+      "composition": "headline occupies negative space above two active desk rows",
+      "visibleChange": "title resolves from cream to red question word",
+      "actionPeak": "all monitors and workers establish a functioning workplace",
+      "cameraPurpose": "slow settle from title to evidence",
+      "transition": "hard cut to dated offer",
+      "why": "The threatened subject is visible before the argument begins."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_001_night_office_title.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "আপনার চাকরি কি",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "আসলেই",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "সেফ?",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "questions job safety",
+      "motivation": "The threatened subject is visible before the argument begins.",
+      "anticipation": "viewer orient head and weight toward the acting object before contact.",
+      "contact": "all monitors and workers establish a functioning workplace; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "all monitors and workers establish a functioning workplace",
+      "followThrough": "The action settles with a readable hold before hard cut to dated offer.",
+      "secondaryMotion": "night office uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "slow settle from title to evidence supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes night office with readable subject hierarchy.",
+      "middle": "Action peak checked: all monitors and workers establish a functioning workplace.",
+      "end": "Final hold leaves the narrated relationship legible before hard cut to dated offer.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

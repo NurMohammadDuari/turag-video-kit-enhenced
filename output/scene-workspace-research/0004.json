@@ -1,0 +1,171 @@
+{
+  "index": 3,
+  "sourceBeatHash": "1542a61bf50f025263122e5481972184dc096df3e3a615ba110a8dab38c4e67b",
+  "context": {
+    "previousLine": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।",
+    "nextLine": "আর এইটা একা মাইক্রোসফটের গল্প না।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-004",
+    "t0": 13.0,
+    "t1": 17.0,
+    "scene": "compose",
+    "cueIndex": 3,
+    "scriptLine": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।",
+    "visualIntent": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ। | A literal 100-person diagram highlights 25 positions; guide points to the quarter, without recycling the office.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "workforce_card",
+          "x": 550,
+          "y": 430,
+          "scale": 1.08,
+          "id": "s3-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 240,
+          "y": 455,
+          "h": 190,
+          "role": "guide",
+          "action": "explain",
+          "id": "s3-1",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 280,
+          "y": 185,
+          "text": "প্রায় ৬০ হাজার",
+          "size": 35,
+          "id": "s3-2",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "headcount diagram retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "guide and workforce"
+      ],
+      "action": "guide reveals one quarter of the company",
+      "setting": "headcount diagram",
+      "facts": [
+        "60 thousand is about one quarter"
+      ],
+      "relationship": "60 thousand is about one quarter",
+      "tone": "explanatory",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on guide and workforce.",
+        "Abstract evidence diagram for 60 thousand is about one quarter."
+      ],
+      "mechanism": "literal proportion grid",
+      "composition": "guide stands beside a hundred-person card",
+      "visibleChange": "twenty-five figures separate in vermilion",
+      "actionPeak": "guide points at the highlighted quarter",
+      "cameraPurpose": "balanced guide and data framing",
+      "transition": "expand outward to multiple companies",
+      "why": "Literal geometry protects the numerical relationship."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_003_office_headcount_card.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "প্রায় ৬০ হাজার",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [
+      {
+        "value": "৬০ ",
+        "basis": "script",
+        "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+      }
+    ],
+    "animationPlan": {
+      "primaryAction": "guide reveals one quarter of the company",
+      "motivation": "Literal geometry protects the numerical relationship.",
+      "anticipation": "guide and workforce orient head and weight toward the acting object before contact.",
+      "contact": "guide points at the highlighted quarter; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "guide points at the highlighted quarter",
+      "followThrough": "The action settles with a readable hold before expand outward to multiple companies.",
+      "secondaryMotion": "headcount diagram uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "balanced guide and data framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes headcount diagram with readable subject hierarchy.",
+      "middle": "Action peak checked: guide points at the highlighted quarter.",
+      "end": "Final hold leaves the narrated relationship legible before expand outward to multiple companies.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

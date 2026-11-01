@@ -1,0 +1,188 @@
+{
+  "index": 11,
+  "sourceBeatHash": "ad7489936edb3b1ff97e1a178e28feae51c2bd2891b2cbc1249a9a8033a347e0",
+  "context": {
+    "previousLine": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।",
+    "nextLine": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-012",
+    "t0": 46.0,
+    "t1": 49.0,
+    "scene": "compose",
+    "cueIndex": 11,
+    "scriptLine": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।",
+    "visualIntent": "ডাক্তার বলে, রোগী দেখা এআই পারবে না। | In a dedicated ward, doctor raises a report beside a lying patient, articulating both arms.",
+    "chapter": 2,
+    "chapterTitle": "সবার একটা অজুহাত",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "window",
+          "x": 750,
+          "y": 310,
+          "w": 190,
+          "h": 135,
+          "id": "s11-0",
+          "instant": true
+        },
+        {
+          "type": "patient_bed",
+          "x": 565,
+          "y": 455,
+          "id": "s11-1",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 370,
+          "y": 455,
+          "h": 200,
+          "role": "doctor",
+          "action": "examine",
+          "id": "s11-2",
+          "instant": true
+        },
+        {
+          "type": "medical_stand",
+          "x": 730,
+          "y": 455,
+          "id": "s11-3",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 480,
+          "y": 155,
+          "text": "রোগী দেখা এআই পারবে না?",
+          "size": 35,
+          "id": "s11-4",
+          "instant": true
+        },
+        {
+          "type": "plant",
+          "x": 840,
+          "y": 455,
+          "scale": 0.75,
+          "id": "s11-5",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0159.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "hospital ward retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "doctor and patient"
+      ],
+      "action": "doctor checks the patient report",
+      "setting": "hospital ward",
+      "facts": [
+        "doctor claims patient care is protected"
+      ],
+      "relationship": "doctor claims patient care is protected",
+      "tone": "professional confidence",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on doctor and patient.",
+        "Abstract evidence diagram for doctor claims patient care is protected."
+      ],
+      "mechanism": "specific hospital task",
+      "composition": "doctor, patient bed and IV form a grounded ward",
+      "visibleChange": "doctor lifts and reads the report",
+      "actionPeak": "report reaches the doctor gaze beside patient",
+      "cameraPurpose": "medium ward framing",
+      "transition": "cut to classroom",
+      "why": "The claim is embodied by real patient work rather than a generic doctor icon."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0159.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "রোগী দেখা এআই পারবে না?",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "doctor checks the patient report",
+      "motivation": "The claim is embodied by real patient work rather than a generic doctor icon.",
+      "anticipation": "doctor and patient orient head and weight toward the acting object before contact.",
+      "contact": "report reaches the doctor gaze beside patient; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "report reaches the doctor gaze beside patient",
+      "followThrough": "The action settles with a readable hold before cut to classroom.",
+      "secondaryMotion": "hospital ward uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "medium ward framing supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes hospital ward with readable subject hierarchy.",
+      "middle": "Action peak checked: report reaches the doctor gaze beside patient.",
+      "end": "Final hold leaves the narrated relationship legible before cut to classroom.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

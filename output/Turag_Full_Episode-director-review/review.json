@@ -1,0 +1,2215 @@
+{
+  "html": "/home/mint/Desktop/turag-video-kit/engine/Turag_Full_Episode.html",
+  "beats": [
+    {
+      "id": "line-001",
+      "times": [
+        0.08,
+        2,
+        3.92
+      ],
+      "files": [
+        "001-start.jpg",
+        "001-peak.jpg",
+        "001-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "001-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-002",
+      "times": [
+        4.08,
+        7,
+        9.92
+      ],
+      "files": [
+        "002-start.jpg",
+        "002-peak.jpg",
+        "002-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "002-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-003",
+      "times": [
+        10.08,
+        11.5,
+        12.92
+      ],
+      "files": [
+        "003-start.jpg",
+        "003-peak.jpg",
+        "003-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "003-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-004",
+      "times": [
+        13.08,
+        15,
+        16.92
+      ],
+      "files": [
+        "004-start.jpg",
+        "004-peak.jpg",
+        "004-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "004-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-005",
+      "times": [
+        17.08,
+        18.5,
+        19.92
+      ],
+      "files": [
+        "005-start.jpg",
+        "005-peak.jpg",
+        "005-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "005-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0154.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-006",
+      "times": [
+        20.08,
+        24,
+        27.92
+      ],
+      "files": [
+        "006-start.jpg",
+        "006-peak.jpg",
+        "006-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "006-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-007",
+      "times": [
+        28.08,
+        30,
+        31.92
+      ],
+      "files": [
+        "007-start.jpg",
+        "007-peak.jpg",
+        "007-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "007-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0199.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-008",
+      "times": [
+        32.08,
+        34,
+        35.92
+      ],
+      "files": [
+        "008-start.jpg",
+        "008-peak.jpg",
+        "008-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "008-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0199.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-009",
+      "times": [
+        36.08,
+        37.5,
+        38.92
+      ],
+      "files": [
+        "009-start.jpg",
+        "009-peak.jpg",
+        "009-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "009-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0009.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-010",
+      "times": [
+        39.08,
+        40,
+        40.92
+      ],
+      "files": [
+        "010-start.jpg",
+        "010-peak.jpg",
+        "010-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "010-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0300.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-011",
+      "times": [
+        41.08,
+        43.5,
+        45.92
+      ],
+      "files": [
+        "011-start.jpg",
+        "011-peak.jpg",
+        "011-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "011-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0067.jpg"
+        },
+        {
+          "file": "011-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-012",
+      "times": [
+        46.08,
+        47.5,
+        48.92
+      ],
+      "files": [
+        "012-start.jpg",
+        "012-peak.jpg",
+        "012-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "012-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0159.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-013",
+      "times": [
+        49.08,
+        50.5,
+        51.92
+      ],
+      "files": [
+        "013-start.jpg",
+        "013-peak.jpg",
+        "013-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "013-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-014",
+      "times": [
+        52.08,
+        53.5,
+        54.92
+      ],
+      "files": [
+        "014-start.jpg",
+        "014-peak.jpg",
+        "014-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "014-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-015",
+      "times": [
+        55.08,
+        58,
+        60.92
+      ],
+      "files": [
+        "015-start.jpg",
+        "015-peak.jpg",
+        "015-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "015-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-016",
+      "times": [
+        61.08,
+        63,
+        64.92
+      ],
+      "files": [
+        "016-start.jpg",
+        "016-peak.jpg",
+        "016-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "016-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-017",
+      "times": [
+        65.08,
+        67.5,
+        69.92
+      ],
+      "files": [
+        "017-start.jpg",
+        "017-peak.jpg",
+        "017-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "017-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-018",
+      "times": [
+        70.08,
+        72,
+        73.92
+      ],
+      "files": [
+        "018-start.jpg",
+        "018-peak.jpg",
+        "018-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "018-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_010_survey_slider_crowd.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-019",
+      "times": [
+        74.08,
+        77.5,
+        80.92
+      ],
+      "files": [
+        "019-start.jpg",
+        "019-peak.jpg",
+        "019-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "019-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_010_survey_slider_crowd.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-020",
+      "times": [
+        81.08,
+        82.5,
+        83.92
+      ],
+      "files": [
+        "020-start.jpg",
+        "020-peak.jpg",
+        "020-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "020-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_011_survey_percentage_compare.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-021",
+      "times": [
+        84.08,
+        85.5,
+        86.92
+      ],
+      "files": [
+        "021-start.jpg",
+        "021-peak.jpg",
+        "021-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "021-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_011_survey_percentage_compare.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-022",
+      "times": [
+        87.08,
+        88,
+        88.92
+      ],
+      "files": [
+        "022-start.jpg",
+        "022-peak.jpg",
+        "022-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "022-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_012_phone_chat.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-023",
+      "times": [
+        89.08,
+        92.5,
+        95.92
+      ],
+      "files": [
+        "023-start.jpg",
+        "023-peak.jpg",
+        "023-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "023-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_012_phone_chat.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-024",
+      "times": [
+        96.08,
+        100,
+        103.92
+      ],
+      "files": [
+        "024-start.jpg",
+        "024-peak.jpg",
+        "024-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "024-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_013_garage_engine_analogy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-025",
+      "times": [
+        104.08,
+        105.5,
+        106.92
+      ],
+      "files": [
+        "025-start.jpg",
+        "025-peak.jpg",
+        "025-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "025-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_013_garage_engine_analogy.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-026",
+      "times": [
+        107.08,
+        108.5,
+        109.92
+      ],
+      "files": [
+        "026-start.jpg",
+        "026-peak.jpg",
+        "026-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "026-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_014_ai_factory_assembly.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-027",
+      "times": [
+        110.08,
+        114.5,
+        118.92
+      ],
+      "files": [
+        "027-start.jpg",
+        "027-peak.jpg",
+        "027-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "027-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_015_agent_workflow.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-028",
+      "times": [
+        119.08,
+        122.5,
+        125.92
+      ],
+      "files": [
+        "028-start.jpg",
+        "028-peak.jpg",
+        "028-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "028-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_016_four_shopfronts.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-029",
+      "times": [
+        126.08,
+        128,
+        129.92
+      ],
+      "files": [
+        "029-start.jpg",
+        "029-peak.jpg",
+        "029-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "029-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_017_curtain_reveal.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-030",
+      "times": [
+        130.08,
+        132,
+        133.92
+      ],
+      "files": [
+        "030-start.jpg",
+        "030-peak.jpg",
+        "030-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "030-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_018_behind_the_scenes_scaffolding.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-031",
+      "times": [
+        134.08,
+        135.5,
+        136.92
+      ],
+      "files": [
+        "031-start.jpg",
+        "031-peak.jpg",
+        "031-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "031-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_019_world_map_transition.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-032",
+      "times": [
+        137.08,
+        140.5,
+        143.92
+      ],
+      "files": [
+        "032-start.jpg",
+        "032-peak.jpg",
+        "032-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "032-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_020_relaxed_desk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-033",
+      "times": [
+        144.08,
+        148.615,
+        150.92
+      ],
+      "files": [
+        "033-start.jpg",
+        "033-peak.jpg",
+        "033-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "033-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_022_job_is_bundle.jpg"
+        },
+        {
+          "file": "033-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_021_chapter_three_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-034",
+      "times": [
+        151.08,
+        154,
+        156.92
+      ],
+      "files": [
+        "034-start.jpg",
+        "034-peak.jpg",
+        "034-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "034-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_023_task_tiles.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-035",
+      "times": [
+        157.08,
+        158.5,
+        159.92
+      ],
+      "files": [
+        "035-start.jpg",
+        "035-peak.jpg",
+        "035-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "035-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_024_ten_doctors_timebars.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-036",
+      "times": [
+        160.08,
+        163.5,
+        166.92
+      ],
+      "files": [
+        "036-start.jpg",
+        "036-peak.jpg",
+        "036-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "036-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_024_ten_doctors_timebars.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-037",
+      "times": [
+        167.08,
+        170.5,
+        173.92
+      ],
+      "files": [
+        "037-start.jpg",
+        "037-peak.jpg",
+        "037-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "037-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_025_doctor_headcount_reduction.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-038",
+      "times": [
+        174.08,
+        177.5,
+        180.92
+      ],
+      "files": [
+        "038-start.jpg",
+        "038-peak.jpg",
+        "038-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "038-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_026_hospital_remaining_work.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-039",
+      "times": [
+        181.08,
+        187,
+        192.92
+      ],
+      "files": [
+        "039-start.jpg",
+        "039-peak.jpg",
+        "039-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "039-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_027_desk_grid_eighty_percent.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-040",
+      "times": [
+        193.08,
+        195,
+        196.92
+      ],
+      "files": [
+        "040-start.jpg",
+        "040-peak.jpg",
+        "040-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "040-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_028_grid_zoom_task_detail.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-041",
+      "times": [
+        197.08,
+        200.5,
+        203.92
+      ],
+      "files": [
+        "041-start.jpg",
+        "041-peak.jpg",
+        "041-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "041-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_029_rice_manual_labor.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-042",
+      "times": [
+        204.08,
+        206.5,
+        208.92
+      ],
+      "files": [
+        "042-start.jpg",
+        "042-peak.jpg",
+        "042-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "042-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_030_combine_harvester.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-043",
+      "times": [
+        209.08,
+        213,
+        216.92
+      ],
+      "files": [
+        "043-start.jpg",
+        "043-peak.jpg",
+        "043-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "043-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_031_agriculture_labor_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-044",
+      "times": [
+        217.08,
+        218.5,
+        219.92
+      ],
+      "files": [
+        "044-start.jpg",
+        "044-peak.jpg",
+        "044-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "044-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_032_agriculture_ten_to_three.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-045",
+      "times": [
+        220.08,
+        221.5,
+        222.92
+      ],
+      "files": [
+        "045-start.jpg",
+        "045-peak.jpg",
+        "045-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "045-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_032_agriculture_ten_to_three.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-046",
+      "times": [
+        223.08,
+        226,
+        228.92
+      ],
+      "files": [
+        "046-start.jpg",
+        "046-peak.jpg",
+        "046-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "046-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_032_agriculture_ten_to_three.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-047",
+      "times": [
+        229.08,
+        231,
+        232.92
+      ],
+      "files": [
+        "047-start.jpg",
+        "047-peak.jpg",
+        "047-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "047-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_033_office_row_transition.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-048",
+      "times": [
+        233.08,
+        235.965,
+        236.92
+      ],
+      "files": [
+        "048-start.jpg",
+        "048-peak.jpg",
+        "048-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "048-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_034_night_creator_desk.jpg"
+        },
+        {
+          "file": "048-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_034_night_creator_desk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-049",
+      "times": [
+        237.08,
+        238.5,
+        239.92
+      ],
+      "files": [
+        "049-start.jpg",
+        "049-peak.jpg",
+        "049-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "049-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_034_night_creator_desk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-050",
+      "times": [
+        240.08,
+        242,
+        243.92
+      ],
+      "files": [
+        "050-start.jpg",
+        "050-peak.jpg",
+        "050-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "050-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_035_code_window.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-051",
+      "times": [
+        244.08,
+        247,
+        249.92
+      ],
+      "files": [
+        "051-start.jpg",
+        "051-peak.jpg",
+        "051-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "051-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_036_editing_time_comparison.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-052",
+      "times": [
+        250.08,
+        253.5,
+        256.92
+      ],
+      "files": [
+        "052-start.jpg",
+        "052-peak.jpg",
+        "052-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "052-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_036_editing_time_comparison.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-053",
+      "times": [
+        257.08,
+        259.5,
+        261.92
+      ],
+      "files": [
+        "053-start.jpg",
+        "053-peak.jpg",
+        "053-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "053-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_037_empty_editor_chair.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-054",
+      "times": [
+        262.08,
+        265,
+        267.92
+      ],
+      "files": [
+        "054-start.jpg",
+        "054-peak.jpg",
+        "054-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "054-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_037_empty_editor_chair.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-055",
+      "times": [
+        268.08,
+        270,
+        271.92
+      ],
+      "files": [
+        "055-start.jpg",
+        "055-peak.jpg",
+        "055-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "055-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_037_empty_editor_chair.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-056",
+      "times": [
+        272.08,
+        276,
+        279.92
+      ],
+      "files": [
+        "056-start.jpg",
+        "056-peak.jpg",
+        "056-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "056-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_038_jobs_at_tea_stall.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-057",
+      "times": [
+        280.08,
+        281,
+        281.92
+      ],
+      "files": [
+        "057-start.jpg",
+        "057-peak.jpg",
+        "057-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "057-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_039_headcount_ledger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-058",
+      "times": [
+        282.08,
+        284.5,
+        286.92
+      ],
+      "files": [
+        "058-start.jpg",
+        "058-peak.jpg",
+        "058-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "058-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_039_headcount_ledger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-059",
+      "times": [
+        287.08,
+        290,
+        292.92
+      ],
+      "files": [
+        "059-start.jpg",
+        "059-peak.jpg",
+        "059-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "059-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_039_headcount_ledger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-060",
+      "times": [
+        293.08,
+        295.5,
+        297.92
+      ],
+      "files": [
+        "060-start.jpg",
+        "060-peak.jpg",
+        "060-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "060-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_040_newspaper_fivefold.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-061",
+      "times": [
+        298.08,
+        301,
+        303.92
+      ],
+      "files": [
+        "061-start.jpg",
+        "061-peak.jpg",
+        "061-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "061-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_041_total_headcount_compare.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-062",
+      "times": [
+        304.08,
+        306,
+        307.92
+      ],
+      "files": [
+        "062-start.jpg",
+        "062-peak.jpg",
+        "062-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "062-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_041_total_headcount_compare.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-063",
+      "times": [
+        308.08,
+        310.2305,
+        310.92
+      ],
+      "files": [
+        "063-start.jpg",
+        "063-peak.jpg",
+        "063-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "063-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_043_teacher_scale.jpg"
+        },
+        {
+          "file": "063-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_042_chapter_five_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-064",
+      "times": [
+        311.08,
+        315.5,
+        319.92
+      ],
+      "files": [
+        "064-start.jpg",
+        "064-peak.jpg",
+        "064-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "064-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_043_teacher_scale.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-065",
+      "times": [
+        320.08,
+        322,
+        323.92
+      ],
+      "files": [
+        "065-start.jpg",
+        "065-peak.jpg",
+        "065-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "065-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_044_garment_factory.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-066",
+      "times": [
+        324.08,
+        328,
+        331.92
+      ],
+      "files": [
+        "066-start.jpg",
+        "066-peak.jpg",
+        "066-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "066-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_044_garment_factory.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-067",
+      "times": [
+        332.08,
+        333.5,
+        334.92
+      ],
+      "files": [
+        "067-start.jpg",
+        "067-peak.jpg",
+        "067-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "067-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_045_robot_cost_comparison.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-068",
+      "times": [
+        335.08,
+        339.5,
+        343.92
+      ],
+      "files": [
+        "068-start.jpg",
+        "068-peak.jpg",
+        "068-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "068-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_046_robot_economics_grid.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-069",
+      "times": [
+        344.08,
+        348.5,
+        352.92
+      ],
+      "files": [
+        "069-start.jpg",
+        "069-peak.jpg",
+        "069-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "069-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_047_robot_soft_cloth.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-070",
+      "times": [
+        353.08,
+        355.5,
+        357.92
+      ],
+      "files": [
+        "070-start.jpg",
+        "070-peak.jpg",
+        "070-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "070-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_048_garment_temporary_safety.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-071",
+      "times": [
+        358.08,
+        362.5,
+        366.92
+      ],
+      "files": [
+        "071-start.jpg",
+        "071-peak.jpg",
+        "071-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "071-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_049_robot_imitation_learning.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-072",
+      "times": [
+        367.08,
+        370,
+        372.92
+      ],
+      "files": [
+        "072-start.jpg",
+        "072-peak.jpg",
+        "072-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "072-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_050_digital_work_panels.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-073",
+      "times": [
+        373.08,
+        375,
+        376.92
+      ],
+      "files": [
+        "073-start.jpg",
+        "073-peak.jpg",
+        "073-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "073-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_050_digital_work_panels.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-074",
+      "times": [
+        377.08,
+        379.5,
+        381.92
+      ],
+      "files": [
+        "074-start.jpg",
+        "074-peak.jpg",
+        "074-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "074-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_051_copyable_ai.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-075",
+      "times": [
+        382.08,
+        387,
+        391.92
+      ],
+      "files": [
+        "075-start.jpg",
+        "075-peak.jpg",
+        "075-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "075-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_052_small_cheap_ai.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-076",
+      "times": [
+        392.08,
+        395,
+        397.92
+      ],
+      "files": [
+        "076-start.jpg",
+        "076-peak.jpg",
+        "076-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "076-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_053_government_paperwork.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-077",
+      "times": [
+        398.08,
+        402,
+        405.92
+      ],
+      "files": [
+        "077-start.jpg",
+        "077-peak.jpg",
+        "077-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "077-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_053_government_paperwork.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-078",
+      "times": [
+        406.08,
+        409.5,
+        412.92
+      ],
+      "files": [
+        "078-start.jpg",
+        "078-peak.jpg",
+        "078-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "078-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_054_recruitment_reduction.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-079",
+      "times": [
+        413.08,
+        419,
+        424.92
+      ],
+      "files": [
+        "079-start.jpg",
+        "079-peak.jpg",
+        "079-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "079-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_055_government_exam_queue.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-080",
+      "times": [
+        425.08,
+        428.5,
+        431.92
+      ],
+      "files": [
+        "080-start.jpg",
+        "080-peak.jpg",
+        "080-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "080-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_056_chairs_and_queue.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-081",
+      "times": [
+        432.08,
+        434.965,
+        435.92
+      ],
+      "files": [
+        "081-start.jpg",
+        "081-peak.jpg",
+        "081-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "081-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_058_counterargument_intro.jpg"
+        },
+        {
+          "file": "081-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_057_chapter_six_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-082",
+      "times": [
+        436.08,
+        437.5,
+        438.92
+      ],
+      "files": [
+        "082-start.jpg",
+        "082-peak.jpg",
+        "082-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "082-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_058_counterargument_intro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-083",
+      "times": [
+        439.08,
+        443,
+        446.92
+      ],
+      "files": [
+        "083-start.jpg",
+        "083-peak.jpg",
+        "083-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "083-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_059_accounting_history.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-084",
+      "times": [
+        447.08,
+        449.5,
+        451.92
+      ],
+      "files": [
+        "084-start.jpg",
+        "084-peak.jpg",
+        "084-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "084-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_059_accounting_history.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-085",
+      "times": [
+        452.08,
+        456,
+        459.92
+      ],
+      "files": [
+        "085-start.jpg",
+        "085-peak.jpg",
+        "085-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "085-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_060_healthcare_queue.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-086",
+      "times": [
+        460.08,
+        462,
+        463.92
+      ],
+      "files": [
+        "086-start.jpg",
+        "086-peak.jpg",
+        "086-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "086-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_061_healthcare_density.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-087",
+      "times": [
+        464.08,
+        467.5,
+        470.92
+      ],
+      "files": [
+        "087-start.jpg",
+        "087-peak.jpg",
+        "087-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "087-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_062_village_health_network.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-088",
+      "times": [
+        471.08,
+        473.5,
+        475.92
+      ],
+      "files": [
+        "088-start.jpg",
+        "088-peak.jpg",
+        "088-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "088-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_063_unlimited_demand_funnel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-089",
+      "times": [
+        476.08,
+        478.5,
+        480.92
+      ],
+      "files": [
+        "089-start.jpg",
+        "089-peak.jpg",
+        "089-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "089-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_063_unlimited_demand_funnel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-090",
+      "times": [
+        481.08,
+        484,
+        486.92
+      ],
+      "files": [
+        "090-start.jpg",
+        "090-peak.jpg",
+        "090-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "090-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_064_saturated_office_demand.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-091",
+      "times": [
+        487.08,
+        489.5,
+        491.92
+      ],
+      "files": [
+        "091-start.jpg",
+        "091-peak.jpg",
+        "091-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "091-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_064_saturated_office_demand.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-092",
+      "times": [
+        492.08,
+        494.5,
+        496.92
+      ],
+      "files": [
+        "092-start.jpg",
+        "092-peak.jpg",
+        "092-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "092-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_065_jobs_data_chart.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-093",
+      "times": [
+        497.08,
+        500,
+        502.92
+      ],
+      "files": [
+        "093-start.jpg",
+        "093-peak.jpg",
+        "093-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "093-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_065_jobs_data_chart.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-094",
+      "times": [
+        503.08,
+        505.5,
+        507.92
+      ],
+      "files": [
+        "094-start.jpg",
+        "094-peak.jpg",
+        "094-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "094-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_066_ai_washing_podium.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-095",
+      "times": [
+        508.08,
+        510.5,
+        512.92
+      ],
+      "files": [
+        "095-start.jpg",
+        "095-peak.jpg",
+        "095-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "095-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_067_rank_five_chart.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-096",
+      "times": [
+        513.08,
+        514.5,
+        515.92
+      ],
+      "files": [
+        "096-start.jpg",
+        "096-peak.jpg",
+        "096-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "096-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_068_hidden_hiring_below_surface.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-097",
+      "times": [
+        516.08,
+        519,
+        521.92
+      ],
+      "files": [
+        "097-start.jpg",
+        "097-peak.jpg",
+        "097-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "097-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_068_hidden_hiring_below_surface.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-098",
+      "times": [
+        522.08,
+        525.5,
+        528.92
+      ],
+      "files": [
+        "098-start.jpg",
+        "098-peak.jpg",
+        "098-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "098-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_069_editor_never_hired.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-099",
+      "times": [
+        529.08,
+        532,
+        534.92
+      ],
+      "files": [
+        "099-start.jpg",
+        "099-peak.jpg",
+        "099-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "099-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_070_late_data_wave.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-100",
+      "times": [
+        535.08,
+        536.5,
+        537.92
+      ],
+      "files": [
+        "100-start.jpg",
+        "100-peak.jpg",
+        "100-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "100-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_071_atm_human_queue.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-101",
+      "times": [
+        538.08,
+        542,
+        545.92
+      ],
+      "files": [
+        "101-start.jpg",
+        "101-peak.jpg",
+        "101-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "101-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_071_atm_human_queue.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "times": [
+        546.08,
+        548,
+        549.92
+      ],
+      "files": [
+        "102-start.jpg",
+        "102-peak.jpg",
+        "102-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "102-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_072_human_cost_tenfold.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-103",
+      "times": [
+        550.08,
+        554,
+        557.92
+      ],
+      "files": [
+        "103-start.jpg",
+        "103-peak.jpg",
+        "103-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "103-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_073_mobile_money_doubt.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-104",
+      "times": [
+        558.08,
+        559.5,
+        560.92
+      ],
+      "files": [
+        "104-start.jpg",
+        "104-peak.jpg",
+        "104-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "104-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_074_mobile_money_shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-105",
+      "times": [
+        561.08,
+        563,
+        564.92
+      ],
+      "files": [
+        "105-start.jpg",
+        "105-peak.jpg",
+        "105-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "105-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_075_preference_speed_bump.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-106",
+      "times": [
+        565.08,
+        568.515,
+        569.92
+      ],
+      "files": [
+        "106-start.jpg",
+        "106-peak.jpg",
+        "106-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "106-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_077_excuse_shield_calendar.jpg"
+        },
+        {
+          "file": "106-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_076_chapter_seven_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-107",
+      "times": [
+        570.08,
+        574.5,
+        578.92
+      ],
+      "files": [
+        "107-start.jpg",
+        "107-peak.jpg",
+        "107-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "107-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_078_task_conveyor.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-108",
+      "times": [
+        579.08,
+        581,
+        582.92
+      ],
+      "files": [
+        "108-start.jpg",
+        "108-peak.jpg",
+        "108-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "108-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_079_if_to_when_stamp.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-109",
+      "times": [
+        583.08,
+        586,
+        588.92
+      ],
+      "files": [
+        "109-start.jpg",
+        "109-peak.jpg",
+        "109-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "109-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_080_relaxed_hammock.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-110",
+      "times": [
+        589.08,
+        592.5,
+        595.92
+      ],
+      "files": [
+        "110-start.jpg",
+        "110-peak.jpg",
+        "110-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "110-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_081_self_audit_laptop.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-111",
+      "times": [
+        596.08,
+        600,
+        603.92
+      ],
+      "files": [
+        "111-start.jpg",
+        "111-peak.jpg",
+        "111-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "111-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_082_ai_human_task_blocks.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-112",
+      "times": [
+        604.08,
+        608.5,
+        612.92
+      ],
+      "files": [
+        "112-start.jpg",
+        "112-peak.jpg",
+        "112-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "112-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_083_repeat_audit_calendar.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-113",
+      "times": [
+        613.08,
+        617,
+        620.92
+      ],
+      "files": [
+        "113-start.jpg",
+        "113-peak.jpg",
+        "113-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "113-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_084_street_comment_box.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-114",
+      "times": [
+        621.08,
+        626,
+        630.92
+      ],
+      "files": [
+        "114-start.jpg",
+        "114-peak.jpg",
+        "114-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "114-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_085_street_tech_friend.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-115",
+      "times": [
+        631.08,
+        634.1285715,
+        637.177143
+      ],
+      "files": [
+        "115-start.jpg",
+        "115-peak.jpg",
+        "115-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "115-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_086_dark_sources_endcard.jpg"
+        }
+      ]
+    }
+  ],
+  "browserErrors": []
+}

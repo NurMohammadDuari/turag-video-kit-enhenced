@@ -1,0 +1,197 @@
+Built /home/mint/Desktop/turag-video-kit/engine/Full_Episode_Engine_Check.html: 9.3 MiB, offline fonts + audio + complete renderer.
+{
+  "duration": 637.257143,
+  "beats": 115,
+  "cues": 115,
+  "sceneTypes": [
+    "compose"
+  ],
+  "testedTimes": 577,
+  "maxDrawMs": 80.20000000006985,
+  "blank": [],
+  "nondeterministic": [],
+  "samples": "115 saved frames",
+  "fonts": [
+    "800 32px \"Anek Bangla\"",
+    "600 19px \"Hind Siliguri\"",
+    "400 10px \"Space Mono\"",
+    "700 10px \"Space Mono\""
+  ],
+  "errors": [],
+  "maxSubtitleWidth": 808.1860961914062,
+  "browserErrors": [],
+  "networkRequests": []
+}
+{
+  "shots": 115,
+  "repeatedArrangements": [
+    [
+      "line-001",
+      "line-115"
+    ],
+    [
+      "line-005",
+      "line-006"
+    ],
+    [
+      "line-007",
+      "line-008"
+    ],
+    [
+      "line-009",
+      "line-010",
+      "line-022",
+      "line-031"
+    ],
+    [
+      "line-011",
+      "line-015"
+    ],
+    [
+      "line-014",
+      "line-064",
+      "line-069",
+      "line-070"
+    ],
+    [
+      "line-016",
+      "line-017",
+      "line-018",
+      "line-019"
+    ],
+    [
+      "line-020",
+      "line-021"
+    ],
+    [
+      "line-024",
+      "line-025",
+      "line-026"
+    ],
+    [
+      "line-027",
+      "line-029",
+      "line-030"
+    ],
+    [
+      "line-032",
+      "line-109"
+    ],
+    [
+      "line-033",
+      "line-034",
+      "line-040",
+      "line-107",
+      "line-110",
+      "line-111"
+    ],
+    [
+      "line-035",
+      "line-036"
+    ],
+    [
+      "line-037",
+      "line-038"
+    ],
+    [
+      "line-042",
+      "line-043",
+      "line-044",
+      "line-045",
+      "line-046",
+      "line-047"
+    ],
+    [
+      "line-048",
+      "line-049",
+      "line-050",
+      "line-051",
+      "line-052"
+    ],
+    [
+      "line-053",
+      "line-054",
+      "line-055",
+      "line-097",
+      "line-098"
+    ],
+    [
+      "line-056",
+      "line-057",
+      "line-058",
+      "line-059",
+      "line-060",
+      "line-061",
+      "line-062"
+    ],
+    [
+      "line-065",
+      "line-066",
+      "line-067",
+      "line-068",
+      "line-071"
+    ],
+    [
+      "line-072",
+      "line-073",
+      "line-074",
+      "line-075"
+    ],
+    [
+      "line-076",
+      "line-077",
+      "line-078"
+    ],
+    [
+      "line-079",
+      "line-080"
+    ],
+    [
+      "line-081",
+      "line-082",
+      "line-083",
+      "line-084"
+    ],
+    [
+      "line-085",
+      "line-086",
+      "line-087",
+      "line-088"
+    ],
+    [
+      "line-089",
+      "line-090",
+      "line-091"
+    ],
+    [
+      "line-092",
+      "line-093",
+      "line-094",
+      "line-095",
+      "line-096",
+      "line-099"
+    ],
+    [
+      "line-100",
+      "line-101",
+      "line-102"
+    ],
+    [
+      "line-103",
+      "line-104",
+      "line-105"
+    ],
+    [
+      "line-113",
+      "line-114"
+    ]
+  ],
+  "note": "Review repeated arrangements for meaningful action and continuity. Unique geometry does not prove semantic or stylistic quality."
+}
+{
+  "manifest": "/home/mint/Desktop/turag-video-kit/episodes/ep02-composed.json",
+  "preview": "/home/mint/Desktop/turag-video-kit/engine/Full_Episode_Engine_Check.html",
+  "video": null,
+  "qa": "/home/mint/Desktop/turag-video-kit/output/Full_Episode_Engine_Check-qa",
+  "duration": 637.257143
+}

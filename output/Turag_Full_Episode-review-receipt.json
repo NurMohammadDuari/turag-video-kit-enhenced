@@ -1,0 +1,1162 @@
+{
+  "inspectionScope": "All 115 start/peak/end boards inspected; repaired shots checked again. 575 motion-phase samples generated and measured; not all output frames manually inspected.",
+  "limitations": [
+    "Reference-informed code reconstruction; some scene density, character silhouettes and fine motion differ from source footage.",
+    "Supplied approximate editorial timecodes retained; not forced-aligned word timing.",
+    "Statistics preserved from supplied script without independent fact-checking.",
+    "Review comprises visual samples of every shot, not human inspection of all 19118 output frames."
+  ],
+  "shots": [
+    {
+      "id": "line-001",
+      "meaning": "Office rows remain visible under the cream/red title; headline reveal completes without covering the working desks.",
+      "style": "Compared with ref_001_night_office_title.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Office rows remain visible under the cream/red title; headline reveal completes without covering the working desks. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Office rows remain visible under the cream/red title; headline reveal completes without covering the working desks. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 0 to 4.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-002",
+      "meaning": "October calendar and offer are distinct; letter rises with the worker wrist above the table.",
+      "style": "Compared with ref_002_night_office_offer.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "October calendar and offer are distinct; letter rises with the worker wrist above the table. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "October calendar and offer are distinct; letter rises with the worker wrist above the table. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 4.0 to 10.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-003",
+      "meaning": "Cash meets the receiving hand; the other person and exit door remain readable across the transaction.",
+      "style": "Compared with ref_002_night_office_offer.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Cash meets the receiving hand; the other person and exit door remain readable across the transaction. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Cash meets the receiving hand; the other person and exit door remain readable across the transaction. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 10.0 to 13.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-004",
+      "meaning": "The hundred-position panel highlights one quarter; the guide points without blocking its label.",
+      "style": "Compared with ref_003_office_headcount_card.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The hundred-position panel highlights one quarter; the guide points without blocking its label. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The hundred-position panel highlights one quarter; the guide points without blocking its label. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 13.0 to 17.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-005",
+      "meaning": "Separate company buildings and several departing people communicate breadth; no single-company implication remains.",
+      "style": "Compared with f_0154.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Separate company buildings and several departing people communicate breadth; no single-company implication remains. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Separate company buildings and several departing people communicate breadth; no single-company implication remains. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 17.0 to 20.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-006",
+      "meaning": "Report counter settles at the script's rounded 120000; the cause caption remains attached to the report.",
+      "style": "Compared with ref_004_layoff_walkers_counter.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Report counter settles at the script's rounded 120000; the cause caption remains attached to the report. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Report counter settles at the script's rounded 120000; the cause caption remains attached to the report. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 20.0 to 28.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-007",
+      "meaning": "The prior-year report emerges beside the archive drawer; the 2025 and 55000 labels are separated.",
+      "style": "Compared with f_0199.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The prior-year report emerges beside the archive drawer; the 2025 and 55000 labels are separated. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The prior-year report emerges beside the archive drawer; the 2025 and 55000 labels are separated. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 28.0 to 32.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-008",
+      "meaning": "Both towers share a baseline; the later total finishes more than twice the earlier height.",
+      "style": "Compared with f_0199.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Both towers share a baseline; the later total finishes more than twice the earlier height. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Both towers share a baseline; the later total finishes more than twice the earlier height. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 32.0 to 36.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-009",
+      "meaning": "The street claim is in a speech bubble; the phone moves with the guide and traffic passes behind.",
+      "style": "Compared with f_0009.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The street claim is in a speech bubble; the phone moves with the guide and traffic passes behind. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The street claim is in a speech bubble; the phone moves with the guide and traffic passes behind. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 36.0 to 39.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-010",
+      "meaning": "The lens traverses the questioned claim; red emphasis remains a question, not a new assertion.",
+      "style": "Compared with f_0300.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The lens traverses the questioned claim; red emphasis remains a question, not a new assertion. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The lens traverses the questioned claim; red emphasis remains a question, not a new assertion. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 39.0 to 41.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-011",
+      "meaning": "The blue chapter card precedes the three profession claims; its exit does not interrupt the cue.",
+      "style": "Compared with f_0067.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The blue chapter card precedes the three profession claims; its exit does not interrupt the cue. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The blue chapter card precedes the three profession claims; its exit does not interrupt the cue. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 41.0 to 46.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-012",
+      "meaning": "The doctor raises a report beside a patient bed; the report stays connected and the window stays behind.",
+      "style": "Compared with f_0159.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The doctor raises a report beside a patient bed; the report stays connected and the window stays behind. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The doctor raises a report beside a patient bed; the report stays connected and the window stays behind. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 46.0 to 49.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-013",
+      "meaning": "Teacher hand and white writing trace meet the board edge; three pupils and their desks remain grounded.",
+      "style": "Compared with ref_008_profession_rooms.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Teacher hand and white writing trace meet the board edge; three pupils and their desks remain grounded. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Teacher hand and white writing trace meet the board edge; three pupils and their desks remain grounded. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 49.0 to 52.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-014",
+      "meaning": "Both sewing hands reach the cloth; the table, needle and fabric remain aligned through the sampled phases.",
+      "style": "Compared with ref_008_profession_rooms.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Both sewing hands reach the cloth; the table, needle and fabric remain aligned through the sampled phases. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Both sewing hands reach the cloth; the table, needle and fabric remain aligned through the sampled phases. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 52.0 to 55.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-015",
+      "meaning": "The dark lab retains three operating stations; blue panels and the small lever provide a restrained system response.",
+      "style": "Compared with ref_009_ai_lab_survey.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The dark lab retains three operating stations; blue panels and the small lever provide a restrained system response. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The dark lab retains three operating stations; blue panels and the small lever provide a restrained system response. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 55.0 to 61 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-016",
+      "meaning": "Two researchers and the survey clipboard stay separately readable; the August heading adds no unsupported year.",
+      "style": "Compared with ref_009_ai_lab_survey.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Two researchers and the survey clipboard stay separately readable; the August heading adds no unsupported year. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Two researchers and the survey clipboard stay separately readable; the August heading adds no unsupported year. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 61.0 to 65.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-017",
+      "meaning": "Three blue-screen stations retain low-key typing; corrected night window and furniture stay legible.",
+      "style": "Compared with ref_009_ai_lab_survey.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three blue-screen stations retain low-key typing; corrected night window and furniture stay legible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three blue-screen stations retain low-key typing; corrected night window and furniture stay legible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 65.0 to 70.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-018",
+      "meaning": "Varied public silhouettes surround a separate clipboard; the headline says approximately eleven thousand, not eleven literal people.",
+      "style": "Compared with ref_010_survey_slider_crowd.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Varied public silhouettes surround a separate clipboard; the headline says approximately eleven thousand, not eleven literal people. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Varied public silhouettes surround a separate clipboard; the headline says approximately eleven thousand, not eleven literal people. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 70.0 to 74.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-019",
+      "meaning": "The question marker stops on an unfilled scale; the relocated calendar no longer hides the hundred-percent endpoint.",
+      "style": "Compared with ref_010_survey_slider_crowd.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The question marker stops on an unfilled scale; the relocated calendar no longer hides the hundred-percent endpoint. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The question marker stops on an unfilled scale; the relocated calendar no longer hides the hundred-percent endpoint. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 74.0 to 81.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-020",
+      "meaning": "The builder column fills three quarters of its outline; its percentage and caption stay outside the column.",
+      "style": "Compared with ref_011_survey_percentage_compare.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The builder column fills three quarters of its outline; its percentage and caption stay outside the column. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The builder column fills three quarters of its outline; its percentage and caption stay outside the column. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 81.0 to 84.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-021",
+      "meaning": "Both outlined columns have the same full scale; the public twenty-eight-percent fill remains lower than seventy-five.",
+      "style": "Compared with ref_011_survey_percentage_compare.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Both outlined columns have the same full scale; the public twenty-eight-percent fill remains lower than seventy-five. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Both outlined columns have the same full scale; the public twenty-eight-percent fill remains lower than seventy-five. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 84.0 to 87.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-022",
+      "meaning": "The phone gesture and question card are visible; moving the window left removed the text obstruction.",
+      "style": "Compared with ref_012_phone_chat.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The phone gesture and question card are visible; moving the window left removed the text obstruction. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The phone gesture and question card are visible; moving the window left removed the text obstruction. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 87.0 to 89.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-023",
+      "meaning": "Question then flawed-response message appears on the phone panel; the background window no longer covers the app.",
+      "style": "Compared with ref_012_phone_chat.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Question then flawed-response message appears on the phone panel; the background window no longer covers the app. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Question then flawed-response message appears on the phone panel; the background window no longer covers the app. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 89.0 to 96.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-024",
+      "meaning": "The detached engine sits on a thin table; the city-route sign remains separate from the guide.",
+      "style": "Compared with ref_013_garage_engine_analogy.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The detached engine sits on a thin table; the city-route sign remains separate from the guide. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The detached engine sits on a thin table; the city-route sign remains separate from the guide. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 96.0 to 104.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-025",
+      "meaning": "The engine fades as the vehicle body resolves; the shared ground and route sign preserve the analogy.",
+      "style": "Compared with ref_013_garage_engine_analogy.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The engine fades as the vehicle body resolves; the shared ground and route sign preserve the analogy. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The engine fades as the vehicle body resolves; the shared ground and route sign preserve the analogy. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 104.0 to 107.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-026",
+      "meaning": "The car progresses along the production rail between robot arms; the supervisor remains at the right edge.",
+      "style": "Compared with ref_014_ai_factory_assembly.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The car progresses along the production rail between robot arms; the supervisor remains at the right edge. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The car progresses along the production rail between robot arms; the supervisor remains at the right edge. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 107.0 to 110.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-027",
+      "meaning": "The workflow activates data, application and checking panels in order; connecting arrows stay legible.",
+      "style": "Compared with ref_015_agent_workflow.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The workflow activates data, application and checking panels in order; connecting arrows stay legible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The workflow activates data, application and checking panels in order; connecting arrows stay legible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 110.0 to 119.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-028",
+      "meaning": "Hospital, bank, law and call-centre fronts remain distinct; small blue system markers appear above them.",
+      "style": "Compared with ref_016_four_shopfronts.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Hospital, bank, law and call-centre fronts remain distinct; small blue system markers appear above them. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Hospital, bank, law and call-centre fronts remain distinct; small blue system markers appear above them. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 119.0 to 126.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-029",
+      "meaning": "The guide's small phone contrasts with the partially exposed system behind curtains; no map or new company claim appears.",
+      "style": "Compared with ref_017_curtain_reveal.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The guide's small phone contrasts with the partially exposed system behind curtains; no map or new company claim appears. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The guide's small phone contrasts with the partially exposed system behind curtains; no map or new company claim appears. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 126.0 to 130.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-030",
+      "meaning": "The curtain withdraws to expose scaffold and machinery; the panel operator remains visible at the edge.",
+      "style": "Compared with ref_018_behind_the_scenes_scaffolding.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The curtain withdraws to expose scaffold and machinery; the panel operator remains visible at the edge. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The curtain withdraws to expose scaffold and machinery; the panel operator remains visible at the edge. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 130.0 to 134.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-031",
+      "meaning": "Labelled America and Bangladesh endpoints avoid an invented geographical outline; the arrow clearly leads toward local context.",
+      "style": "Compared with ref_019_world_map_transition.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Labelled America and Bangladesh endpoints avoid an invented geographical outline; the arrow clearly leads toward local context. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Labelled America and Bangladesh endpoints avoid an invented geographical outline; the arrow clearly leads toward local context. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 134.0 to 137.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-032",
+      "meaning": "Hammock and unattended workstation remain deliberately quiet; the scene shows unfamiliarity rather than a broken computer.",
+      "style": "Compared with ref_020_relaxed_desk.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Hammock and unattended workstation remain deliberately quiet; the scene shows unfamiliarity rather than a broken computer. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Hammock and unattended workstation remain deliberately quiet; the scene shows unfamiliarity rather than a broken computer. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 137.0 to 144.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-033",
+      "meaning": "Blue chapter three resolves into the single job block; no worker is removed during the misconception setup.",
+      "style": "Compared with ref_022_job_is_bundle.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Blue chapter three resolves into the single job block; no worker is removed during the misconception setup. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Blue chapter three resolves into the single job block; no worker is removed during the misconception setup. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 144.0 to 151.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-034",
+      "meaning": "The job block opens into six separate task tiles; email and report tiles are distinguished from the remaining work.",
+      "style": "Compared with ref_023_task_tiles.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The job block opens into six separate task tiles; email and report tiles are distinguished from the remaining work. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The job block opens into six separate task tiles; email and report tiles are distinguished from the remaining work. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 151.0 to 157.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-035",
+      "meaning": "Ten doctor figures are countable and persist; the heading explicitly frames this as a hypothetical example.",
+      "style": "Compared with ref_024_ten_doctors_timebars.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Ten doctor figures are countable and persist; the heading explicitly frames this as a hypothetical example. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Ten doctor figures are countable and persist; the heading explicitly frames this as a hypothetical example. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 157.0 to 160.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-036",
+      "meaning": "Ten equal time bars fill their forty-percent segment; the paperwork heading remains above the figures.",
+      "style": "Compared with ref_024_ten_doctors_timebars.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Ten equal time bars fill their forty-percent segment; the paperwork heading remains above the figures. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Ten equal time bars fill their forty-percent segment; the paperwork heading remains above the figures. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 160.0 to 167.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-037",
+      "meaning": "Six doctors stay solid while four become faint; the illustrative ten-to-six wording remains visible.",
+      "style": "Compared with ref_025_doctor_headcount_reduction.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Six doctors stay solid while four become faint; the illustrative ten-to-six wording remains visible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Six doctors stay solid while four become faint; the illustrative ten-to-six wording remains visible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 167.0 to 174.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-038",
+      "meaning": "Doctors and patients remain in the ward; the heading explicitly denies disappearance of the whole profession.",
+      "style": "Compared with ref_026_hospital_remaining_work.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Doctors and patients remain in the ward; the heading explicitly denies disappearance of the whole profession. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Doctors and patients remain in the ward; the heading explicitly denies disappearance of the whole profession. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 174.0 to 181.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-039",
+      "meaning": "Eighty of one hundred task cells finish blue; the qualifier was moved clear of the matrix top edge.",
+      "style": "Compared with ref_027_desk_grid_eighty_percent.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Eighty of one hundred task cells finish blue; the qualifier was moved clear of the matrix top edge. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Eighty of one hundred task cells finish blue; the qualifier was moved clear of the matrix top edge. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 181.0 to 193.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-040",
+      "meaning": "The worker retains a desk while task tiles separate; selected blue tiles do not erase the human workstation.",
+      "style": "Compared with ref_028_grid_zoom_task_detail.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The worker retains a desk while task tiles separate; selected blue tiles do not erase the human workstation. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The worker retains a desk while task tiles separate; selected blue tiles do not erase the human workstation. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 193.0 to 197.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-041",
+      "meaning": "Bent harvest workers now reach toward crops and others hold crop bundles; unwanted default envelopes were removed.",
+      "style": "Compared with ref_029_rice_manual_labor.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Bent harvest workers now reach toward crops and others hold crop bundles; unwanted default envelopes were removed. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Bent harvest workers now reach toward crops and others hold crop bundles; unwanted default envelopes were removed. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 197.0 to 204.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-042",
+      "meaning": "The combine advances and its cutter changes position; three farm helpers retain crop bundles rather than letters.",
+      "style": "Compared with ref_030_combine_harvester.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The combine advances and its cutter changes position; three farm helpers retain crop bundles rather than letters. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The combine advances and its cutter changes position; three farm helpers retain crop bundles rather than letters. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 204.0 to 209.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-043",
+      "meaning": "Three of ten labour markers remain solid above the field; all ten are now clear of the crop layer.",
+      "style": "Compared with ref_031_agriculture_labor_card.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three of ten labour markers remain solid above the field; all ten are now clear of the crop layer. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three of ten labour markers remain solid above the field; all ten are now clear of the crop layer. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 209.0 to 217.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-044",
+      "meaning": "Crops, worker, sacks and machine persist together; the green agriculture-remains caption preserves the explicit negation.",
+      "style": "Compared with ref_032_agriculture_ten_to_three.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Crops, worker, sacks and machine persist together; the green agriculture-remains caption preserves the explicit negation. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Crops, worker, sacks and machine persist together; the green agriculture-remains caption preserves the explicit negation. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 217.0 to 220.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-045",
+      "meaning": "Three solid farmers contrast with faded former positions; the crop bundles and surviving field remain visible.",
+      "style": "Compared with ref_032_agriculture_ten_to_three.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three solid farmers contrast with faded former positions; the crop bundles and surviving field remain visible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three solid farmers contrast with faded former positions; the crop bundles and surviving field remain visible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 220.0 to 223.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-046",
+      "meaning": "Both count groups sit above the rice texture; arrow and persistent sacks distinguish workforce change from lost agriculture.",
+      "style": "Compared with ref_032_agriculture_ten_to_three.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Both count groups sit above the rice texture; arrow and persistent sacks distinguish workforce change from lost agriculture. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Both count groups sit above the rice texture; arrow and persistent sacks distinguish workforce change from lost agriculture. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 223.0 to 229.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-047",
+      "meaning": "Three office desks replace the field context; task tiles reveal in sequence without removing the furniture.",
+      "style": "Compared with ref_033_office_row_transition.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three office desks replace the field context; task tiles reveal in sequence without removing the furniture. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three office desks replace the field context; task tiles reveal in sequence without removing the furniture. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 229.0 to 233.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-048",
+      "meaning": "Blue chapter four yields to the creator's night desk; the testimony heading stays clear of the window.",
+      "style": "Compared with ref_034_night_creator_desk.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Blue chapter four yields to the creator's night desk; the testimony heading stays clear of the window. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Blue chapter four yields to the creator's night desk; the testimony heading stays clear of the window. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 233.0 to 237.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-049",
+      "meaning": "The unworked editing timeline remains an explanatory panel beside the creator; no fabricated time figure is displayed.",
+      "style": "Compared with ref_034_night_creator_desk.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The unworked editing timeline remains an explanatory panel beside the creator; no fabricated time figure is displayed. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The unworked editing timeline remains an explanatory panel beside the creator; no fabricated time figure is displayed. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 237.0 to 240.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-050",
+      "meaning": "Code lines fill before the output monitor appears; the code panel and creator stay visually separate.",
+      "style": "Compared with ref_035_code_window.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Code lines fill before the output monitor appears; the code panel and creator stay visually separate. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Code lines fill before the output monitor appears; the code panel and creator stay visually separate. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 240.0 to 244.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-051",
+      "meaning": "Timeline playhead moves across several tracks beside the editor; the clock supplies workload context without an invented duration.",
+      "style": "Compared with ref_036_editing_time_comparison.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Timeline playhead moves across several tracks beside the editor; the clock supplies workload context without an invented duration. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Timeline playhead moves across several tracks beside the editor; the clock supplies workload context without an invented duration. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 244.0 to 250.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-052",
+      "meaning": "Corrected hand targets now reach the paper on the desk; the video timeline resolves beside the writing action.",
+      "style": "Compared with ref_036_editing_time_comparison.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Corrected hand targets now reach the paper on the desk; the video timeline resolves beside the writing action. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Corrected hand targets now reach the paper on the desk; the video timeline resolves beside the writing action. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 250.0 to 257.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-053",
+      "meaning": "Occupied creator desk and already-vacant editing seat coexist; nobody is shown being dismissed.",
+      "style": "Compared with ref_037_empty_editor_chair.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Occupied creator desk and already-vacant editing seat coexist; nobody is shown being dismissed. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Occupied creator desk and already-vacant editing seat coexist; nobody is shown being dismissed. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 257.0 to 262.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-054",
+      "meaning": "The editor-vacancy title fades while the desk stays empty; lighter furniture now makes the absence visible in navy.",
+      "style": "Compared with ref_037_empty_editor_chair.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The editor-vacancy title fades while the desk stays empty; lighter furniture now makes the absence visible in navy. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The editor-vacancy title fades while the desk stays empty; lighter furniture now makes the absence visible in navy. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 262.0 to 268.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-055",
+      "meaning": "The spotlight frames the unoccupied chair; the quiet hold supports the word silently without unrelated movement.",
+      "style": "Compared with ref_037_empty_editor_chair.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The spotlight frames the unoccupied chair; the quiet hold supports the word silently without unrelated movement. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The spotlight frames the unoccupied chair; the quiet hold supports the word silently without unrelated movement. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 268.0 to 272.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-056",
+      "meaning": "Two people discuss the AI-job claim at the tea stall; passing traffic is behind the foreground figures.",
+      "style": "Compared with ref_038_jobs_at_tea_stall.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Two people discuss the AI-job claim at the tea stall; passing traffic is behind the foreground figures. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Two people discuss the AI-job claim at the tea stall; passing traffic is behind the foreground figures. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 272.0 to 280.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-057",
+      "meaning": "The ledger establishes before and after columns; the guide leaves both column headers unobstructed.",
+      "style": "Compared with ref_039_headcount_ledger.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The ledger establishes before and after columns; the guide leaves both column headers unobstructed. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The ledger establishes before and after columns; the guide leaves both column headers unobstructed. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 280.0 to 282.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-058",
+      "meaning": "One hundred team positions contrast with fifty active after positions; the reduction now animates before holding.",
+      "style": "Compared with ref_039_headcount_ledger.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "One hundred team positions contrast with fifty active after positions; the reduction now animates before holding. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "One hundred team positions contrast with fifty active after positions; the reduction now animates before holding. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 282.0 to 287.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-059",
+      "meaning": "Three old AI posts and fifteen new posts use equal-size symbols; the new total reveals before the hold.",
+      "style": "Compared with ref_039_headcount_ledger.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three old AI posts and fifteen new posts use equal-size symbols; the new total reveals before the hold. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three old AI posts and fifteen new posts use equal-size symbols; the new total reveals before the hold. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 287.0 to 293.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-060",
+      "meaning": "A quoted fivefold headline dominates the newspaper; it is visibly a headline rather than total employment data.",
+      "style": "Compared with ref_040_newspaper_fivefold.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A quoted fivefold headline dominates the newspaper; it is visibly a headline rather than total employment data. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A quoted fivefold headline dominates the newspaper; it is visibly a headline rather than total employment data. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 293.0 to 298.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-061",
+      "meaning": "Complete populations resolve to 103 and 65; relocated headings no longer collide with the upper row of people.",
+      "style": "Compared with ref_041_total_headcount_compare.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Complete populations resolve to 103 and 65; relocated headings no longer collide with the upper row of people. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Complete populations resolve to 103 and 65; relocated headings no longer collide with the upper row of people. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 298.0 to 304.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-062",
+      "meaning": "The upward AI-role indicator and lower total headcount are simultaneously readable; their different measures remain labelled.",
+      "style": "Compared with ref_041_total_headcount_compare.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The upward AI-role indicator and lower total headcount are simultaneously readable; their different measures remain labelled. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The upward AI-role indicator and lower total headcount are simultaneously readable; their different measures remain labelled. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 304.0 to 308.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-063",
+      "meaning": "Blue chapter five yields to teacher and doctor together; neither profession is prematurely erased.",
+      "style": "Compared with ref_043_teacher_scale.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Blue chapter five yields to teacher and doctor together; neither profession is prematurely erased. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Blue chapter five yields to teacher and doctor together; neither profession is prematurely erased. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 308.0 to 311.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-064",
+      "meaning": "The four-hundred-cell panel fills beside one teacher; the conditional example caption remains above the grid.",
+      "style": "Compared with ref_043_teacher_scale.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The four-hundred-cell panel fills beside one teacher; the conditional example caption remains above the grid. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The four-hundred-cell panel fills beside one teacher; the conditional example caption remains above the grid. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 311.0 to 320.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-065",
+      "meaning": "Sewing hands, needle and cloth are connected; the fan and fabric rolls support a specific garment setting.",
+      "style": "Compared with ref_044_garment_factory.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Sewing hands, needle and cloth are connected; the fan and fabric rolls support a specific garment setting. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Sewing hands, needle and cloth are connected; the fan and fabric rolls support a specific garment setting. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 320.0 to 324.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-066",
+      "meaning": "Three of four cells activate above machinery; the qualifier prevents interpreting this as universal viable automation.",
+      "style": "Compared with ref_044_garment_factory.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three of four cells activate above machinery; the qualifier prevents interpreting this as universal viable automation. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three of four cells activate above machinery; the qualifier prevents interpreting this as universal viable automation. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 324.0 to 332.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-067",
+      "meaning": "Cost and hand-skill constraints appear on opposite sides of the robot; the material example is visibly soft cloth.",
+      "style": "Compared with ref_045_robot_cost_comparison.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Cost and hand-skill constraints appear on opposite sides of the robot; the material example is visibly soft cloth. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Cost and hand-skill constraints appear on opposite sides of the robot; the material example is visibly soft cloth. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 332.0 to 335.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-068",
+      "meaning": "Exactly three of a thousand cells become blue; the American cost qualifier now sits above the matrix.",
+      "style": "Compared with ref_046_robot_economics_grid.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Exactly three of a thousand cells become blue; the American cost qualifier now sits above the matrix. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Exactly three of a thousand cells become blue; the American cost qualifier now sits above the matrix. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 335.0 to 344.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-069",
+      "meaning": "The gripper holds visibly sagging fabric; the human-held sheet follows the wrist without the former stray envelope.",
+      "style": "Compared with ref_047_robot_soft_cloth.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The gripper holds visibly sagging fabric; the human-held sheet follows the wrist without the former stray envelope. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The gripper holds visibly sagging fabric; the human-held sheet follows the wrist without the former stray envelope. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 344.0 to 353.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-070",
+      "meaning": "Two active sewing stations remain under the temporary qualifier; the scene does not imply permanent immunity.",
+      "style": "Compared with ref_048_garment_temporary_safety.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Two active sewing stations remain under the temporary qualifier; the scene does not imply permanent immunity. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Two active sewing stations remain under the temporary qualifier; the scene does not imply permanent immunity. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 353.0 to 358.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-071",
+      "meaning": "The arrow connects human sewing demonstration with the cloth gripper; their contrasting motions remain visible.",
+      "style": "Compared with ref_049_robot_imitation_learning.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The arrow connects human sewing demonstration with the cloth gripper; their contrasting motions remain visible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The arrow connects human sewing demonstration with the cloth gripper; their contrasting motions remain visible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 358.0 to 367.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-072",
+      "meaning": "Three blue-screen desk stations cover the digital-work setting; the heading names the professions without overlapping a foreground actor.",
+      "style": "Compared with ref_050_digital_work_panels.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three blue-screen desk stations cover the digital-work setting; the heading names the professions without overlapping a foreground actor. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three blue-screen desk stations cover the digital-work setting; the heading names the professions without overlapping a foreground actor. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 367.0 to 373.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-073",
+      "meaning": "Working software remains at the desk while only the robot symbol is crossed out; the negation is correctly targeted.",
+      "style": "Compared with ref_050_digital_work_panels.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Working software remains at the desk while only the robot symbol is crossed out; the negation is correctly targeted. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Working software remains at the desk while only the robot symbol is crossed out; the negation is correctly targeted. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 373.0 to 377.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-074",
+      "meaning": "A source application branches into multiple blue copies; workstations remain below the diagram.",
+      "style": "Compared with ref_051_copyable_ai.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A source application branches into multiple blue copies; workstations remain below the diagram. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A source application branches into multiple blue copies; workstations remain below the diagram. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 377.0 to 382.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-075",
+      "meaning": "A small blue tool and checked clipboard sit beside an ordinary workstation; no invented service price is shown.",
+      "style": "Compared with ref_052_small_cheap_ai.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A small blue tool and checked clipboard sit beside an ordinary workstation; no invented service price is shown. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A small blue tool and checked clipboard sit beside an ordinary workstation; no invented service price is shown. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 382.0 to 392.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-076",
+      "meaning": "Clerk and files remain in the office; the security statement is visibly framed as a quoted question.",
+      "style": "Compared with ref_053_government_paperwork.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Clerk and files remain in the office; the security statement is visibly framed as a quoted question. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Clerk and files remain in the office; the security statement is visibly framed as a quoted question. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 392.0 to 398.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-077",
+      "meaning": "Writing targets now meet desk paper; a separate carrier holds the file stack without an extra built-in envelope.",
+      "style": "Compared with ref_053_government_paperwork.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Writing targets now meet desk paper; a separate carrier holds the file stack without an extra built-in envelope. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Writing targets now meet desk paper; a separate carrier holds the file stack without an extra built-in envelope. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 398.0 to 406.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-078",
+      "meaning": "The closed recruitment notice has been moved below the heading; the occupied desk remains and the other chair stays vacant.",
+      "style": "Compared with ref_054_recruitment_reduction.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The closed recruitment notice has been moved below the heading; the occupied desk remains and the other chair stays vacant. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The closed recruitment notice has been moved below the heading; the occupied desk remains and the other chair stays vacant. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 406.0 to 413.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-079",
+      "meaning": "The applicant line approaches the examination building; approximate applicants and the exact supplied post count remain distinct.",
+      "style": "Compared with ref_055_government_exam_queue.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The applicant line approaches the examination building; approximate applicants and the exact supplied post count remain distinct. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The applicant line approaches the examination building; approximate applicants and the exact supplied post count remain distinct. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 413.0 to 425.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-080",
+      "meaning": "The long queue persists while one of three chairs fades; the caption makes the approximately hundred-per-seat relationship clear.",
+      "style": "Compared with ref_056_chairs_and_queue.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The long queue persists while one of three chairs fades; the caption makes the approximately hundred-per-seat relationship clear. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The long queue persists while one of three chairs fades; the caption makes the approximately hundred-per-seat relationship clear. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 425.0 to 432.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-081",
+      "meaning": "Blue chapter six yields to risk and other-side panels; the guide remains between the two arguments.",
+      "style": "Compared with ref_058_counterargument_intro.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Blue chapter six yields to risk and other-side panels; the guide remains between the two arguments. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Blue chapter six yields to risk and other-side panels; the guide remains between the two arguments. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 432.0 to 436.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-082",
+      "meaning": "Requests accumulate along branching lines beside a working desk; increasing demand is visible rather than just asserted in a title.",
+      "style": "Compared with ref_058_counterargument_intro.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Requests accumulate along branching lines beside a working desk; increasing demand is visible rather than just asserted in a title. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Requests accumulate along branching lines beside a working desk; increasing demand is visible rather than just asserted in a title. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 436.0 to 439.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-083",
+      "meaning": "Four crossed clerk units and six accountant units preserve the stated relative magnitudes; the lakh labels remain clear.",
+      "style": "Compared with ref_059_accounting_history.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Four crossed clerk units and six accountant units preserve the stated relative magnitudes; the lakh labels remain clear. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Four crossed clerk units and six accountant units preserve the stated relative magnitudes; the lakh labels remain clear. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 439.0 to 447.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-084",
+      "meaning": "The incoming paperwork stack visibly grows beside the spreadsheet operator; the request increase is separated from the finished pile.",
+      "style": "Compared with ref_059_accounting_history.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The incoming paperwork stack visibly grows beside the spreadsheet operator; the request increase is separated from the finished pile. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The incoming paperwork stack visibly grows beside the spreadsheet operator; the request increase is separated from the finished pile. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 447.0 to 452.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-085",
+      "meaning": "Patient queue and hospital stay grounded; the workforce caption includes doctors, nurses and midwives rather than doctors alone.",
+      "style": "Compared with ref_060_healthcare_queue.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Patient queue and hospital stay grounded; the workforce caption includes doctors, nurses and midwives rather than doctors alone. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Patient queue and hospital stay grounded; the workforce caption includes doctors, nurses and midwives rather than doctors alone. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 452.0 to 460.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-086",
+      "meaning": "Two fifty-cell grids share a scale and denominator; thirteen and forty-nine highlighted positions remain distinct.",
+      "style": "Compared with ref_061_healthcare_density.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Two fifty-cell grids share a scale and denominator; thirteen and forty-nine highlighted positions remain distinct. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Two fifty-cell grids share a scale and denominator; thirteen and forty-nine highlighted positions remain distinct. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 460.0 to 464.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-087",
+      "meaning": "Phone-linked village homes preserve the clinician; the caption retains the possible, rather than certain, access improvement.",
+      "style": "Compared with ref_062_village_health_network.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Phone-linked village homes preserve the clinician; the caption retains the possible, rather than certain, access improvement. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Phone-linked village homes preserve the clinician; the caption retains the possible, rather than certain, access improvement. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 464.0 to 471.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-088",
+      "meaning": "Doctor and teacher remain beside their own work settings; the statement stays qualified as a possibility.",
+      "style": "Compared with ref_063_unlimited_demand_funnel.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Doctor and teacher remain beside their own work settings; the statement stays qualified as a possibility. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Doctor and teacher remain beside their own work settings; the statement stays qualified as a possibility. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 471.0 to 476.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-089",
+      "meaning": "Incoming request sheets expand beyond the waiting people; the explicit unmet-demand condition stays readable.",
+      "style": "Compared with ref_063_unlimited_demand_funnel.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Incoming request sheets expand beyond the waiting people; the explicit unmet-demand condition stays readable. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Incoming request sheets expand beyond the waiting people; the explicit unmet-demand condition stays readable. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 476.0 to 481.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-090",
+      "meaning": "The bounded tray remains full and finite; named routine-work categories remain above the guide and documents.",
+      "style": "Compared with ref_064_saturated_office_demand.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The bounded tray remains full and finite; named routine-work categories remain above the guide and documents. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The bounded tray remains full and finite; named routine-work categories remain above the guide and documents. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 481.0 to 487.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-091",
+      "meaning": "A fixed task tray remains above two occupied stations and one vacant station; demand is not shown increasing here.",
+      "style": "Compared with ref_064_saturated_office_demand.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A fixed task tray remains above two occupied stations and one vacant station; demand is not shown increasing here. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A fixed task tray remains above two occupied stations and one vacant station; demand is not shown increasing here. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 487.0 to 492.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-092",
+      "meaning": "A lens moves across the illustrative near-flat chart; neither the graph nor caption invents a dramatic employment decline.",
+      "style": "Compared with ref_065_jobs_data_chart.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A lens moves across the illustrative near-flat chart; neither the graph nor caption invents a dramatic employment decline. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A lens moves across the illustrative near-flat chart; neither the graph nor caption invents a dramatic employment decline. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 492.0 to 497.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-093",
+      "meaning": "The uncertainty caption and economist attribution remain outside the chart; no claim of proven zero effect is added.",
+      "style": "Compared with ref_065_jobs_data_chart.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The uncertainty caption and economist attribution remain outside the chart; no claim of proven zero effect is added. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The uncertainty caption and economist attribution remain outside the chart; no claim of proven zero effect is added. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 497.0 to 503.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-094",
+      "meaning": "An AI label overlays the cost-cutting folder at the podium; the original underlying cause remains visible.",
+      "style": "Compared with ref_066_ai_washing_podium.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "An AI label overlays the cost-cutting folder at the podium; the original underlying cause remains visible. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "An AI label overlays the cost-cutting folder at the podium; the original underlying cause remains visible. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 503.0 to 508.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-095",
+      "meaning": "The fifth ordinal row alone is blue; equal row lengths avoid inventing numerical shares for the other causes.",
+      "style": "Compared with ref_067_rank_five_chart.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The fifth ordinal row alone is blue; equal row lengths avoid inventing numerical shares for the other causes. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The fifth ordinal row alone is blue; equal row lengths avoid inventing numerical shares for the other causes. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 508.0 to 513.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-096",
+      "meaning": "The second area below the layoff report reveals non-hiring; the original report remains visible as a partial picture.",
+      "style": "Compared with ref_068_hidden_hiring_below_surface.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The second area below the layoff report reveals non-hiring; the original report remains visible as a partial picture. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The second area below the layoff report reveals non-hiring; the original report remains visible as a partial picture. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 513.0 to 516.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-097",
+      "meaning": "The retiring figure moves away while both chairs remain; the lowered recruitment notice no longer collides with the heading.",
+      "style": "Compared with ref_068_hidden_hiring_below_surface.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The retiring figure moves away while both chairs remain; the lowered recruitment notice no longer collides with the heading. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The retiring figure moves away while both chairs remain; the lowered recruitment notice no longer collides with the heading. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 516.0 to 522.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-098",
+      "meaning": "Return to the same empty editing desk reinforces the earlier example; lighter chair strokes preserve the vacancy in the night palette.",
+      "style": "Compared with ref_069_editor_never_hired.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Return to the same empty editing desk reinforces the earlier example; lighter chair strokes preserve the vacancy in the night palette. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Return to the same empty editing desk reinforces the earlier example; lighter chair strokes preserve the vacancy in the night palette. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 522.0 to 529.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-099",
+      "meaning": "The blue wave rises while the report-reading gesture remains visible; the late calendar is qualitative, not a fabricated deadline.",
+      "style": "Compared with ref_070_late_data_wave.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The blue wave rises while the report-reading gesture remains visible; the late calendar is qualitative, not a fabricated deadline. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The blue wave rises while the report-reading gesture remains visible; the late calendar is qualitative, not a fabricated deadline. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 529.0 to 535.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-100",
+      "meaning": "The customer faces the human teller while the ATM stays available; the initial preference is not reversed prematurely.",
+      "style": "Compared with ref_071_atm_human_queue.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The customer faces the human teller while the ATM stays available; the initial preference is not reversed prematurely. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The customer faces the human teller while the ATM stays available; the initial preference is not reversed prematurely. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 535.0 to 538.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-101",
+      "meaning": "The visible queue chooses the staffed counter; the clipboard keeps the claim tied to survey preference.",
+      "style": "Compared with ref_071_atm_human_queue.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The visible queue chooses the staffed counter; the clipboard keeps the claim tied to survey preference. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The visible queue chooses the staffed counter; the clipboard keeps the claim tied to survey preference. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 538.0 to 546.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-102",
+      "meaning": "The two cost bars share a baseline and ten-to-one height ratio; the caption keeps it a hypothetical condition.",
+      "style": "Compared with ref_072_human_cost_tenfold.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The two cost bars share a baseline and ten-to-one height ratio; the caption keeps it a hypothetical condition. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The two cost bars share a baseline and ten-to-one height ratio; the caption keeps it a hypothetical condition. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 546.0 to 550.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-103",
+      "meaning": "The old mobile-money fear is a quoted speech card; no disappearing money or actual theft is depicted.",
+      "style": "Compared with ref_073_mobile_money_doubt.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The old mobile-money fear is a quoted speech card; no disappearing money or actual theft is depicted. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The old mobile-money fear is a quoted speech card; no disappearing money or actual theft is depicted. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 550.0 to 558.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-104",
+      "meaning": "A single wrist-linked phone now moves at the mobile-money counter; the duplicate built-in phone was disabled.",
+      "style": "Compared with ref_074_mobile_money_shop.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "A single wrist-linked phone now moves at the mobile-money counter; the duplicate built-in phone was disabled. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "A single wrist-linked phone now moves at the mobile-money counter; the duplicate built-in phone was disabled. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 558.0 to 561.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-105",
+      "meaning": "The rickshaw slows over the bump and continues across the street; the metaphor does not become a total roadblock.",
+      "style": "Compared with ref_075_preference_speed_bump.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The rickshaw slows over the bump and continues across the street; the metaphor does not become a total roadblock. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The rickshaw slows over the bump and continues across the street; the metaphor does not become a total roadblock. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 561.0 to 565.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-106",
+      "meaning": "Blue chapter seven yields to guide, calendar and cracked excuse shield; the calm-preparation heading remains clear.",
+      "style": "Compared with ref_077_excuse_shield_calendar.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Blue chapter seven yields to guide, calendar and cracked excuse shield; the calm-preparation heading remains clear. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Blue chapter seven yields to guide, calendar and cracked excuse shield; the calm-preparation heading remains clear. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 565.0 to 570.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-107",
+      "meaning": "Task blocks move through a common conveyor while mental and physical work labels remain visible above it.",
+      "style": "Compared with ref_078_task_conveyor.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Task blocks move through a common conveyor while mental and physical work labels remain visible above it. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Task blocks move through a common conveyor while mental and physical work labels remain visible above it. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 570.0 to 579.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-108",
+      "meaning": "The red strike targets if and the when word settles separately; no specific date is invented.",
+      "style": "Compared with ref_079_if_to_when_stamp.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The red strike targets if and the when word settles separately; no specific date is invented. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The red strike targets if and the when word settles separately; no specific date is invented. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 579.0 to 583.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-109",
+      "meaning": "The hammock stays a deliberate quiet hold; the unattended device reinforces complacency rather than an attacking AI.",
+      "style": "Compared with ref_080_relaxed_hammock.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The hammock stays a deliberate quiet hold; the unattended device reinforces complacency rather than an attacking AI. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The hammock stays a deliberate quiet hold; the unattended device reinforces complacency rather than an attacking AI. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 583.0 to 589.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-110",
+      "meaning": "Selected audit tiles turn blue beside the guide's workstation; the remaining tasks stay cream for further assessment.",
+      "style": "Compared with ref_081_self_audit_laptop.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Selected audit tiles turn blue beside the guide's workstation; the remaining tasks stay cream for further assessment. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Selected audit tiles turn blue beside the guide's workstation; the remaining tasks stay cream for further assessment. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 589.0 to 596.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-111",
+      "meaning": "The still-human tiles receive red emphasis while completed AI tiles remain; the guide and task grouping preserve continuity.",
+      "style": "Compared with ref_082_ai_human_task_blocks.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The still-human tiles receive red emphasis while completed AI tiles remain; the guide and task grouping preserve continuity. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The still-human tiles receive red emphasis while completed AI tiles remain; the guide and task grouping preserve continuity. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 596.0 to 604.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-112",
+      "meaning": "Three review calendars appear sequentially; the changed task colours preserve the idea of recurring reassessment.",
+      "style": "Compared with ref_083_repeat_audit_calendar.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "Three review calendars appear sequentially; the changed task colours preserve the idea of recurring reassessment. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "Three review calendars appear sequentially; the changed task colours preserve the idea of recurring reassessment. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 604.0 to 613.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-113",
+      "meaning": "The guide returns to the same tea-stall street with an invitation card; no fabricated viewer reply appears.",
+      "style": "Compared with ref_084_street_comment_box.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The guide returns to the same tea-stall street with an invitation card; no fabricated viewer reply appears. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The guide returns to the same tea-stall street with an invitation card; no fabricated viewer reply appears. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 613.0 to 621.0 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-114",
+      "meaning": "The friend gestures toward the guide's phone in the familiar street; the picture holds through the supplied one-second transcript gap.",
+      "style": "Compared with ref_085_street_tech_friend.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The friend gestures toward the guide's phone in the familiar street; the picture holds through the supplied one-second transcript gap. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The friend gestures toward the guide's phone in the familiar street; the picture holds through the supplied one-second transcript gap. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 621.0 to 631 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    },
+    {
+      "id": "line-115",
+      "meaning": "The cream/red closing question holds through the audio tail; provenance text avoids inventing missing source citations.",
+      "style": "Compared with ref_086_dark_sources_endcard.jpg: flat restricted palette, narrow silhouettes and grounded or explicitly diagrammatic staging; reconstruction differences disclosed.",
+      "motion": "The cream/red closing question holds through the audio tail; provenance text avoids inventing missing source citations. Motion warnings, where present, reviewed as restrained action or a reading hold.",
+      "contact": "The cream/red closing question holds through the audio tail; provenance text avoids inventing missing source citations. Inspected visible hands, supported furniture and attached props at the three sampled phases.",
+      "timing": "Reviewed at cue boundaries 631.0 to 637.257143 seconds; supplied editorial timecodes retained, speech alignment unverified.",
+      "approved": true,
+      "unresolved": []
+    }
+  ],
+  "htmlSha256": "df4925f5e870df8e561381839a3c515953085aa9cb7950445257df16acce69c9"
+}

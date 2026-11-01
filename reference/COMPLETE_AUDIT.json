@@ -1,0 +1,61 @@
+{
+  "image_folders": [
+    {
+      "source": "/home/mint/Downloads/turag/video2_images",
+      "recursive_files": 19115,
+      "decoded_images": 19115,
+      "dimensions": {
+        "1280x720": 19115
+      },
+      "errors": [],
+      "overview_images": 160,
+      "overview_sheets": 7
+    },
+    {
+      "source": "/home/mint/Downloads/turag/frames",
+      "recursive_files": 341,
+      "decoded_images": 341,
+      "dimensions": {
+        "1920x1080": 341
+      },
+      "errors": [],
+      "overview_images": 341,
+      "overview_sheets": 15
+    }
+  ],
+  "video_sources": [
+    {
+      "source": "/home/mint/Downloads/turag/video.mp4",
+      "source_sha256": "15b64b3e55ba5c5ab9bd34e8256f85984a0d065679af4d389be5dd405685e774",
+      "source_width": 1920,
+      "source_height": 1080,
+      "decoded_frames": 10243,
+      "duration": 341.461,
+      "audio_streams": 1,
+      "atlas_sheets": 103,
+      "overview_sheets": 6
+    },
+    {
+      "source": "/home/mint/Downloads/turag/video2.mp4",
+      "source_sha256": "be170dea538a878a45fe9ffa0f2b9dde904ae8a34d1a00a7a0b17e116f94e20b",
+      "source_width": 1280,
+      "source_height": 720,
+      "decoded_frames": 19115,
+      "duration": 637.166667,
+      "audio_streams": 0,
+      "atlas_sheets": 192,
+      "overview_sheets": 11
+    }
+  ],
+  "total_image_files_checked": 19456,
+  "total_video_frames_decoded": 29358,
+  "visual_coverage": "All 341 other-video stills reviewed in 15 sheets. 160 image-folder samples from video2 reviewed in 7 sheets, alongside earlier exact-PTS video2 overview review. Video1 chronological stills cover the whole duration, supplemented by exact-PTS overview checks. Every-frame computational decoding is separate from visual sample review.",
+  "toolkit_decisions": [
+    "Director contract: only timestamped script and audio from user",
+    "Reference knowledge with per-family evidence",
+    "Shared style and recurring cast lock",
+    "Independent props, custom vectors, camera and object keyframes",
+    "Authored-plan build gate instead of silently accepting keyword drafts",
+    "42 registered props smoke-rendered; guide identity and deterministic novel-scene test passed"
+  ]
+}

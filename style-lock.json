@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "designSpace": [960,540],
+  "palette": {"paper":"#E9E4D2","ink":"#12141C","red":"#FF3D17","blue":"#2F3BFF","slate":"#4A4D63","green":"#216E50"},
+  "fonts": {"headline":"Anek Bangla","subtitle":"Hind Siliguri","metadata":"Space Mono"},
+  "cast": {"guide":{"role":"guide","variant":0,"top":"#FF3D17","trousers":"#272A3A","identityMustPersist":true},"extras":{"faceless":true,"clothingVariants":true,"visorRequired":false}},
+  "composition": {"safeArtArea":[54,85,906,465],"subtitleBand":[485,518],"defaultBaseline":455,"worldCameraExcludesChrome":true},
+  "material": {"flatFills":true,"seededPaper":true,"restrainedHalftone":true,"hardOffsetCardShadows":true},
+  "directorMayDecide": ["new props","setting","layout","pose","camera move","action timing","which script words to emphasize","shot continuity"],
+  "directorMustPreserve": ["cast identity","palette roles","slender character silhouettes","font hierarchy","publishing chrome","subtitle wording","script numbers and uncertainty"],
+  "reject": ["generic card for every line","substituting an orb for every unseen noun","unmotivated floating props","photorealistic or glossy 3D additions","changing guide hair or clothing between lines","resetting an established place without narrative reason"],
+  "evidence": ["09_REFERENCE_KNOWLEDGE.md","reference/folder_audit/","reference/analysis/scene_stills/"],
+  "status": "Reference-informed reconstruction targets, not recovered original source parameters."
+}

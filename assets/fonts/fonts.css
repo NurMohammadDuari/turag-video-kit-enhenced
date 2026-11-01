@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Anek Bangla';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: condensed;
+  font-display: block;
+  src: url(AnekBangla-800.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 600;
+  font-display: block;
+  src: url(HindSiliguri-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(SpaceMono-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+  src: url(SpaceMono-700.ttf) format('truetype');
+}

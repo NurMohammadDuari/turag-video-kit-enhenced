@@ -1,0 +1,295 @@
+{
+  "html": "/home/mint/Desktop/turag-video-kit/engine/Turag_Research_Revision.html",
+  "beats": [
+    {
+      "id": "line-001",
+      "times": [
+        0.08,
+        2,
+        3.92
+      ],
+      "files": [
+        "001-start.jpg",
+        "001-peak.jpg",
+        "001-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "001-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-002",
+      "times": [
+        4.08,
+        7,
+        9.92
+      ],
+      "files": [
+        "002-start.jpg",
+        "002-peak.jpg",
+        "002-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "002-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-003",
+      "times": [
+        10.08,
+        11.5,
+        12.92
+      ],
+      "files": [
+        "003-start.jpg",
+        "003-peak.jpg",
+        "003-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "003-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-004",
+      "times": [
+        13.08,
+        15,
+        16.92
+      ],
+      "files": [
+        "004-start.jpg",
+        "004-peak.jpg",
+        "004-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "004-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-005",
+      "times": [
+        17.08,
+        18.5,
+        19.92
+      ],
+      "files": [
+        "005-start.jpg",
+        "005-peak.jpg",
+        "005-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "005-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0154.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-006",
+      "times": [
+        20.08,
+        24,
+        27.92
+      ],
+      "files": [
+        "006-start.jpg",
+        "006-peak.jpg",
+        "006-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "006-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-007",
+      "times": [
+        28.08,
+        30,
+        31.92
+      ],
+      "files": [
+        "007-start.jpg",
+        "007-peak.jpg",
+        "007-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "007-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0199.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-008",
+      "times": [
+        32.08,
+        34,
+        35.92
+      ],
+      "files": [
+        "008-start.jpg",
+        "008-peak.jpg",
+        "008-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "008-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0199.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-009",
+      "times": [
+        36.08,
+        37.5,
+        38.92
+      ],
+      "files": [
+        "009-start.jpg",
+        "009-peak.jpg",
+        "009-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "009-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0009.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-010",
+      "times": [
+        39.08,
+        40,
+        40.92
+      ],
+      "files": [
+        "010-start.jpg",
+        "010-peak.jpg",
+        "010-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "010-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0300.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-011",
+      "times": [
+        41.08,
+        43.5,
+        45.92
+      ],
+      "files": [
+        "011-start.jpg",
+        "011-peak.jpg",
+        "011-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "011-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0067.jpg"
+        },
+        {
+          "file": "011-reference-2.jpg",
+          "source": "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-012",
+      "times": [
+        46.08,
+        47.5,
+        48.92
+      ],
+      "files": [
+        "012-start.jpg",
+        "012-peak.jpg",
+        "012-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "012-reference-1.jpg",
+          "source": "reference/folder_audit/frames/fullsize/f_0159.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-013",
+      "times": [
+        49.08,
+        50.5,
+        51.92
+      ],
+      "files": [
+        "013-start.jpg",
+        "013-peak.jpg",
+        "013-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "013-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-014",
+      "times": [
+        52.08,
+        53.5,
+        54.92
+      ],
+      "files": [
+        "014-start.jpg",
+        "014-peak.jpg",
+        "014-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "014-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+        }
+      ]
+    },
+    {
+      "id": "line-015",
+      "times": [
+        55.08,
+        57.5,
+        59.92
+      ],
+      "files": [
+        "015-start.jpg",
+        "015-peak.jpg",
+        "015-end.jpg"
+      ],
+      "references": [
+        {
+          "file": "015-reference-1.jpg",
+          "source": "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+        }
+      ]
+    }
+  ],
+  "browserErrors": []
+}

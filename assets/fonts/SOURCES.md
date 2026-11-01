@@ -1,0 +1,1 @@
+Fonts retrieved from Google Fonts 2026-10-30. Anek Bangla 800 condensed, Hind Siliguri 600, Space Mono 400/700. License: SIL OFL; see included license files. Source: https://github.com/google/fonts/tree/main/ofl

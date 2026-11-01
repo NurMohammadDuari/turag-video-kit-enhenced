@@ -1,0 +1,14 @@
+{
+  "duration_s": 637.257143,
+  "method": "ffmpeg_silencedetect",
+  "threshold_db": -35,
+  "minimum_s": 0.3,
+  "warning": "Acoustic silence candidates only; not sentence or word alignment.",
+  "pauses": [
+    {
+      "start": 636.828,
+      "end": 637.225,
+      "dur": 0.397
+    }
+  ]
+}

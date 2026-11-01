@@ -1,0 +1,2968 @@
+{
+  "version": 2,
+  "id": "ep02-first-minute",
+  "title": "আপনার চাকরি কি আসলেই সেফ? · প্রথম ১ মিনিট",
+  "duration": 60,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "audio": "audio/ep02_first_minute.mp3",
+  "script": "script/ep02.md",
+  "timing": {
+    "method": "user_supplied_timecodes",
+    "verified": false,
+    "note": "Timecodes are supplied editorial cues, not independently forced-aligned to speech."
+  },
+  "cues": [
+    {
+      "t0": 0.0,
+      "t1": 4.0,
+      "text": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ?",
+      "kind": "card"
+    },
+    {
+      "t0": 4.0,
+      "t1": 10.0,
+      "text": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।"
+    },
+    {
+      "t0": 10.0,
+      "t1": 13.0,
+      "text": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।"
+    },
+    {
+      "t0": 13.0,
+      "t1": 17.0,
+      "text": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।"
+    },
+    {
+      "t0": 17.0,
+      "t1": 20.0,
+      "text": "আর এইটা একা মাইক্রোসফটের গল্প না।"
+    },
+    {
+      "t0": 20.0,
+      "t1": 28.0,
+      "text": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।"
+    },
+    {
+      "t0": 28.0,
+      "t1": 32.0,
+      "text": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।"
+    },
+    {
+      "t0": 32.0,
+      "t1": 36.0,
+      "text": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।"
+    },
+    {
+      "t0": 36.0,
+      "t1": 39.0,
+      "text": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\""
+    },
+    {
+      "t0": 39.0,
+      "t1": 41.0,
+      "text": "আসলেই? চলেন, একটু দেখি।"
+    },
+    {
+      "t0": 41.0,
+      "t1": 46.0,
+      "text": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।"
+    },
+    {
+      "t0": 46.0,
+      "t1": 49.0,
+      "text": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।"
+    },
+    {
+      "t0": 49.0,
+      "t1": 52.0,
+      "text": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?"
+    },
+    {
+      "t0": 52.0,
+      "t1": 55.0,
+      "text": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?"
+    },
+    {
+      "t0": 55.0,
+      "t1": 60,
+      "text": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।"
+    }
+  ],
+  "beats": [
+    {
+      "id": "line-001",
+      "t0": 0,
+      "t1": 4.0,
+      "scene": "compose",
+      "cueIndex": 0,
+      "scriptLine": "(টাইটেল কার্ড): আপনার চাকরি কি আসলেই সেফ?",
+      "visualIntent": "Open inside a dense working night office; the headline asks whether the viewer’s job is safe while the workplace remains active behind it.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "night",
+        "floor": false,
+        "objects": [
+          {
+            "type": "office_windowwall",
+            "x": 480,
+            "y": 455,
+            "z": -20,
+            "id": "opening-0-0",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": -15,
+            "y": 355,
+            "s": 0.93,
+            "variant": 0,
+            "z": -5,
+            "id": "opening-0-1",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 126,
+            "y": 355,
+            "s": 0.93,
+            "variant": 1,
+            "z": -5,
+            "id": "opening-0-2",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 267,
+            "y": 355,
+            "s": 0.93,
+            "variant": 2,
+            "z": -5,
+            "id": "opening-0-3",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 408,
+            "y": 355,
+            "s": 0.93,
+            "variant": 3,
+            "z": -5,
+            "id": "opening-0-4",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 549,
+            "y": 355,
+            "s": 0.93,
+            "variant": 4,
+            "z": -5,
+            "id": "opening-0-5",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 690,
+            "y": 355,
+            "s": 0.93,
+            "variant": 5,
+            "z": -5,
+            "id": "opening-0-6",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 831,
+            "y": 355,
+            "s": 0.93,
+            "variant": 6,
+            "z": -5,
+            "id": "opening-0-7",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 972,
+            "y": 355,
+            "s": 0.93,
+            "variant": 7,
+            "z": -5,
+            "id": "opening-0-8",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 30,
+            "y": 461,
+            "s": 1.1,
+            "variant": 1,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-9",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 196,
+            "y": 461,
+            "s": 1.1,
+            "variant": 2,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-10",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 362,
+            "y": 461,
+            "s": 1.1,
+            "variant": 3,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-11",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 528,
+            "y": 461,
+            "s": 1.1,
+            "variant": 4,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-12",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 694,
+            "y": 461,
+            "s": 1.1,
+            "variant": 5,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-13",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 860,
+            "y": 461,
+            "s": 1.1,
+            "variant": 6,
+            "z": -2,
+            "color": "#9B9DAE",
+            "id": "opening-0-14",
+            "enter": 0,
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 57,
+            "y": 143,
+            "text": "আপনার চাকরি কি",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 760,
+            "color": "#E9E4D2",
+            "revealFrom": 35,
+            "id": "opening-0-15",
+            "enter": 0
+          },
+          {
+            "type": "label",
+            "x": 57,
+            "y": 218,
+            "text": "আসলেই",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 320,
+            "color": "#E9E4D2",
+            "enter": 0.12,
+            "revealFrom": 35,
+            "id": "opening-0-16"
+          },
+          {
+            "type": "label",
+            "x": 305,
+            "y": 218,
+            "text": "সেফ?",
+            "align": "left",
+            "size": 65,
+            "maxWidth": 240,
+            "color": "#FF3D17",
+            "enter": 0.25,
+            "revealFrom": 35,
+            "id": "opening-0-17"
+          }
+        ],
+        "links": [],
+        "camera": {
+          "x": 480,
+          "y": 270,
+          "zoom": 1,
+          "keyframes": [
+            {
+              "at": 0,
+              "zoom": 1.02
+            },
+            {
+              "at": 4,
+              "zoom": 1
+            }
+          ]
+        }
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_001_night_office_title.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "night office retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "viewer"
+        ],
+        "action": "questions job safety",
+        "setting": "night office",
+        "facts": [
+          "title question"
+        ],
+        "relationship": "title question",
+        "tone": "uneasy",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on viewer.",
+          "Abstract evidence diagram for title question."
+        ],
+        "mechanism": "editorial title inside a working office",
+        "composition": "headline occupies negative space above two active desk rows",
+        "visibleChange": "title resolves from cream to red question word",
+        "actionPeak": "all monitors and workers establish a functioning workplace",
+        "cameraPurpose": "slow settle from title to evidence",
+        "transition": "hard cut to dated offer",
+        "why": "The threatened subject is visible before the argument begins."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_001_night_office_title.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "আপনার চাকরি কি",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "আসলেই",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "সেফ?",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "questions job safety",
+        "motivation": "The threatened subject is visible before the argument begins.",
+        "anticipation": "viewer orient head and weight toward the acting object before contact.",
+        "contact": "all monitors and workers establish a functioning workplace; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "all monitors and workers establish a functioning workplace",
+        "followThrough": "The action settles with a readable hold before hard cut to dated offer.",
+        "secondaryMotion": "night office uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "slow settle from title to evidence supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes night office with readable subject hierarchy.",
+        "middle": "Action peak checked: all monitors and workers establish a functioning workplace.",
+        "end": "Final hold leaves the narrated relationship legible before hard cut to dated offer.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-002",
+      "t0": 4.0,
+      "t1": 10.0,
+      "scene": "compose",
+      "cueIndex": 1,
+      "scriptLine": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে।",
+      "visualIntent": "২৬ অক্টোবর। মাইক্রোসফট তাদের প্রায় ৬০ হাজার কর্মীকে একটা অফার দিছে। | A dated offer arrives on the personnel desk; the worker reaches toward the letter.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "calendar",
+            "x": 200,
+            "y": 330,
+            "scale": 1.45,
+            "text": "২৬",
+            "label": "অক্টোবর",
+            "id": "s1-0",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 525,
+            "y": 145,
+            "text": "মাইক্রোসফট",
+            "size": 36,
+            "id": "s1-1",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 525,
+            "y": 185,
+            "text": "প্রায় ৬০ হাজার কর্মীকে অফার",
+            "size": 25,
+            "id": "s1-2",
+            "instant": true
+          },
+          {
+            "type": "window",
+            "x": 735,
+            "y": 310,
+            "w": 180,
+            "h": 100,
+            "id": "s1-3",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 455,
+            "y": 455,
+            "h": 185,
+            "variant": 0,
+            "action": "take",
+            "rightHandFrames": [
+              [
+                0,
+                0.32,
+                -0.5
+              ],
+              [
+                1,
+                0.27,
+                -0.67
+              ],
+              [
+                3,
+                0.28,
+                -0.65
+              ],
+              [
+                6,
+                0.28,
+                -0.65
+              ]
+            ],
+            "id": "s1-4",
+            "instant": true
+          },
+          {
+            "type": "desk",
+            "x": 580,
+            "y": 455,
+            "monitor": false,
+            "scale": 1.3,
+            "id": "s1-5",
+            "instant": true
+          },
+          {
+            "type": "offer_letter",
+            "x": 17,
+            "y": 2,
+            "scale": 0.55,
+            "attachTo": "s1-4",
+            "hand": "right",
+            "z": 5,
+            "id": "s1-6",
+            "instant": true
+          },
+          {
+            "type": "filing_cabinet",
+            "x": 790,
+            "y": 455,
+            "scale": 0.7,
+            "id": "s1-7",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "personnel office retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "Microsoft and worker"
+        ],
+        "action": "worker receives a dated offer",
+        "setting": "personnel office",
+        "facts": [
+          "26 October; about 60 thousand"
+        ],
+        "relationship": "26 October; about 60 thousand",
+        "tone": "factual",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on Microsoft and worker.",
+          "Abstract evidence diagram for 26 October; about 60 thousand."
+        ],
+        "mechanism": "grounded offer handoff",
+        "composition": "large calendar anchors left while worker and letter anchor center",
+        "visibleChange": "letter settles into the worker hand",
+        "actionPeak": "hand closes on the offer beside the dated calendar",
+        "cameraPurpose": "static evidence framing",
+        "transition": "cut closer to exchange desk",
+        "why": "Date, company and offer are read in one glance."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_002_night_office_offer.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "২৬",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "অক্টোবর",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "মাইক্রোসফট",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "প্রায় ৬০ হাজার কর্মীকে অফার",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "২৬",
+          "basis": "script",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "৬০ ",
+          "basis": "script",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "worker receives a dated offer",
+        "motivation": "Date, company and offer are read in one glance.",
+        "anticipation": "Microsoft and worker orient head and weight toward the acting object before contact.",
+        "contact": "hand closes on the offer beside the dated calendar; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "hand closes on the offer beside the dated calendar",
+        "followThrough": "The action settles with a readable hold before cut closer to exchange desk.",
+        "secondaryMotion": "personnel office uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "static evidence framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes personnel office with readable subject hierarchy.",
+        "middle": "Action peak checked: hand closes on the offer beside the dated calendar.",
+        "end": "Final hold leaves the narrated relationship legible before cut closer to exchange desk.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-003",
+      "t0": 10.0,
+      "t1": 13.0,
+      "scene": "compose",
+      "cueIndex": 2,
+      "scriptLine": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন।",
+      "visualIntent": "অফারটা সিম্পল: টাকা নেন, চাকরি ছাড়েন। | Show an exit payment moving across the desk between employer and worker, with an exit door beyond.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "exit_door",
+            "x": 780,
+            "y": 455,
+            "id": "s2-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 320,
+            "y": 455,
+            "h": 200,
+            "role": "extra",
+            "variant": 3,
+            "action": "explain",
+            "id": "s2-1",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 515,
+            "y": 455,
+            "h": 200,
+            "role": "extra",
+            "variant": 0,
+            "dir": -1,
+            "action": "take",
+            "rightHandFrames": [
+              [
+                0,
+                0.4,
+                -0.56
+              ],
+              [
+                0.9,
+                0.32,
+                -0.57
+              ],
+              [
+                1.6,
+                0.26,
+                -0.67
+              ],
+              [
+                3,
+                0.26,
+                -0.67
+              ]
+            ],
+            "id": "s2-2",
+            "instant": true
+          },
+          {
+            "type": "desk",
+            "x": 425,
+            "y": 455,
+            "monitor": false,
+            "scale": 1.6,
+            "id": "s2-3",
+            "instant": true
+          },
+          {
+            "type": "cash_packet",
+            "x": -12,
+            "y": -4,
+            "scale": 0.6,
+            "attachTo": "s2-2",
+            "hand": "right",
+            "z": 5,
+            "id": "s2-4",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 440,
+            "y": 165,
+            "text": "টাকা নেন → চাকরি ছাড়েন",
+            "size": 36,
+            "id": "s2-5",
+            "instant": true
+          },
+          {
+            "type": "envelope",
+            "x": 402,
+            "y": 344.6,
+            "scale": 0.45,
+            "id": "s2-6",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_002_night_office_offer.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "exit desk retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "employer and worker"
+        ],
+        "action": "money is exchanged for departure",
+        "setting": "exit desk",
+        "facts": [
+          "take money and leave job"
+        ],
+        "relationship": "take money and leave job",
+        "tone": "blunt",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on employer and worker.",
+          "Abstract evidence diagram for take money and leave job."
+        ],
+        "mechanism": "physical exchange",
+        "composition": "two people face across one desk with exit door beyond",
+        "visibleChange": "cash reaches the worker while resignation envelope stays on desk",
+        "actionPeak": "cash packet meets the receiving wrist",
+        "cameraPurpose": "locked bilateral framing",
+        "transition": "cut to abstract headcount",
+        "why": "The line becomes an unmistakable transaction and consequence."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_002_night_office_offer.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "টাকা নেন → চাকরি ছাড়েন",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "money is exchanged for departure",
+        "motivation": "The line becomes an unmistakable transaction and consequence.",
+        "anticipation": "employer and worker orient head and weight toward the acting object before contact.",
+        "contact": "cash packet meets the receiving wrist; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "cash packet meets the receiving wrist",
+        "followThrough": "The action settles with a readable hold before cut to abstract headcount.",
+        "secondaryMotion": "exit desk uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "locked bilateral framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes exit desk with readable subject hierarchy.",
+        "middle": "Action peak checked: cash packet meets the receiving wrist.",
+        "end": "Final hold leaves the narrated relationship legible before cut to abstract headcount.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-004",
+      "t0": 13.0,
+      "t1": 17.0,
+      "scene": "compose",
+      "cueIndex": 3,
+      "scriptLine": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।",
+      "visualIntent": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ। | A literal 100-person diagram highlights 25 positions; guide points to the quarter, without recycling the office.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "workforce_card",
+            "x": 550,
+            "y": 430,
+            "scale": 1.08,
+            "id": "s3-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 240,
+            "y": 455,
+            "h": 190,
+            "role": "guide",
+            "action": "explain",
+            "id": "s3-1",
+            "instant": true,
+            "castId": "guide"
+          },
+          {
+            "type": "label",
+            "x": 280,
+            "y": 185,
+            "text": "প্রায় ৬০ হাজার",
+            "size": 35,
+            "id": "s3-2",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_003_office_headcount_card.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "headcount diagram retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "guide and workforce"
+        ],
+        "action": "guide reveals one quarter of the company",
+        "setting": "headcount diagram",
+        "facts": [
+          "60 thousand is about one quarter"
+        ],
+        "relationship": "60 thousand is about one quarter",
+        "tone": "explanatory",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on guide and workforce.",
+          "Abstract evidence diagram for 60 thousand is about one quarter."
+        ],
+        "mechanism": "literal proportion grid",
+        "composition": "guide stands beside a hundred-person card",
+        "visibleChange": "twenty-five figures separate in vermilion",
+        "actionPeak": "guide points at the highlighted quarter",
+        "cameraPurpose": "balanced guide and data framing",
+        "transition": "expand outward to multiple companies",
+        "why": "Literal geometry protects the numerical relationship."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_003_office_headcount_card.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "প্রায় ৬০ হাজার",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "৬০ ",
+          "basis": "script",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "guide reveals one quarter of the company",
+        "motivation": "Literal geometry protects the numerical relationship.",
+        "anticipation": "guide and workforce orient head and weight toward the acting object before contact.",
+        "contact": "guide points at the highlighted quarter; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "guide points at the highlighted quarter",
+        "followThrough": "The action settles with a readable hold before expand outward to multiple companies.",
+        "secondaryMotion": "headcount diagram uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "balanced guide and data framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes headcount diagram with readable subject hierarchy.",
+        "middle": "Action peak checked: guide points at the highlighted quarter.",
+        "end": "Final hold leaves the narrated relationship legible before expand outward to multiple companies.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-005",
+      "t0": 17.0,
+      "t1": 20.0,
+      "scene": "compose",
+      "cueIndex": 4,
+      "scriptLine": "আর এইটা একা মাইক্রোসফটের গল্প না।",
+      "visualIntent": "আর এইটা একা মাইক্রোসফটের গল্প না। | Four different company frontages and departing workers expand the story beyond Microsoft.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "city",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "building",
+            "x": 180,
+            "y": 455,
+            "h": 190,
+            "label": "কোম্পানি",
+            "enter": 0.0,
+            "id": "s4-0",
+            "instant": true
+          },
+          {
+            "type": "building",
+            "x": 380,
+            "y": 455,
+            "h": 250,
+            "label": "কোম্পানি",
+            "enter": 0.15,
+            "id": "s4-1",
+            "instant": false
+          },
+          {
+            "type": "building",
+            "x": 580,
+            "y": 455,
+            "h": 190,
+            "label": "কোম্পানি",
+            "enter": 0.3,
+            "id": "s4-2",
+            "instant": false
+          },
+          {
+            "type": "building",
+            "x": 780,
+            "y": 455,
+            "h": 250,
+            "label": "কোম্পানি",
+            "enter": 0.44999999999999996,
+            "id": "s4-3",
+            "instant": false
+          },
+          {
+            "type": "person",
+            "x": 135,
+            "y": 455,
+            "h": 105,
+            "variant": 0,
+            "pose": "walk",
+            "action": "carry",
+            "motion": {
+              "kind": "walk",
+              "speed": 18
+            },
+            "phase": 0,
+            "id": "s4-4",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 330,
+            "y": 455,
+            "h": 105,
+            "variant": 1,
+            "pose": "walk",
+            "action": "carry",
+            "motion": {
+              "kind": "walk",
+              "speed": 18
+            },
+            "phase": 1,
+            "id": "s4-5",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 525,
+            "y": 455,
+            "h": 105,
+            "variant": 2,
+            "pose": "walk",
+            "action": "carry",
+            "motion": {
+              "kind": "walk",
+              "speed": 18
+            },
+            "phase": 2,
+            "id": "s4-6",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 720,
+            "y": 455,
+            "h": 105,
+            "variant": 3,
+            "pose": "walk",
+            "action": "carry",
+            "motion": {
+              "kind": "walk",
+              "speed": 18
+            },
+            "phase": 3,
+            "id": "s4-7",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 480,
+            "y": 155,
+            "text": "একটি কোম্পানির গল্প নয়",
+            "size": 37,
+            "id": "s4-8",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0154.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "city institutions retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "workers across companies"
+        ],
+        "action": "workers leave several employers",
+        "setting": "city institutions",
+        "facts": [
+          "not Microsoft alone"
+        ],
+        "relationship": "not Microsoft alone",
+        "tone": "expanding",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on workers across companies.",
+          "Abstract evidence diagram for not Microsoft alone."
+        ],
+        "mechanism": "institution row with departures",
+        "composition": "four varied buildings share one baseline",
+        "visibleChange": "box-carrying workers cross different doors",
+        "actionPeak": "departures occur across the whole row",
+        "cameraPurpose": "wide lateral observation",
+        "transition": "cut to national report board",
+        "why": "Breadth is shown by multiple employers rather than repeated text."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0154.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "কোম্পানি",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "কোম্পানি",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "কোম্পানি",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "কোম্পানি",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "একটি কোম্পানির গল্প নয়",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "workers leave several employers",
+        "motivation": "Breadth is shown by multiple employers rather than repeated text.",
+        "anticipation": "workers across companies orient head and weight toward the acting object before contact.",
+        "contact": "departures occur across the whole row; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "departures occur across the whole row",
+        "followThrough": "The action settles with a readable hold before cut to national report board.",
+        "secondaryMotion": "city institutions uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "wide lateral observation supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes city institutions with readable subject hierarchy.",
+        "middle": "Action peak checked: departures occur across the whole row.",
+        "end": "Final hold leaves the narrated relationship legible before cut to national report board.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-006",
+      "t0": 20.0,
+      "t1": 28.0,
+      "scene": "compose",
+      "cueIndex": 5,
+      "scriptLine": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।",
+      "visualIntent": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে। | A report fills with the narrated US total and named AI cause; a rising counter is evidence, not a repeated street walk.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "report_board",
+            "x": 485,
+            "y": 425,
+            "id": "s5-0",
+            "instant": true
+          },
+          {
+            "type": "count_number",
+            "x": 460,
+            "y": 300,
+            "to": 120000,
+            "seconds": 2.4,
+            "label": "আমেরিকা · প্রথম ৯ মাস",
+            "w": 330,
+            "size": 70,
+            "id": "s5-1",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 475,
+            "y": 330,
+            "text": "ছাঁটাইয়ের কারণ হিসেবে এআই",
+            "size": 25,
+            "color": "#2F3BFF",
+            "id": "s5-2",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 175,
+            "y": 455,
+            "h": 175,
+            "role": "guide",
+            "action": "explain",
+            "id": "s5-3",
+            "instant": true,
+            "castId": "guide"
+          },
+          {
+            "type": "paper_stack",
+            "x": 780,
+            "y": 447,
+            "count": 16,
+            "id": "s5-4",
+            "instant": true
+          },
+          {
+            "type": "filing_cabinet",
+            "x": 850,
+            "y": 455,
+            "scale": 0.6,
+            "id": "s5-5",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_004_layoff_walkers_counter.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "evidence desk retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "guide and report"
+        ],
+        "action": "counter rises to the narrated US layoff total",
+        "setting": "evidence desk",
+        "facts": [
+          "first nine months; about 120 thousand; AI named"
+        ],
+        "relationship": "first nine months; about 120 thousand; AI named",
+        "tone": "evidentiary",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on guide and report.",
+          "Abstract evidence diagram for first nine months; about 120 thousand; AI named."
+        ],
+        "mechanism": "evidence report and counter",
+        "composition": "guide frames a large report with records at right",
+        "visibleChange": "counter climbs to 120000 and holds",
+        "actionPeak": "number resolves while AI-cause caption remains attached",
+        "cameraPurpose": "fixed evidence hierarchy",
+        "transition": "cut backward into archive",
+        "why": "The report format distinguishes evidence from a decorative statistic."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_004_layoff_walkers_counter.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "আমেরিকা · প্রথম ৯ মাস",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "ছাঁটাইয়ের কারণ হিসেবে এআই",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "৯ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "120000",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "16",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "counter rises to the narrated US layoff total",
+        "motivation": "The report format distinguishes evidence from a decorative statistic.",
+        "anticipation": "guide and report orient head and weight toward the acting object before contact.",
+        "contact": "number resolves while AI-cause caption remains attached; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "number resolves while AI-cause caption remains attached",
+        "followThrough": "The action settles with a readable hold before cut backward into archive.",
+        "secondaryMotion": "evidence desk uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "fixed evidence hierarchy supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes evidence desk with readable subject hierarchy.",
+        "middle": "Action peak checked: number resolves while AI-cause caption remains attached.",
+        "end": "Final hold leaves the narrated relationship legible before cut backward into archive.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-007",
+      "t0": 28.0,
+      "t1": 32.0,
+      "scene": "compose",
+      "cueIndex": 6,
+      "scriptLine": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো।",
+      "visualIntent": "পুরা ২০২৫ সালে এই সংখ্যা ছিল ৫৫ হাজারের মতো। | Open the previous-year archive and isolate its 55-thousand total before comparing years.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "calendar",
+            "x": 225,
+            "y": 320,
+            "text": "২০২৫",
+            "label": "পুরো বছর",
+            "scale": 1.3,
+            "id": "s6-0",
+            "instant": true
+          },
+          {
+            "type": "live_drawer",
+            "x": 770,
+            "y": 455,
+            "id": "s6-1",
+            "instant": true,
+            "keyframes": [
+              {
+                "at": 0,
+                "open": 0
+              },
+              {
+                "at": 0.55,
+                "open": 1
+              },
+              {
+                "at": 2.5,
+                "open": 1
+              }
+            ]
+          },
+          {
+            "type": "filing_cabinet",
+            "x": 855,
+            "y": 455,
+            "scale": 0.85,
+            "id": "s6-2",
+            "instant": true
+          },
+          {
+            "type": "report_board",
+            "x": 490,
+            "y": 418,
+            "scale": 0.7,
+            "id": "s6-3",
+            "instant": true
+          },
+          {
+            "type": "number",
+            "x": 485,
+            "y": 365,
+            "text": "৫৫ হাজার",
+            "label": "আগের পুরো বছরের হিসাব",
+            "w": 260,
+            "size": 54,
+            "id": "s6-4",
+            "instant": true,
+            "keyframes": [
+              {
+                "at": 0,
+                "opacity": 0,
+                "y": 390
+              },
+              {
+                "at": 0.65,
+                "opacity": 1,
+                "y": 365
+              }
+            ]
+          },
+          {
+            "type": "paper_stack",
+            "x": 690,
+            "y": 447,
+            "count": 8,
+            "id": "s6-5",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0199.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "records archive retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "archive records"
+        ],
+        "action": "previous full-year total is retrieved",
+        "setting": "records archive",
+        "facts": [
+          "2025; about 55 thousand"
+        ],
+        "relationship": "2025; about 55 thousand",
+        "tone": "measured",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on archive records.",
+          "Abstract evidence diagram for 2025; about 55 thousand."
+        ],
+        "mechanism": "archive retrieval",
+        "composition": "calendar and stored files surround a previous-year report",
+        "visibleChange": "the 55000 total is isolated from stored records",
+        "actionPeak": "previous-year number holds alone",
+        "cameraPurpose": "quiet archival framing",
+        "transition": "cut to shared-scale comparison",
+        "why": "The past total is established before using it in a ratio."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0199.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "২০২৫",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "পুরো বছর",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "৫৫ হাজার",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "আগের পুরো বছরের হিসাব",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "২০২৫",
+          "basis": "script",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "৫৫ ",
+          "basis": "script",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "8",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "previous full-year total is retrieved",
+        "motivation": "The past total is established before using it in a ratio.",
+        "anticipation": "archive records orient head and weight toward the acting object before contact.",
+        "contact": "previous-year number holds alone; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "previous-year number holds alone",
+        "followThrough": "The action settles with a readable hold before cut to shared-scale comparison.",
+        "secondaryMotion": "records archive uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "quiet archival framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes records archive with readable subject hierarchy.",
+        "middle": "Action peak checked: previous-year number holds alone.",
+        "end": "Final hold leaves the narrated relationship legible before cut to shared-scale comparison.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-008",
+      "t0": 32.0,
+      "t1": 36.0,
+      "scene": "compose",
+      "cueIndex": 7,
+      "scriptLine": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।",
+      "visualIntent": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি। | Two towers share a baseline and an exact 120000:55000 height ratio, revealing more than double in less time.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "stat_tower",
+            "x": 400,
+            "y": 430,
+            "w": 115,
+            "h": 110,
+            "text": "২০২৫ · ১২ মাস",
+            "keyframes": [
+              {
+                "at": 0,
+                "h": 2
+              },
+              {
+                "at": 0.8,
+                "h": 110
+              }
+            ],
+            "id": "s7-0",
+            "instant": true
+          },
+          {
+            "type": "stat_tower",
+            "x": 650,
+            "y": 430,
+            "w": 115,
+            "h": 240,
+            "text": "চলতি বছর · ৯ মাস",
+            "accent": true,
+            "keyframes": [
+              {
+                "at": 0,
+                "h": 2
+              },
+              {
+                "at": 1.4,
+                "h": 240
+              }
+            ],
+            "id": "s7-1",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 400,
+            "y": 294,
+            "text": "৫৫ হাজার",
+            "size": 25,
+            "id": "s7-2",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 650,
+            "y": 160,
+            "text": "১.২ লাখ",
+            "size": 32,
+            "id": "s7-3",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 220,
+            "y": 185,
+            "text": "দুই গুণের বেশি",
+            "size": 34,
+            "maxWidth": 270,
+            "id": "s7-4",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 170,
+            "y": 455,
+            "h": 155,
+            "role": "guide",
+            "action": "explain",
+            "id": "s7-5",
+            "instant": true,
+            "castId": "guide"
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0199.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "comparison stage retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "guide and two totals"
+        ],
+        "action": "same-scale towers expose the ratio",
+        "setting": "comparison stage",
+        "facts": [
+          "nine months exceeds twice the prior full year"
+        ],
+        "relationship": "nine months exceeds twice the prior full year",
+        "tone": "confronting",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on guide and two totals.",
+          "Abstract evidence diagram for nine months exceeds twice the prior full year."
+        ],
+        "mechanism": "shared-baseline towers",
+        "composition": "guide, short tower and tall tower read left to right",
+        "visibleChange": "both towers grow on one scale",
+        "actionPeak": "120000 tower settles above twice 55000 height",
+        "cameraPurpose": "wide comparison framing",
+        "transition": "cut to human belief on street",
+        "why": "Common baseline makes the relationship visible without invented data."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0199.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "২০২৫ · ১২ মাস",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "চলতি বছর · ৯ মাস",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "৫৫ হাজার",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "১.২ লাখ",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "দুই গুণের বেশি",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "২০২৫ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "১২ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "৯ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "৫৫ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "১",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        },
+        {
+          "value": "২ ",
+          "basis": "derived",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "same-scale towers expose the ratio",
+        "motivation": "Common baseline makes the relationship visible without invented data.",
+        "anticipation": "guide and two totals orient head and weight toward the acting object before contact.",
+        "contact": "120000 tower settles above twice 55000 height; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "120000 tower settles above twice 55000 height",
+        "followThrough": "The action settles with a readable hold before cut to human belief on street.",
+        "secondaryMotion": "comparison stage uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "wide comparison framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes comparison stage with readable subject hierarchy.",
+        "middle": "Action peak checked: 120000 tower settles above twice 55000 height.",
+        "end": "Final hold leaves the narrated relationship legible before cut to human belief on street.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-009",
+      "t0": 36.0,
+      "t1": 39.0,
+      "scene": "compose",
+      "cueIndex": 8,
+      "scriptLine": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\"",
+      "visualIntent": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\" | Guide raises a phone while making the quoted claim at the established street tea stall.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "street",
+        "floor": true,
+        "floorY": 465,
+        "objects": [
+          {
+            "type": "palm",
+            "x": 455,
+            "y": 370,
+            "scale": 0.8,
+            "id": "s8-0",
+            "instant": true
+          },
+          {
+            "type": "tea_stall",
+            "x": 770,
+            "y": 465,
+            "id": "s8-1",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 310,
+            "y": 465,
+            "h": 190,
+            "role": "guide",
+            "action": "phone",
+            "id": "s8-2",
+            "instant": true,
+            "castId": "guide"
+          },
+          {
+            "type": "person",
+            "x": 610,
+            "y": 465,
+            "h": 135,
+            "variant": 3,
+            "pose": "sit",
+            "action": "rest",
+            "id": "s8-3",
+            "instant": true
+          },
+          {
+            "type": "chat",
+            "x": 390,
+            "y": 230,
+            "text": "আমার কাজ এআই পারবে না।",
+            "scale": 1.2,
+            "id": "s8-4",
+            "instant": true
+          },
+          {
+            "type": "rickshaw",
+            "x": 90,
+            "y": 415,
+            "scale": 0.5,
+            "motion": {
+              "kind": "walk",
+              "speed": 25
+            },
+            "id": "s8-5",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0009.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "established street retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "guide"
+        ],
+        "action": "guide raises the quoted belief on his phone",
+        "setting": "established street",
+        "facts": [
+          "quote: my work cannot be done by AI"
+        ],
+        "relationship": "quote: my work cannot be done by AI",
+        "tone": "confident",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on guide.",
+          "Abstract evidence diagram for quote: my work cannot be done by AI."
+        ],
+        "mechanism": "established street claim",
+        "composition": "guide and speech card sit within tea-stall geography",
+        "visibleChange": "phone rises and quoted belief appears",
+        "actionPeak": "phone reaches eye line as claim holds",
+        "cameraPurpose": "stable street tableau",
+        "transition": "cut into claim detail",
+        "why": "A recurring human place grounds the belief as something people say."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0009.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "আমার কাজ এআই পারবে না।",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "guide raises the quoted belief on his phone",
+        "motivation": "A recurring human place grounds the belief as something people say.",
+        "anticipation": "guide orient head and weight toward the acting object before contact.",
+        "contact": "phone reaches eye line as claim holds; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "phone reaches eye line as claim holds",
+        "followThrough": "The action settles with a readable hold before cut into claim detail.",
+        "secondaryMotion": "established street uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "stable street tableau supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes established street with readable subject hierarchy.",
+        "middle": "Action peak checked: phone reaches eye line as claim holds.",
+        "end": "Final hold leaves the narrated relationship legible before cut into claim detail.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-010",
+      "t0": 39.0,
+      "t1": 41.0,
+      "scene": "compose",
+      "cueIndex": 9,
+      "scriptLine": "আসলেই? চলেন, একটু দেখি।",
+      "visualIntent": "আসলেই? চলেন, একটু দেখি। | Cut to a close evidence inspection: a magnifier travels over the claim, opening the question rather than replaying the street.",
+      "chapter": 1,
+      "chapterTitle": "চাকরি কি সেফ?",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "claim_evidence",
+            "x": 480,
+            "y": 390,
+            "id": "s9-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 245,
+            "y": 455,
+            "h": 185,
+            "role": "guide",
+            "action": "explain",
+            "id": "s9-1",
+            "instant": true,
+            "castId": "guide"
+          },
+          {
+            "type": "label",
+            "x": 480,
+            "y": 160,
+            "text": "আসলেই?",
+            "size": 65,
+            "color": "#FF3D17",
+            "id": "s9-2",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0300.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "evidence close-up retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "guide and claim"
+        ],
+        "action": "magnifier tests the confidence claim",
+        "setting": "evidence close-up",
+        "facts": [
+          "question rather than assertion"
+        ],
+        "relationship": "question rather than assertion",
+        "tone": "skeptical",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on guide and claim.",
+          "Abstract evidence diagram for question rather than assertion."
+        ],
+        "mechanism": "magnified claim inspection",
+        "composition": "guide faces a large claim card and moving lens",
+        "visibleChange": "lens crosses the claim text",
+        "actionPeak": "red lens rests over the confidence phrase",
+        "cameraPurpose": "close evidence framing",
+        "transition": "blue chapter reset",
+        "why": "Inspection turns the rhetorical question into a visual action."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0300.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "আসলেই?",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "magnifier tests the confidence claim",
+        "motivation": "Inspection turns the rhetorical question into a visual action.",
+        "anticipation": "guide and claim orient head and weight toward the acting object before contact.",
+        "contact": "red lens rests over the confidence phrase; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "red lens rests over the confidence phrase",
+        "followThrough": "The action settles with a readable hold before blue chapter reset.",
+        "secondaryMotion": "evidence close-up uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "close evidence framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes evidence close-up with readable subject hierarchy.",
+        "middle": "Action peak checked: red lens rests over the confidence phrase.",
+        "end": "Final hold leaves the narrated relationship legible before blue chapter reset.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-011",
+      "t0": 41.0,
+      "t1": 46.0,
+      "scene": "compose",
+      "cueIndex": 10,
+      "scriptLine": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে।",
+      "visualIntent": "আশেপাশে একটু শোনেন। সবার একটা না একটা অজুহাত আছে। | Three distinct professionals voice their own claims; this is a conversation, not three room templates. First 2.4 seconds preserve the blue chapter card and striped 02 from the reference, followed by the three professional claims.",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "person",
+            "x": 230,
+            "y": 455,
+            "h": 180,
+            "role": "doctor",
+            "variant": 0,
+            "action": "explain",
+            "phase": 0,
+            "enter": 2.4,
+            "id": "s10-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 480,
+            "y": 455,
+            "h": 180,
+            "role": "extra",
+            "variant": 1,
+            "action": "explain",
+            "phase": 1,
+            "enter": 2.6,
+            "id": "s10-1",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 730,
+            "y": 455,
+            "h": 180,
+            "role": "extra",
+            "variant": 2,
+            "action": "explain",
+            "phase": 2,
+            "enter": 2.8,
+            "id": "s10-2",
+            "instant": true
+          },
+          {
+            "type": "chat",
+            "x": 250,
+            "y": 255,
+            "text": "রোগী দেখা?",
+            "enter": 2.4,
+            "scale": 0.9,
+            "id": "s10-3",
+            "instant": true
+          },
+          {
+            "type": "chat",
+            "x": 500,
+            "y": 255,
+            "text": "বাচ্চা পড়ানো?",
+            "enter": 2.9,
+            "scale": 0.9,
+            "id": "s10-4",
+            "instant": false
+          },
+          {
+            "type": "chat",
+            "x": 750,
+            "y": 255,
+            "text": "সেলাই করা?",
+            "enter": 3.4,
+            "scale": 0.9,
+            "id": "s10-5",
+            "instant": false
+          },
+          {
+            "id": "chapter-02-card",
+            "type": "chapter_card",
+            "x": 0,
+            "y": 0,
+            "number": "০২",
+            "chapter": 2,
+            "total": 7,
+            "line1": "সবার একটা",
+            "line2": "অজুহাত",
+            "enter": 0,
+            "exit": 2.4,
+            "z": 100,
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0067.jpg",
+        "reference/analysis/scene_stills/ref_007_chapter_two_card.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "claim stage retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "doctor teacher garment worker"
+        ],
+        "action": "three people voice different excuses",
+        "setting": "claim stage",
+        "facts": [
+          "everyone has an excuse"
+        ],
+        "relationship": "everyone has an excuse",
+        "tone": "observational",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on doctor teacher garment worker.",
+          "Abstract evidence diagram for everyone has an excuse."
+        ],
+        "mechanism": "chapter reset then claim chorus",
+        "composition": "full blue chapter page yields to three spaced speakers",
+        "visibleChange": "chapter exits and claim cards appear in sequence",
+        "actionPeak": "third professional completes the chorus",
+        "cameraPurpose": "editorial reset then wide trio",
+        "transition": "cut into first profession room",
+        "why": "The chapter card preserves series identity before expanding the excuses."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0067.jpg.",
+        "Borrow staging, silhouette density, material and motion mechanism from ref_007_chapter_two_card.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "রোগী দেখা?",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "বাচ্চা পড়ানো?",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "সেলাই করা?",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "সবার একটা",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "অজুহাত",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        },
+        {
+          "text": "০২",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [
+        {
+          "value": "০২",
+          "basis": "editorial",
+          "explanation": "Value is supplied by the cue, derived from its stated relationship, or used as documented editorial identity."
+        }
+      ],
+      "animationPlan": {
+        "primaryAction": "three people voice different excuses",
+        "motivation": "The chapter card preserves series identity before expanding the excuses.",
+        "anticipation": "doctor teacher garment worker orient head and weight toward the acting object before contact.",
+        "contact": "third professional completes the chorus; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "third professional completes the chorus",
+        "followThrough": "The action settles with a readable hold before cut into first profession room.",
+        "secondaryMotion": "claim stage uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "editorial reset then wide trio supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes claim stage with readable subject hierarchy.",
+        "middle": "Action peak checked: third professional completes the chorus.",
+        "end": "Final hold leaves the narrated relationship legible before cut into first profession room.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-012",
+      "t0": 46.0,
+      "t1": 49.0,
+      "scene": "compose",
+      "cueIndex": 11,
+      "scriptLine": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।",
+      "visualIntent": "ডাক্তার বলে, রোগী দেখা এআই পারবে না। | In a dedicated ward, doctor raises a report beside a lying patient, articulating both arms.",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "window",
+            "x": 750,
+            "y": 310,
+            "w": 190,
+            "h": 135,
+            "id": "s11-0",
+            "instant": true
+          },
+          {
+            "type": "patient_bed",
+            "x": 565,
+            "y": 455,
+            "id": "s11-1",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 370,
+            "y": 455,
+            "h": 200,
+            "role": "doctor",
+            "action": "examine",
+            "id": "s11-2",
+            "instant": true
+          },
+          {
+            "type": "medical_stand",
+            "x": 730,
+            "y": 455,
+            "id": "s11-3",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 480,
+            "y": 155,
+            "text": "রোগী দেখা এআই পারবে না?",
+            "size": 35,
+            "id": "s11-4",
+            "instant": true
+          },
+          {
+            "type": "plant",
+            "x": 840,
+            "y": 455,
+            "scale": 0.75,
+            "id": "s11-5",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/folder_audit/frames/fullsize/f_0159.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "hospital ward retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "doctor and patient"
+        ],
+        "action": "doctor checks the patient report",
+        "setting": "hospital ward",
+        "facts": [
+          "doctor claims patient care is protected"
+        ],
+        "relationship": "doctor claims patient care is protected",
+        "tone": "professional confidence",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on doctor and patient.",
+          "Abstract evidence diagram for doctor claims patient care is protected."
+        ],
+        "mechanism": "specific hospital task",
+        "composition": "doctor, patient bed and IV form a grounded ward",
+        "visibleChange": "doctor lifts and reads the report",
+        "actionPeak": "report reaches the doctor gaze beside patient",
+        "cameraPurpose": "medium ward framing",
+        "transition": "cut to classroom",
+        "why": "The claim is embodied by real patient work rather than a generic doctor icon."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from f_0159.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "রোগী দেখা এআই পারবে না?",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "doctor checks the patient report",
+        "motivation": "The claim is embodied by real patient work rather than a generic doctor icon.",
+        "anticipation": "doctor and patient orient head and weight toward the acting object before contact.",
+        "contact": "report reaches the doctor gaze beside patient; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "report reaches the doctor gaze beside patient",
+        "followThrough": "The action settles with a readable hold before cut to classroom.",
+        "secondaryMotion": "hospital ward uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "medium ward framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes hospital ward with readable subject hierarchy.",
+        "middle": "Action peak checked: report reaches the doctor gaze beside patient.",
+        "end": "Final hold leaves the narrated relationship legible before cut to classroom.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-013",
+      "t0": 49.0,
+      "t1": 52.0,
+      "scene": "compose",
+      "cueIndex": 12,
+      "scriptLine": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?",
+      "visualIntent": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে? | A teacher writes directly on a full classroom board; three seated students face their desks.",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 465,
+        "objects": [
+          {
+            "type": "blackboard",
+            "x": 600,
+            "y": 430,
+            "scale": 1.55,
+            "text": "ক খ গ",
+            "id": "s12-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 370,
+            "y": 465,
+            "h": 190,
+            "variant": 1,
+            "action": "write",
+            "id": "s12-1",
+            "instant": true
+          },
+          {
+            "type": "writing_marks",
+            "x": 0,
+            "y": 0,
+            "actorX": 370,
+            "actorY": 465,
+            "actorHeight": 190,
+            "id": "s12-2",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 530,
+            "y": 465,
+            "h": 115,
+            "variant": 0,
+            "pose": "sit",
+            "action": "rest",
+            "id": "s12-3",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 670,
+            "y": 465,
+            "h": 115,
+            "variant": 1,
+            "pose": "sit",
+            "action": "rest",
+            "id": "s12-4",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 810,
+            "y": 465,
+            "h": 115,
+            "variant": 2,
+            "pose": "sit",
+            "action": "rest",
+            "id": "s12-5",
+            "instant": true
+          },
+          {
+            "type": "desk",
+            "x": 577,
+            "y": 465,
+            "monitor": false,
+            "scale": 0.7,
+            "id": "s12-6",
+            "instant": true
+          },
+          {
+            "type": "desk",
+            "x": 717,
+            "y": 465,
+            "monitor": false,
+            "scale": 0.7,
+            "id": "s12-7",
+            "instant": true
+          },
+          {
+            "type": "desk",
+            "x": 857,
+            "y": 465,
+            "monitor": false,
+            "scale": 0.7,
+            "id": "s12-8",
+            "instant": true
+          },
+          {
+            "type": "fan",
+            "x": 260,
+            "y": 145,
+            "id": "s12-9",
+            "instant": true
+          },
+          {
+            "type": "window",
+            "x": 130,
+            "y": 320,
+            "w": 100,
+            "h": 140,
+            "id": "s12-10",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "classroom retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "teacher and students"
+        ],
+        "action": "teacher writes while students attend",
+        "setting": "classroom",
+        "facts": [
+          "teacher claims children need a teacher"
+        ],
+        "relationship": "teacher claims children need a teacher",
+        "tone": "professional confidence",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on teacher and students.",
+          "Abstract evidence diagram for teacher claims children need a teacher."
+        ],
+        "mechanism": "specific classroom task",
+        "composition": "teacher occupies board edge while students form a seated row",
+        "visibleChange": "chalk path grows under the actual hand",
+        "actionPeak": "chalk touches the board as students face forward",
+        "cameraPurpose": "wide teaching tableau",
+        "transition": "cut to sewing close-up",
+        "why": "Teacher identity comes from teaching action and a populated room."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_008_profession_rooms.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "ক খ গ",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "teacher writes while students attend",
+        "motivation": "Teacher identity comes from teaching action and a populated room.",
+        "anticipation": "teacher and students orient head and weight toward the acting object before contact.",
+        "contact": "chalk touches the board as students face forward; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "chalk touches the board as students face forward",
+        "followThrough": "The action settles with a readable hold before cut to sewing close-up.",
+        "secondaryMotion": "classroom uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "wide teaching tableau supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes classroom with readable subject hierarchy.",
+        "middle": "Action peak checked: chalk touches the board as students face forward.",
+        "end": "Final hold leaves the narrated relationship legible before cut to sewing close-up.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-014",
+      "t0": 52.0,
+      "t1": 55.0,
+      "scene": "compose",
+      "cueIndex": 13,
+      "scriptLine": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?",
+      "visualIntent": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি? | Close sewing-floor view: both hands feed cloth across the tabletop and the needle repeatedly penetrates it.",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "paper",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "window",
+            "x": 750,
+            "y": 305,
+            "w": 170,
+            "h": 125,
+            "id": "s13-0",
+            "instant": true
+          },
+          {
+            "type": "person",
+            "x": 285,
+            "y": 455,
+            "h": 210,
+            "variant": 2,
+            "pose": "sit",
+            "action": "sew",
+            "id": "s13-1",
+            "instant": true
+          },
+          {
+            "type": "sewing_table",
+            "x": 400,
+            "y": 455,
+            "id": "s13-2",
+            "instant": true
+          },
+          {
+            "type": "sewing_feed",
+            "x": 395,
+            "y": 369,
+            "id": "s13-3",
+            "instant": true
+          },
+          {
+            "type": "sewing_machine_active",
+            "x": 395,
+            "y": 377,
+            "id": "s13-4",
+            "instant": true
+          },
+          {
+            "type": "fabric_rolls",
+            "x": 700,
+            "y": 455,
+            "id": "s13-5",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 470,
+            "y": 150,
+            "text": "রোবট আবার সেলাই করবে নাকি?",
+            "size": 34,
+            "id": "s13-6",
+            "instant": true
+          },
+          {
+            "type": "fan",
+            "x": 180,
+            "y": 150,
+            "id": "s13-7",
+            "instant": true
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "sewing floor retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "garment worker"
+        ],
+        "action": "worker feeds cloth through the sewing machine",
+        "setting": "sewing floor",
+        "facts": [
+          "worker doubts robot sewing"
+        ],
+        "relationship": "worker doubts robot sewing",
+        "tone": "professional confidence",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on garment worker.",
+          "Abstract evidence diagram for worker doubts robot sewing."
+        ],
+        "mechanism": "specific sewing task",
+        "composition": "worker hands, cloth, needle and table form one contact chain",
+        "visibleChange": "cloth advances while needle cycles",
+        "actionPeak": "both hands guide cloth beneath the needle",
+        "cameraPurpose": "close task framing",
+        "transition": "cut to dark AI lab",
+        "why": "Physical contact makes the profession credible and animated."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_008_profession_rooms.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "রোবট আবার সেলাই করবে নাকি?",
+          "basis": "script",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "worker feeds cloth through the sewing machine",
+        "motivation": "Physical contact makes the profession credible and animated.",
+        "anticipation": "garment worker orient head and weight toward the acting object before contact.",
+        "contact": "both hands guide cloth beneath the needle; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "both hands guide cloth beneath the needle",
+        "followThrough": "The action settles with a readable hold before cut to dark AI lab.",
+        "secondaryMotion": "sewing floor uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "close task framing supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes sewing floor with readable subject hierarchy.",
+        "middle": "Action peak checked: both hands guide cloth beneath the needle.",
+        "end": "Final hold leaves the narrated relationship legible before cut to dark AI lab.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    },
+    {
+      "id": "line-015",
+      "t0": 55.0,
+      "t1": 60,
+      "scene": "compose",
+      "cueIndex": 14,
+      "scriptLine": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।",
+      "visualIntent": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না। | Cut into a separate AI lab: three researchers type asynchronously beneath task displays, contrasting their proximity with casual confidence.",
+      "chapter": 2,
+      "chapterTitle": "সবার একটা অজুহাত",
+      "shot": {
+        "backdrop": "night",
+        "floor": true,
+        "floorY": 455,
+        "objects": [
+          {
+            "type": "window",
+            "x": 220,
+            "y": 310,
+            "w": 280,
+            "h": 190,
+            "night": true,
+            "id": "s14-0",
+            "instant": true
+          },
+          {
+            "type": "lab_wall",
+            "x": 650,
+            "y": 320,
+            "id": "s14-1",
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 210,
+            "y": 455,
+            "s": 1.1,
+            "ai": true,
+            "variant": 0,
+            "phase": 0.0,
+            "id": "s14-2",
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 420,
+            "y": 455,
+            "s": 1.1,
+            "ai": true,
+            "variant": 1,
+            "phase": 1.7,
+            "id": "s14-3",
+            "instant": true
+          },
+          {
+            "type": "office_station",
+            "x": 630,
+            "y": 455,
+            "s": 1.1,
+            "ai": true,
+            "variant": 2,
+            "phase": 3.4,
+            "id": "s14-4",
+            "instant": true
+          },
+          {
+            "type": "label",
+            "x": 480,
+            "y": 135,
+            "text": "যারা এআইকে কাছ থেকে দেখছে…",
+            "size": 34,
+            "color": "#E9E4D2",
+            "id": "s14-5",
+            "instant": true
+          },
+          {
+            "type": "plant",
+            "x": 860,
+            "y": 455,
+            "scale": 0.8,
+            "id": "s14-6",
+            "instant": true
+          },
+          {
+            "id": "lab-controls",
+            "type": "control_panel_live",
+            "x": 815,
+            "y": 375,
+            "scale": 0.6,
+            "instant": true,
+            "keyframes": [
+              {
+                "at": 0,
+                "lever": 0
+              },
+              {
+                "at": 0.7,
+                "lever": 0.8
+              },
+              {
+                "at": 1.2,
+                "lever": 0.65
+              }
+            ]
+          }
+        ],
+        "links": []
+      },
+      "styleRefs": [
+        "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+      ],
+      "continuity": {
+        "cast": "Guide identity and each profession variant remain stable.",
+        "place": "AI lab retains grounded furniture and baseline.",
+        "props": "Returning records, phones and tools retain silhouette and palette."
+      },
+      "semanticAnalysis": {
+        "actors": [
+          "AI workers"
+        ],
+        "action": "researchers actively operate AI systems",
+        "setting": "AI lab",
+        "facts": [
+          "closest observers are less relaxed"
+        ],
+        "relationship": "closest observers are less relaxed",
+        "tone": "uneasy reversal",
+        "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+        "uncertainty": "Keep approximate quantities approximate.",
+        "notes": "Read with neighboring cues; do not turn belief into verified fact."
+      },
+      "designDecision": {
+        "alternatives": [
+          "Literal reenactment centered on AI workers.",
+          "Abstract evidence diagram for closest observers are less relaxed."
+        ],
+        "mechanism": "active AI laboratory",
+        "composition": "three asynchronous operators sit below dense task displays",
+        "visibleChange": "hands type at different phases while screens remain blue",
+        "actionPeak": "multiple workers operate systems simultaneously",
+        "cameraPurpose": "wide lab observation",
+        "transition": "hold into next argument",
+        "why": "Proximity is expressed through active daily work with the system."
+      },
+      "referenceUse": [
+        "Borrow staging, silhouette density, material and motion mechanism from ref_009_ai_lab_survey.jpg."
+      ],
+      "copyLedger": [
+        {
+          "text": "যারা এআইকে কাছ থেকে দেখছে…",
+          "basis": "editorial",
+          "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+        }
+      ],
+      "factBasis": [],
+      "animationPlan": {
+        "primaryAction": "researchers actively operate AI systems",
+        "motivation": "Proximity is expressed through active daily work with the system.",
+        "anticipation": "AI workers orient head and weight toward the acting object before contact.",
+        "contact": "multiple workers operate systems simultaneously; hands and any held prop share the same rig socket.",
+        "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+        "actionPeak": "multiple workers operate systems simultaneously",
+        "followThrough": "The action settles with a readable hold before hold into next argument.",
+        "secondaryMotion": "AI lab uses offset breathing, tool response or environmental motion without synchronized looping.",
+        "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+        "cameraMotivation": "wide lab observation supports the narrated relationship rather than decorative drift.",
+        "intentionalHold": false,
+        "holdReason": ""
+      },
+      "review": {
+        "start": "Opening state establishes AI lab with readable subject hierarchy.",
+        "middle": "Action peak checked: multiple workers operate systems simultaneously.",
+        "end": "Final hold leaves the narrated relationship legible before hold into next argument.",
+        "issues": [
+          "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+        ],
+        "fixes": [
+          "Aligned held props to wrists, corrected baselines and separated text bands where required."
+        ],
+        "approved": true
+      }
+    }
+  ],
+  "planning": "Director-approved cue dossiers with distinct mechanisms, shared continuity, reference evidence, physical action and start/middle/end review.",
+  "planningStatus": "authored",
+  "styleLock": "style-lock.json",
+  "cast": {
+    "guide": {
+      "role": "guide",
+      "variant": 0,
+      "color": "#FF3D17",
+      "legColor": "#272A3A"
+    }
+  },
+  "episodeNumber": "02",
+  "progressDuration": 637.166667,
+  "revisionNotes": "Restored 41–43.4s blue chapter card; retained full-episode progress scale; removed inferred calendar year from comparison.",
+  "directorVersion": 1,
+  "episodeDesign": {
+    "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+    "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+    "chapterArc": [
+      "Immediate evidence: offer and layoffs",
+      "Beliefs: why each profession feels protected"
+    ],
+    "castBible": {
+      "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+      "extras": "Slender faceless variants retain profession clothing and hair."
+    },
+    "locationBible": {
+      "street": "Established tea stall, palm, road and city depth retain geography.",
+      "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+    },
+    "visualMotifs": [
+      "evidence cards become physical environments",
+      "red marks risk or disputed confidence",
+      "blue marks AI systems and chapter pages"
+    ],
+    "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+    "chapterCardPlan": [
+      {
+        "at": 41,
+        "chapter": 2,
+        "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+      }
+    ],
+    "continuityRisks": [
+      "Guide identity drift",
+      "cream clothing disappearing on paper",
+      "held props separating from hands",
+      "statistics losing a shared scale"
+    ]
+  },
+  "directorStatus": "approved",
+  "motionRevision": "Distinct line-specific sets; articulated hands; phone raise, report handling, writing, sewing feed and needle, asynchronous typing."
+}

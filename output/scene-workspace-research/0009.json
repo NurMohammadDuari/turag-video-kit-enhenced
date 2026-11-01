@@ -1,0 +1,195 @@
+{
+  "index": 8,
+  "sourceBeatHash": "e205cb4a26525c24ecab8d6fbf950f4b00cce25b9d2833d170e70479c9711b56",
+  "context": {
+    "previousLine": "মানে নয় মাসেই আগের পুরা বছরের দুই গুণের বেশি।",
+    "nextLine": "আসলেই? চলেন, একটু দেখি।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-009",
+    "t0": 36.0,
+    "t1": 39.0,
+    "scene": "compose",
+    "cueIndex": 8,
+    "scriptLine": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\"",
+    "visualIntent": "তাও আমরা কী বলি? \"আমার কাজ এআই পারবে না।\" | Guide raises a phone while making the quoted claim at the established street tea stall.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "street",
+      "floor": true,
+      "floorY": 465,
+      "objects": [
+        {
+          "type": "palm",
+          "x": 455,
+          "y": 370,
+          "scale": 0.8,
+          "id": "s8-0",
+          "instant": true
+        },
+        {
+          "type": "tea_stall",
+          "x": 770,
+          "y": 465,
+          "id": "s8-1",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 310,
+          "y": 465,
+          "h": 190,
+          "role": "guide",
+          "action": "phone",
+          "id": "s8-2",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 610,
+          "y": 465,
+          "h": 135,
+          "variant": 3,
+          "pose": "sit",
+          "action": "rest",
+          "id": "s8-3",
+          "instant": true
+        },
+        {
+          "type": "chat",
+          "x": 390,
+          "y": 230,
+          "text": "আমার কাজ এআই পারবে না।",
+          "scale": 1.2,
+          "id": "s8-4",
+          "instant": true
+        },
+        {
+          "type": "rickshaw",
+          "x": 90,
+          "y": 415,
+          "scale": 0.5,
+          "motion": {
+            "kind": "walk",
+            "speed": 25
+          },
+          "id": "s8-5",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0009.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "established street retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "guide"
+      ],
+      "action": "guide raises the quoted belief on his phone",
+      "setting": "established street",
+      "facts": [
+        "quote: my work cannot be done by AI"
+      ],
+      "relationship": "quote: my work cannot be done by AI",
+      "tone": "confident",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on guide.",
+        "Abstract evidence diagram for quote: my work cannot be done by AI."
+      ],
+      "mechanism": "established street claim",
+      "composition": "guide and speech card sit within tea-stall geography",
+      "visibleChange": "phone rises and quoted belief appears",
+      "actionPeak": "phone reaches eye line as claim holds",
+      "cameraPurpose": "stable street tableau",
+      "transition": "cut into claim detail",
+      "why": "A recurring human place grounds the belief as something people say."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0009.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "আমার কাজ এআই পারবে না।",
+        "basis": "script",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "guide raises the quoted belief on his phone",
+      "motivation": "A recurring human place grounds the belief as something people say.",
+      "anticipation": "guide orient head and weight toward the acting object before contact.",
+      "contact": "phone reaches eye line as claim holds; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "phone reaches eye line as claim holds",
+      "followThrough": "The action settles with a readable hold before cut into claim detail.",
+      "secondaryMotion": "established street uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "stable street tableau supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes established street with readable subject hierarchy.",
+      "middle": "Action peak checked: phone reaches eye line as claim holds.",
+      "end": "Final hold leaves the narrated relationship legible before cut into claim detail.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

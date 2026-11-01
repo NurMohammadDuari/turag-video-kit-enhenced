@@ -1,0 +1,17 @@
+START: Read GIVE_THIS_TO_AI.md for the copy-and-paste prompt and handoff steps.
+Read HOW_TO_USE.md for the technical workflow.
+Current full episode project: episodes/ep02-full-directed.json.
+Full video: output/Turag_Full_Episode.mp4 (available after the render completes).
+
+Give the complete toolkit to an AI with image, file and code tools.
+Provide only your timestamped script and narration audio.
+Paste this:
+
+Read REFERENCE_FIRST.md, then 01_MASTER_PROMPT.md. My supplied reference videos
+and image folders define the specific look I want. Analyze my new timestamped
+script and audio. Decide how to show every line and invent whatever scenes,
+characters, props, backgrounds, actions and camera moves it needs, drawing and
+animating them in that reference style throughout. Extend or correct the shared
+artwork when needed. Compare your shots against the actual reference images,
+fix visible differences, and render my complete video. Handle all creative
+scene decisions yourself. Deliver the MP4, portable preview and editable project.

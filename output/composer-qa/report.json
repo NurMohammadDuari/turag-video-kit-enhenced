@@ -1,0 +1,599 @@
+{
+  "duration": 637.257143,
+  "beats": 115,
+  "cues": 115,
+  "sceneTypes": [
+    "compose"
+  ],
+  "testedTimes": 577,
+  "maxDrawMs": 77.3000000002794,
+  "blank": [],
+  "nondeterministic": [],
+  "samples": [
+    {
+      "id": "line-001",
+      "scene": "compose",
+      "t": 2
+    },
+    {
+      "id": "line-002",
+      "scene": "compose",
+      "t": 7
+    },
+    {
+      "id": "line-003",
+      "scene": "compose",
+      "t": 11.5
+    },
+    {
+      "id": "line-004",
+      "scene": "compose",
+      "t": 15
+    },
+    {
+      "id": "line-005",
+      "scene": "compose",
+      "t": 18.5
+    },
+    {
+      "id": "line-006",
+      "scene": "compose",
+      "t": 24
+    },
+    {
+      "id": "line-007",
+      "scene": "compose",
+      "t": 30
+    },
+    {
+      "id": "line-008",
+      "scene": "compose",
+      "t": 34
+    },
+    {
+      "id": "line-009",
+      "scene": "compose",
+      "t": 37.5
+    },
+    {
+      "id": "line-010",
+      "scene": "compose",
+      "t": 40
+    },
+    {
+      "id": "line-011",
+      "scene": "compose",
+      "t": 43.5
+    },
+    {
+      "id": "line-012",
+      "scene": "compose",
+      "t": 47.5
+    },
+    {
+      "id": "line-013",
+      "scene": "compose",
+      "t": 50.5
+    },
+    {
+      "id": "line-014",
+      "scene": "compose",
+      "t": 53.5
+    },
+    {
+      "id": "line-015",
+      "scene": "compose",
+      "t": 58
+    },
+    {
+      "id": "line-016",
+      "scene": "compose",
+      "t": 63
+    },
+    {
+      "id": "line-017",
+      "scene": "compose",
+      "t": 67.5
+    },
+    {
+      "id": "line-018",
+      "scene": "compose",
+      "t": 72
+    },
+    {
+      "id": "line-019",
+      "scene": "compose",
+      "t": 77.5
+    },
+    {
+      "id": "line-020",
+      "scene": "compose",
+      "t": 82.5
+    },
+    {
+      "id": "line-021",
+      "scene": "compose",
+      "t": 85.5
+    },
+    {
+      "id": "line-022",
+      "scene": "compose",
+      "t": 88
+    },
+    {
+      "id": "line-023",
+      "scene": "compose",
+      "t": 92.5
+    },
+    {
+      "id": "line-024",
+      "scene": "compose",
+      "t": 100
+    },
+    {
+      "id": "line-025",
+      "scene": "compose",
+      "t": 105.5
+    },
+    {
+      "id": "line-026",
+      "scene": "compose",
+      "t": 108.5
+    },
+    {
+      "id": "line-027",
+      "scene": "compose",
+      "t": 114.5
+    },
+    {
+      "id": "line-028",
+      "scene": "compose",
+      "t": 122.5
+    },
+    {
+      "id": "line-029",
+      "scene": "compose",
+      "t": 128
+    },
+    {
+      "id": "line-030",
+      "scene": "compose",
+      "t": 132
+    },
+    {
+      "id": "line-031",
+      "scene": "compose",
+      "t": 135.5
+    },
+    {
+      "id": "line-032",
+      "scene": "compose",
+      "t": 140.5
+    },
+    {
+      "id": "line-033",
+      "scene": "compose",
+      "t": 147.5
+    },
+    {
+      "id": "line-034",
+      "scene": "compose",
+      "t": 154
+    },
+    {
+      "id": "line-035",
+      "scene": "compose",
+      "t": 158.5
+    },
+    {
+      "id": "line-036",
+      "scene": "compose",
+      "t": 163.5
+    },
+    {
+      "id": "line-037",
+      "scene": "compose",
+      "t": 170.5
+    },
+    {
+      "id": "line-038",
+      "scene": "compose",
+      "t": 177.5
+    },
+    {
+      "id": "line-039",
+      "scene": "compose",
+      "t": 187
+    },
+    {
+      "id": "line-040",
+      "scene": "compose",
+      "t": 195
+    },
+    {
+      "id": "line-041",
+      "scene": "compose",
+      "t": 200.5
+    },
+    {
+      "id": "line-042",
+      "scene": "compose",
+      "t": 206.5
+    },
+    {
+      "id": "line-043",
+      "scene": "compose",
+      "t": 213
+    },
+    {
+      "id": "line-044",
+      "scene": "compose",
+      "t": 218.5
+    },
+    {
+      "id": "line-045",
+      "scene": "compose",
+      "t": 221.5
+    },
+    {
+      "id": "line-046",
+      "scene": "compose",
+      "t": 226
+    },
+    {
+      "id": "line-047",
+      "scene": "compose",
+      "t": 231
+    },
+    {
+      "id": "line-048",
+      "scene": "compose",
+      "t": 235
+    },
+    {
+      "id": "line-049",
+      "scene": "compose",
+      "t": 238.5
+    },
+    {
+      "id": "line-050",
+      "scene": "compose",
+      "t": 242
+    },
+    {
+      "id": "line-051",
+      "scene": "compose",
+      "t": 247
+    },
+    {
+      "id": "line-052",
+      "scene": "compose",
+      "t": 253.5
+    },
+    {
+      "id": "line-053",
+      "scene": "compose",
+      "t": 259.5
+    },
+    {
+      "id": "line-054",
+      "scene": "compose",
+      "t": 265
+    },
+    {
+      "id": "line-055",
+      "scene": "compose",
+      "t": 270
+    },
+    {
+      "id": "line-056",
+      "scene": "compose",
+      "t": 276
+    },
+    {
+      "id": "line-057",
+      "scene": "compose",
+      "t": 281
+    },
+    {
+      "id": "line-058",
+      "scene": "compose",
+      "t": 284.5
+    },
+    {
+      "id": "line-059",
+      "scene": "compose",
+      "t": 290
+    },
+    {
+      "id": "line-060",
+      "scene": "compose",
+      "t": 295.5
+    },
+    {
+      "id": "line-061",
+      "scene": "compose",
+      "t": 301
+    },
+    {
+      "id": "line-062",
+      "scene": "compose",
+      "t": 306
+    },
+    {
+      "id": "line-063",
+      "scene": "compose",
+      "t": 309.5
+    },
+    {
+      "id": "line-064",
+      "scene": "compose",
+      "t": 315.5
+    },
+    {
+      "id": "line-065",
+      "scene": "compose",
+      "t": 322
+    },
+    {
+      "id": "line-066",
+      "scene": "compose",
+      "t": 328
+    },
+    {
+      "id": "line-067",
+      "scene": "compose",
+      "t": 333.5
+    },
+    {
+      "id": "line-068",
+      "scene": "compose",
+      "t": 339.5
+    },
+    {
+      "id": "line-069",
+      "scene": "compose",
+      "t": 348.5
+    },
+    {
+      "id": "line-070",
+      "scene": "compose",
+      "t": 355.5
+    },
+    {
+      "id": "line-071",
+      "scene": "compose",
+      "t": 362.5
+    },
+    {
+      "id": "line-072",
+      "scene": "compose",
+      "t": 370
+    },
+    {
+      "id": "line-073",
+      "scene": "compose",
+      "t": 375
+    },
+    {
+      "id": "line-074",
+      "scene": "compose",
+      "t": 379.5
+    },
+    {
+      "id": "line-075",
+      "scene": "compose",
+      "t": 387
+    },
+    {
+      "id": "line-076",
+      "scene": "compose",
+      "t": 395
+    },
+    {
+      "id": "line-077",
+      "scene": "compose",
+      "t": 402
+    },
+    {
+      "id": "line-078",
+      "scene": "compose",
+      "t": 409.5
+    },
+    {
+      "id": "line-079",
+      "scene": "compose",
+      "t": 419
+    },
+    {
+      "id": "line-080",
+      "scene": "compose",
+      "t": 428.5
+    },
+    {
+      "id": "line-081",
+      "scene": "compose",
+      "t": 434
+    },
+    {
+      "id": "line-082",
+      "scene": "compose",
+      "t": 437.5
+    },
+    {
+      "id": "line-083",
+      "scene": "compose",
+      "t": 443
+    },
+    {
+      "id": "line-084",
+      "scene": "compose",
+      "t": 449.5
+    },
+    {
+      "id": "line-085",
+      "scene": "compose",
+      "t": 456
+    },
+    {
+      "id": "line-086",
+      "scene": "compose",
+      "t": 462
+    },
+    {
+      "id": "line-087",
+      "scene": "compose",
+      "t": 467.5
+    },
+    {
+      "id": "line-088",
+      "scene": "compose",
+      "t": 473.5
+    },
+    {
+      "id": "line-089",
+      "scene": "compose",
+      "t": 478.5
+    },
+    {
+      "id": "line-090",
+      "scene": "compose",
+      "t": 484
+    },
+    {
+      "id": "line-091",
+      "scene": "compose",
+      "t": 489.5
+    },
+    {
+      "id": "line-092",
+      "scene": "compose",
+      "t": 494.5
+    },
+    {
+      "id": "line-093",
+      "scene": "compose",
+      "t": 500
+    },
+    {
+      "id": "line-094",
+      "scene": "compose",
+      "t": 505.5
+    },
+    {
+      "id": "line-095",
+      "scene": "compose",
+      "t": 510.5
+    },
+    {
+      "id": "line-096",
+      "scene": "compose",
+      "t": 514.5
+    },
+    {
+      "id": "line-097",
+      "scene": "compose",
+      "t": 519
+    },
+    {
+      "id": "line-098",
+      "scene": "compose",
+      "t": 525.5
+    },
+    {
+      "id": "line-099",
+      "scene": "compose",
+      "t": 532
+    },
+    {
+      "id": "line-100",
+      "scene": "compose",
+      "t": 536.5
+    },
+    {
+      "id": "line-101",
+      "scene": "compose",
+      "t": 542
+    },
+    {
+      "id": "line-102",
+      "scene": "compose",
+      "t": 548
+    },
+    {
+      "id": "line-103",
+      "scene": "compose",
+      "t": 554
+    },
+    {
+      "id": "line-104",
+      "scene": "compose",
+      "t": 559.5
+    },
+    {
+      "id": "line-105",
+      "scene": "compose",
+      "t": 563
+    },
+    {
+      "id": "line-106",
+      "scene": "compose",
+      "t": 567.5
+    },
+    {
+      "id": "line-107",
+      "scene": "compose",
+      "t": 574.5
+    },
+    {
+      "id": "line-108",
+      "scene": "compose",
+      "t": 581
+    },
+    {
+      "id": "line-109",
+      "scene": "compose",
+      "t": 586
+    },
+    {
+      "id": "line-110",
+      "scene": "compose",
+      "t": 592.5
+    },
+    {
+      "id": "line-111",
+      "scene": "compose",
+      "t": 600
+    },
+    {
+      "id": "line-112",
+      "scene": "compose",
+      "t": 608.5
+    },
+    {
+      "id": "line-113",
+      "scene": "compose",
+      "t": 617
+    },
+    {
+      "id": "line-114",
+      "scene": "compose",
+      "t": 626
+    },
+    {
+      "id": "line-115",
+      "scene": "compose",
+      "t": 634.1285715
+    }
+  ],
+  "fonts": [
+    "800 32px \"Anek Bangla\"",
+    "600 19px \"Hind Siliguri\"",
+    "400 10px \"Space Mono\"",
+    "700 10px \"Space Mono\""
+  ],
+  "errors": [],
+  "maxSubtitleWidth": 808.1860961914062,
+  "browserErrors": [],
+  "networkRequests": []
+}

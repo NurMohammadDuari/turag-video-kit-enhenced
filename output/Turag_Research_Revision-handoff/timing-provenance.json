@@ -1,0 +1,10 @@
+{
+  "timing": {
+    "method": "user_supplied_timecodes",
+    "verified": false,
+    "note": "Timecodes are supplied editorial cues, not independently forced-aligned to speech."
+  },
+  "duration": 60,
+  "audio": "audio/ep02_first_minute.mp3",
+  "note": "These exports preserve supplied manifest timing. Exporting subtitles does not independently verify speech alignment."
+}

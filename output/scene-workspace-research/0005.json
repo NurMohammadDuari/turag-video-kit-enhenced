@@ -1,0 +1,271 @@
+{
+  "index": 4,
+  "sourceBeatHash": "a47b3ddde1ede11879f557e945914b035b3c72bee5b00faa7f5bcb9aa535e6d3",
+  "context": {
+    "previousLine": "৬০ হাজার মানে পুরা কোম্পানির প্রায় চার ভাগের এক ভাগ।",
+    "nextLine": "এই বছরের প্রথম নয় মাসে আমেরিকার কোম্পানিগুলা প্রায় ১ লাখ ২০ হাজার ছাঁটাইয়ের কারণ হিসেবে সরাসরি এআই এর নাম নিছে।",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-005",
+    "t0": 17.0,
+    "t1": 20.0,
+    "scene": "compose",
+    "cueIndex": 4,
+    "scriptLine": "আর এইটা একা মাইক্রোসফটের গল্প না।",
+    "visualIntent": "আর এইটা একা মাইক্রোসফটের গল্প না। | Four different company frontages and departing workers expand the story beyond Microsoft.",
+    "chapter": 1,
+    "chapterTitle": "চাকরি কি সেফ?",
+    "shot": {
+      "backdrop": "city",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "building",
+          "x": 180,
+          "y": 455,
+          "h": 190,
+          "label": "কোম্পানি",
+          "enter": 0.0,
+          "id": "s4-0",
+          "instant": true
+        },
+        {
+          "type": "building",
+          "x": 380,
+          "y": 455,
+          "h": 250,
+          "label": "কোম্পানি",
+          "enter": 0.15,
+          "id": "s4-1",
+          "instant": false
+        },
+        {
+          "type": "building",
+          "x": 580,
+          "y": 455,
+          "h": 190,
+          "label": "কোম্পানি",
+          "enter": 0.3,
+          "id": "s4-2",
+          "instant": false
+        },
+        {
+          "type": "building",
+          "x": 780,
+          "y": 455,
+          "h": 250,
+          "label": "কোম্পানি",
+          "enter": 0.44999999999999996,
+          "id": "s4-3",
+          "instant": false
+        },
+        {
+          "type": "person",
+          "x": 135,
+          "y": 455,
+          "h": 105,
+          "variant": 0,
+          "pose": "walk",
+          "action": "carry",
+          "motion": {
+            "kind": "walk",
+            "speed": 18
+          },
+          "phase": 0,
+          "id": "s4-4",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 330,
+          "y": 455,
+          "h": 105,
+          "variant": 1,
+          "pose": "walk",
+          "action": "carry",
+          "motion": {
+            "kind": "walk",
+            "speed": 18
+          },
+          "phase": 1,
+          "id": "s4-5",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 525,
+          "y": 455,
+          "h": 105,
+          "variant": 2,
+          "pose": "walk",
+          "action": "carry",
+          "motion": {
+            "kind": "walk",
+            "speed": 18
+          },
+          "phase": 2,
+          "id": "s4-6",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 720,
+          "y": 455,
+          "h": 105,
+          "variant": 3,
+          "pose": "walk",
+          "action": "carry",
+          "motion": {
+            "kind": "walk",
+            "speed": 18
+          },
+          "phase": 3,
+          "id": "s4-7",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 480,
+          "y": 155,
+          "text": "একটি কোম্পানির গল্প নয়",
+          "size": 37,
+          "id": "s4-8",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/folder_audit/frames/fullsize/f_0154.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "city institutions retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "workers across companies"
+      ],
+      "action": "workers leave several employers",
+      "setting": "city institutions",
+      "facts": [
+        "not Microsoft alone"
+      ],
+      "relationship": "not Microsoft alone",
+      "tone": "expanding",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on workers across companies.",
+        "Abstract evidence diagram for not Microsoft alone."
+      ],
+      "mechanism": "institution row with departures",
+      "composition": "four varied buildings share one baseline",
+      "visibleChange": "box-carrying workers cross different doors",
+      "actionPeak": "departures occur across the whole row",
+      "cameraPurpose": "wide lateral observation",
+      "transition": "cut to national report board",
+      "why": "Breadth is shown by multiple employers rather than repeated text."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from f_0154.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "কোম্পানি",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "কোম্পানি",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "কোম্পানি",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "কোম্পানি",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      },
+      {
+        "text": "একটি কোম্পানির গল্প নয়",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "workers leave several employers",
+      "motivation": "Breadth is shown by multiple employers rather than repeated text.",
+      "anticipation": "workers across companies orient head and weight toward the acting object before contact.",
+      "contact": "departures occur across the whole row; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "departures occur across the whole row",
+      "followThrough": "The action settles with a readable hold before cut to national report board.",
+      "secondaryMotion": "city institutions uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "wide lateral observation supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes city institutions with readable subject hierarchy.",
+      "middle": "Action peak checked: departures occur across the whole row.",
+      "end": "Final hold leaves the narrated relationship legible before cut to national report board.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

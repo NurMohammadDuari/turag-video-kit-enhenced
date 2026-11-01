@@ -1,0 +1,26 @@
+[
+  {
+    "action": "typing",
+    "maxHandDisplacementAtHeight200": 5.195179109598214
+  },
+  {
+    "action": "phone",
+    "maxHandDisplacementAtHeight200": 59.860010788811714
+  },
+  {
+    "action": "write",
+    "maxHandDisplacementAtHeight200": 17.819109747266847
+  },
+  {
+    "action": "sew",
+    "maxHandDisplacementAtHeight200": 10.048094927147574
+  },
+  {
+    "action": "examine",
+    "maxHandDisplacementAtHeight200": 44.14653130070316
+  },
+  {
+    "action": "take",
+    "maxHandDisplacementAtHeight200": 43.862801010651395
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "index": 14,
+  "sourceBeatHash": "27a2e2a6c14968d9e8070ceb56f756adf7f8a61cdac0409672b3b73a43acb5b5",
+  "context": {
+    "previousLine": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?",
+    "nextLine": null,
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-015",
+    "t0": 55.0,
+    "t1": 60,
+    "scene": "compose",
+    "cueIndex": 14,
+    "scriptLine": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না।",
+    "visualIntent": "কিন্তু মজার ব্যাপার হলো, যারা এআই সবচেয়ে কাছ থেকে দেখে, তারা কিন্তু এত রিল্যাক্সড না। | Cut into a separate AI lab: three researchers type asynchronously beneath task displays, contrasting their proximity with casual confidence.",
+    "chapter": 2,
+    "chapterTitle": "সবার একটা অজুহাত",
+    "shot": {
+      "backdrop": "night",
+      "floor": true,
+      "floorY": 455,
+      "objects": [
+        {
+          "type": "window",
+          "x": 220,
+          "y": 310,
+          "w": 280,
+          "h": 190,
+          "night": true,
+          "id": "s14-0",
+          "instant": true
+        },
+        {
+          "type": "lab_wall",
+          "x": 650,
+          "y": 320,
+          "id": "s14-1",
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 210,
+          "y": 455,
+          "s": 1.1,
+          "ai": true,
+          "variant": 0,
+          "phase": 0.0,
+          "id": "s14-2",
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 420,
+          "y": 455,
+          "s": 1.1,
+          "ai": true,
+          "variant": 1,
+          "phase": 1.7,
+          "id": "s14-3",
+          "instant": true
+        },
+        {
+          "type": "office_station",
+          "x": 630,
+          "y": 455,
+          "s": 1.1,
+          "ai": true,
+          "variant": 2,
+          "phase": 3.4,
+          "id": "s14-4",
+          "instant": true
+        },
+        {
+          "type": "label",
+          "x": 480,
+          "y": 135,
+          "text": "যারা এআইকে কাছ থেকে দেখছে…",
+          "size": 34,
+          "color": "#E9E4D2",
+          "id": "s14-5",
+          "instant": true
+        },
+        {
+          "type": "plant",
+          "x": 860,
+          "y": 455,
+          "scale": 0.8,
+          "id": "s14-6",
+          "instant": true
+        },
+        {
+          "id": "lab-controls",
+          "type": "control_panel_live",
+          "x": 815,
+          "y": 375,
+          "scale": 0.6,
+          "instant": true,
+          "keyframes": [
+            {
+              "at": 0,
+              "lever": 0
+            },
+            {
+              "at": 0.7,
+              "lever": 0.8
+            },
+            {
+              "at": 1.2,
+              "lever": 0.65
+            }
+          ]
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_009_ai_lab_survey.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "AI lab retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "AI workers"
+      ],
+      "action": "researchers actively operate AI systems",
+      "setting": "AI lab",
+      "facts": [
+        "closest observers are less relaxed"
+      ],
+      "relationship": "closest observers are less relaxed",
+      "tone": "uneasy reversal",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on AI workers.",
+        "Abstract evidence diagram for closest observers are less relaxed."
+      ],
+      "mechanism": "active AI laboratory",
+      "composition": "three asynchronous operators sit below dense task displays",
+      "visibleChange": "hands type at different phases while screens remain blue",
+      "actionPeak": "multiple workers operate systems simultaneously",
+      "cameraPurpose": "wide lab observation",
+      "transition": "hold into next argument",
+      "why": "Proximity is expressed through active daily work with the system."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_009_ai_lab_survey.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "যারা এআইকে কাছ থেকে দেখছে…",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "researchers actively operate AI systems",
+      "motivation": "Proximity is expressed through active daily work with the system.",
+      "anticipation": "AI workers orient head and weight toward the acting object before contact.",
+      "contact": "multiple workers operate systems simultaneously; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "multiple workers operate systems simultaneously",
+      "followThrough": "The action settles with a readable hold before hold into next argument.",
+      "secondaryMotion": "AI lab uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "wide lab observation supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes AI lab with readable subject hierarchy.",
+      "middle": "Action peak checked: multiple workers operate systems simultaneously.",
+      "end": "Final hold leaves the narrated relationship legible before hold into next argument.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}

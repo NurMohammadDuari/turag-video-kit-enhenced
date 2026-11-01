@@ -1,0 +1,243 @@
+{
+  "index": 12,
+  "sourceBeatHash": "71eed4477cfc6bc2f635697d85aeee48790f3770ac0c89ff7df4c55a71332f25",
+  "context": {
+    "previousLine": "ডাক্তার বলে, রোগী দেখা এআই পারবে না।",
+    "nextLine": "গার্মেন্টসের লোক বলে, রোবট আবার সেলাই করবে নাকি?",
+    "episodeDesign": {
+      "thesis": "Job safety beliefs weaken when the scale, speed and breadth of AI-linked work change become visible.",
+      "emotionalArc": "Begin with unease, move through concrete evidence, confront confident excuses, then enter specific professions.",
+      "chapterArc": [
+        "Immediate evidence: offer and layoffs",
+        "Beliefs: why each profession feels protected"
+      ],
+      "castBible": {
+        "guide": "Same vermilion shirt, dark trousers and profile hair in every return.",
+        "extras": "Slender faceless variants retain profession clothing and hair."
+      },
+      "locationBible": {
+        "street": "Established tea stall, palm, road and city depth retain geography.",
+        "workplaces": "Grounded furniture, thin rails, windows and task-specific tools."
+      },
+      "visualMotifs": [
+        "evidence cards become physical environments",
+        "red marks risk or disputed confidence",
+        "blue marks AI systems and chapter pages"
+      ],
+      "densityRhythm": "Dense office opening, sparse evidence diagrams, grounded street pause, full blue chapter reset, then medium-density profession rooms.",
+      "chapterCardPlan": [
+        {
+          "at": 41,
+          "chapter": 2,
+          "treatment": "Blue page, red disc, striped Bengali 02 and cream/black headline."
+        }
+      ],
+      "continuityRisks": [
+        "Guide identity drift",
+        "cream clothing disappearing on paper",
+        "held props separating from hands",
+        "statistics losing a shared scale"
+      ]
+    },
+    "audio": "audio/ep02_first_minute.mp3",
+    "referencePolicy": "Inspect styleRefs. Invent missing artwork in the shared grammar."
+  },
+  "beat": {
+    "id": "line-013",
+    "t0": 49.0,
+    "t1": 52.0,
+    "scene": "compose",
+    "cueIndex": 12,
+    "scriptLine": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে?",
+    "visualIntent": "টিচার বলে, টিচার ছাড়া বাচ্চা পড়বে কেমনে? | A teacher writes directly on a full classroom board; three seated students face their desks.",
+    "chapter": 2,
+    "chapterTitle": "সবার একটা অজুহাত",
+    "shot": {
+      "backdrop": "paper",
+      "floor": true,
+      "floorY": 465,
+      "objects": [
+        {
+          "type": "blackboard",
+          "x": 600,
+          "y": 430,
+          "scale": 1.55,
+          "text": "ক খ গ",
+          "id": "s12-0",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 370,
+          "y": 465,
+          "h": 190,
+          "variant": 1,
+          "action": "write",
+          "id": "s12-1",
+          "instant": true
+        },
+        {
+          "type": "writing_marks",
+          "x": 0,
+          "y": 0,
+          "actorX": 370,
+          "actorY": 465,
+          "actorHeight": 190,
+          "id": "s12-2",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 530,
+          "y": 465,
+          "h": 115,
+          "variant": 0,
+          "pose": "sit",
+          "action": "rest",
+          "id": "s12-3",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 670,
+          "y": 465,
+          "h": 115,
+          "variant": 1,
+          "pose": "sit",
+          "action": "rest",
+          "id": "s12-4",
+          "instant": true
+        },
+        {
+          "type": "person",
+          "x": 810,
+          "y": 465,
+          "h": 115,
+          "variant": 2,
+          "pose": "sit",
+          "action": "rest",
+          "id": "s12-5",
+          "instant": true
+        },
+        {
+          "type": "desk",
+          "x": 577,
+          "y": 465,
+          "monitor": false,
+          "scale": 0.7,
+          "id": "s12-6",
+          "instant": true
+        },
+        {
+          "type": "desk",
+          "x": 717,
+          "y": 465,
+          "monitor": false,
+          "scale": 0.7,
+          "id": "s12-7",
+          "instant": true
+        },
+        {
+          "type": "desk",
+          "x": 857,
+          "y": 465,
+          "monitor": false,
+          "scale": 0.7,
+          "id": "s12-8",
+          "instant": true
+        },
+        {
+          "type": "fan",
+          "x": 260,
+          "y": 145,
+          "id": "s12-9",
+          "instant": true
+        },
+        {
+          "type": "window",
+          "x": 130,
+          "y": 320,
+          "w": 100,
+          "h": 140,
+          "id": "s12-10",
+          "instant": true
+        }
+      ],
+      "links": []
+    },
+    "styleRefs": [
+      "reference/analysis/scene_stills/ref_008_profession_rooms.jpg"
+    ],
+    "continuity": {
+      "cast": "Guide identity and each profession variant remain stable.",
+      "place": "classroom retains grounded furniture and baseline.",
+      "props": "Returning records, phones and tools retain silhouette and palette."
+    },
+    "semanticAnalysis": {
+      "actors": [
+        "teacher and students"
+      ],
+      "action": "teacher writes while students attend",
+      "setting": "classroom",
+      "facts": [
+        "teacher claims children need a teacher"
+      ],
+      "relationship": "teacher claims children need a teacher",
+      "tone": "professional confidence",
+      "negation": "Preserve any quoted denial or not-alone relationship exactly.",
+      "uncertainty": "Keep approximate quantities approximate.",
+      "notes": "Read with neighboring cues; do not turn belief into verified fact."
+    },
+    "designDecision": {
+      "alternatives": [
+        "Literal reenactment centered on teacher and students.",
+        "Abstract evidence diagram for teacher claims children need a teacher."
+      ],
+      "mechanism": "specific classroom task",
+      "composition": "teacher occupies board edge while students form a seated row",
+      "visibleChange": "chalk path grows under the actual hand",
+      "actionPeak": "chalk touches the board as students face forward",
+      "cameraPurpose": "wide teaching tableau",
+      "transition": "cut to sewing close-up",
+      "why": "Teacher identity comes from teaching action and a populated room."
+    },
+    "referenceUse": [
+      "Borrow staging, silhouette density, material and motion mechanism from ref_008_profession_rooms.jpg."
+    ],
+    "copyLedger": [
+      {
+        "text": "ক খ গ",
+        "basis": "editorial",
+        "explanation": "Wording either quotes the cue or condenses its stated meaning without adding a claim."
+      }
+    ],
+    "factBasis": [],
+    "animationPlan": {
+      "primaryAction": "teacher writes while students attend",
+      "motivation": "Teacher identity comes from teaching action and a populated room.",
+      "anticipation": "teacher and students orient head and weight toward the acting object before contact.",
+      "contact": "chalk touches the board as students face forward; hands and any held prop share the same rig socket.",
+      "weightShift": "Standing actors shift over the supporting foot; seated actors remain anchored through hips and chair.",
+      "actionPeak": "chalk touches the board as students face forward",
+      "followThrough": "The action settles with a readable hold before cut to sewing close-up.",
+      "secondaryMotion": "classroom uses offset breathing, tool response or environmental motion without synchronized looping.",
+      "gaze": "Head direction leads toward the active hand, evidence or conversation partner.",
+      "cameraMotivation": "wide teaching tableau supports the narrated relationship rather than decorative drift.",
+      "intentionalHold": false,
+      "holdReason": ""
+    },
+    "review": {
+      "start": "Opening state establishes classroom with readable subject hierarchy.",
+      "middle": "Action peak checked: chalk touches the board as students face forward.",
+      "end": "Final hold leaves the narrated relationship legible before cut to sewing close-up.",
+      "issues": [
+        "Checked hand contact, text collisions, floor contact and unsupported factual additions."
+      ],
+      "fixes": [
+        "Aligned held props to wrists, corrected baselines and separated text bands where required."
+      ],
+      "approved": true
+    }
+  },
+  "repairNotes": []
+}
